@@ -46,6 +46,7 @@ actions
 apps
 categories
 devices
+friction
 legacy
 mimetypes
 places
@@ -59,21 +60,6 @@ Comment=hicolor
 Example=folder
 Inherits=hicolor
 
-# KDE Specific Stuff
-DisplayDepth=32
-LinkOverlay=link_overlay
-LockOverlay=lock_overlay
-ZipOverlay=zip_overlay
-DesktopDefault=32
-DesktopSizes=16,32
-ToolbarDefault=32
-ToolbarSizes=16,32
-MainToolbarDefault=32
-MainToolbarSizes=16,32
-SmallDefault=16
-SmallSizes=16
-PanelDefault=32
-PanelSizes=16,32
 "
 INDEX_THEME_DIRS="Directories="
 INDEX_THEME_CATS=""
@@ -81,7 +67,7 @@ INDEX_THEME_CATS=""
 QRC="${CWD}/hicolor.qrc"
 RCC="<RCC> \n
     <qresource prefix=\"/\"> \n
-    <file>icons/hicolor/index.theme</file> \n
+    <file alias='icons/hicolor/index.theme'>hicolor/index.theme</file> \n
 "
 
 for W in $HICOLOR_SIZES; do
@@ -104,28 +90,26 @@ Type=Fixed
             ICONS=""
         fi
         DIR="${HICOLOR_DIR}/${W}x${W}/${C}"
-        echo "==> check for ${DIR} ..."
         if [ ! -d "${DIR}" ]; then
             mkdir -p "${DIR}"
         fi
         for ICON in $ICONS; do
-            if [ ! -f "${DIR}/${ICON}.png" ] || [ "${FORCE_GEN}" = 1 ]; then
-                echo "==> make ${ICON}.png (${W}x${W}) from ${ICON}.svg ..."
-                $INKSCAPE \
-                --export-background-opacity=0 \
-                --export-width=${W} \
-                --export-height=${W} \
-                --export-type=png \
-                --export-filename="${DIR}/${ICON}.png" \
-                "${HICOLOR_SVG}/${C}/${ICON}.svg"
-            else
-                echo "==> ${DIR}/${ICON}.png already exists"
+            if [ -f "${HICOLOR_SVG}/${C}/${ICON}.svg" ]; then
+                if [ ! -f "${DIR}/${ICON}.png" ] || [ "${FORCE_GEN}" = 1 ]; then
+                    $INKSCAPE \
+                    --export-background-opacity=0 \
+                    --export-width=${W} \
+                    --export-height=${W} \
+                    --export-type=png \
+                    --export-filename="${DIR}/${ICON}.png" \
+                    "${HICOLOR_SVG}/${C}/${ICON}.svg"
+                fi
             fi
         done
         PNGS=`ls ${DIR}`
         for PNG in $PNGS; do
             RCC="${RCC}
-        <file>icons/hicolor/${W}x${W}/${C}/${PNG}</file>\n
+        <file alias='icons/hicolor/${W}x${W}/${C}/${PNG}'>hicolor/${W}x${W}/${C}/${PNG}</file>\n
 "
         done
     done
@@ -143,3 +127,4 @@ if [ "${INDEX}" = 1 ] || [ ! -f "${INDEX_THEME}" ]; then
 fi
 
 echo ${RCC} > ${QRC}
+echo "OK!"
