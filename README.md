@@ -6,6 +6,7 @@ Icons used in Friction.
 
 * Friction icon is a modification of an icon made by sixsixfive
 * [Andrzej Ambroż](https://devtalk.blender.org/u/jendrzych)
+* [Adam Belis](https://www.adambelis.com)
 
 # License
 
