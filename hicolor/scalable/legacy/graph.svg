@@ -13,24 +13,25 @@
      id="defs880" />
   <sodipodi:namedview
      id="namedview878"
-     pagecolor="#ffffff"
+     pagecolor="#ff54ff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="50.4375"
-     inkscape:cx="8"
-     inkscape:cy="8"
+     inkscape:cx="7.9900867"
+     inkscape:cy="8.0099133"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg876" />
   <path
-     d="M6 2c.306 0 .582.187.696.471L10 10.731l1.304-3.26A.751.751 0 0 1 12 7h3.25a.75.75 0 0 1 0 1.5h-2.742l-1.812 4.528a.751.751 0 0 1-1.392 0L6 4.77 4.696 8.03A.75.75 0 0 1 4 8.5H.75a.75.75 0 0 1 0-1.5h2.742l1.812-4.529A.751.751 0 0 1 6 2Z"
-     id="path874"
-     style="fill:#ffffff;fill-opacity:1" />
+     style="font-variation-settings:'wdth' 75, 'wght' 350;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2"
+     d="M 0.9999998,13 C 10,13 5.9999998,3 15,3"
+     id="path91"
+     sodipodi:nodetypes="cc" />
 </svg>
