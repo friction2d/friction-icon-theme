@@ -1,9 +1,10 @@
 # Friction Icon Theme
 
-Icons used in Friction.
+Freedesktop.org compatible icon theme for Friction.
 
 # Credits
 
+* [Enve](https://github.com/MaurycyLiebner/enve) icons contributors
 * Friction icon is a modification of an icon made by sixsixfive
 * [Andrzej Ambroż](https://devtalk.blender.org/u/jendrzych)
 * [Adam Belis](https://www.adambelis.com)

@@ -22,6 +22,7 @@ set -e
 
 CWD=`pwd`
 INKSCAPE=${INKSCAPE:-inkscape}
+PNGQ=${PNGQ:-pngquant}
 FORCE_GEN=${FORCE_GEN:-0}
 INDEX=${INDEX:-0}
 HICOLOR_DIR="${CWD}/hicolor"
@@ -48,6 +49,8 @@ apps
 categories
 devices
 friction
+friction-tools
+friction-nodes
 legacy
 mimetypes
 places
@@ -104,6 +107,7 @@ Type=Fixed
                     --export-type=png \
                     --export-filename="${DIR}/${ICON}.png" \
                     "${HICOLOR_SVG}/${C}/${ICON}.svg"
+                    $PNGQ "${DIR}/${ICON}.png"
                 fi
             fi
         done
