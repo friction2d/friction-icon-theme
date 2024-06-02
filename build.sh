@@ -107,7 +107,7 @@ Type=Fixed
                     --export-type=png \
                     --export-filename="${DIR}/${ICON}.png" \
                     "${HICOLOR_SVG}/${C}/${ICON}.svg"
-                    $PNGQ "${DIR}/${ICON}.png"
+                    #$PNGQ "${DIR}/${ICON}.png"
                 fi
             fi
         done
