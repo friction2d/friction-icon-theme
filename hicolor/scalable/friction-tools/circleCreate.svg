@@ -1,41 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="25"
-   height="25"
-   viewBox="0 0 6.6145832 6.6145835"
+   width="16"
+   height="16"
+   viewBox="0 0 16 16"
    version="1.1"
    id="svg1468"
-   inkscape:version="1.0.2 (1.0.2+r75+1)"
-   sodipodi:docname="circleCreateUnchecked.svg">
+   inkscape:version="1.4-beta (62f545ba5e, 2024-04-22)"
+   sodipodi:docname="circleCreate.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs1462" />
+     id="defs1462">
+    <inkscape:path-effect
+       effect="join_type"
+       id="path-effect1"
+       is_visible="true"
+       lpeversion="1"
+       linecap_type="butt"
+       line_width="2"
+       linejoin_type="extrp_arc"
+       miter_limit="100"
+       attempt_force_join="true" />
+  </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#424242"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="16.12342"
-     inkscape:cy="12.498663"
-     inkscape:document-units="mm"
+     inkscape:cx="5.4453535"
+     inkscape:cy="7.3709568"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="737"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-width="1856"
+     inkscape:window-height="1177"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata1465">
     <rdf:RDF>
@@ -44,7 +58,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,8 +67,14 @@
      id="layer1"
      transform="translate(0,-290.3854)">
     <path
-       id="path4906"
-       style="opacity:1;fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.372986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.4;stroke-opacity:1"
-       d="m 3.3072917,291.45459 a 2.2379143,2.2379143 0 0 0 -2.2381062,2.2381 2.2379143,2.2379143 0 0 0 2.2381062,2.23811 2.2379143,2.2379143 0 0 0 2.2381062,-2.23811 2.2379143,2.2379143 0 0 0 -2.2381062,-2.2381 z m -0.027905,0.45578 a 1.7824545,1.7824545 0 0 1 0.027905,0 1.7824545,1.7824545 0 0 1 1.7823201,1.78232 1.7824545,1.7824545 0 0 1 -1.7823201,1.78232 1.7824545,1.7824545 0 0 1 -1.7823201,-1.78232 1.7824545,1.7824545 0 0 1 1.7544151,-1.78232 z" />
+       style="fill:#ffffff;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-dasharray:none"
+       id="path1"
+       inkscape:path-effect="#path-effect1"
+       sodipodi:type="arc"
+       sodipodi:cx="8"
+       sodipodi:cy="298.38541"
+       sodipodi:rx="5.40625"
+       sodipodi:ry="5.40625"
+       d="m 8,302.79166 c -2.4453493,0 -4.40625,-1.9609 -4.40625,-4.40625 0,-2.44535 1.9609007,-4.40625 4.40625,-4.40625 2.445349,0 4.40625,1.9609 4.40625,4.40625 0,2.44535 -1.960901,4.40625 -4.40625,4.40625 z m 0,-10.8125 c -3.5400039,0 -6.40625,2.86624 -6.40625,6.40625 0,3.54 2.8662461,6.40625 6.40625,6.40625 3.540004,0 6.40625,-2.86625 6.40625,-6.40625 0,-3.54001 -2.866246,-6.40625 -6.40625,-6.40625 z" />
   </g>
 </svg>
