@@ -99,9 +99,9 @@ Type=Fixed
         fi
         for ICON in $ICONS; do
             if [ -f "${HICOLOR_SVG}/${C}/${ICON}.svg" ]; then
-                RCC="${RCC}
-        <file alias='icons/hicolor/scalable/${C}/${ICON}.svg'>hicolor/scalable/${C}/${ICON}.svg</file>\n
-"
+#                RCC="${RCC}
+#        <file alias='icons/hicolor/scalable/${C}/${ICON}.svg'>hicolor/scalable/${C}/${ICON}.svg</file>\n
+#"
                 if [ ! -f "${DIR}/${ICON}.png" ] || [ "${FORCE_GEN}" = 1 ]; then
                     echo "${DIR}/${ICON}.png"
                     $INKSCAPE \
