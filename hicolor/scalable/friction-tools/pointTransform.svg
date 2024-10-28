@@ -5,7 +5,7 @@
    viewBox="0 0 6.6145832 6.6145835"
    version="1.1"
    id="svg1468"
-   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="pointTransform.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -23,15 +23,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="23.162961"
-     inkscape:cx="14.743365"
-     inkscape:cy="13.512953"
+     inkscape:zoom="11.581481"
+     inkscape:cx="12.865367"
+     inkscape:cy="11.397507"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      units="px"
-     inkscape:window-width="1366"
-     inkscape:window-height="737"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -72,9 +72,15 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-290.3854)">
-    <path
-       id="path1456"
-       style="fill:#f9f9f9;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.337001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.4;stroke-opacity:1"
-       d="M 1.2867432 291.67214 L 2.6251628 295.598 L 3.3377808 294.3774 L 4.2653727 295.71324 L 5.3278402 294.65077 L 3.9935547 293.7237 L 5.2126017 293.01056 L 1.2867432 291.67214 z M 1.9414836 292.32637 L 4.238501 293.10926 L 3.7873657 293.37281 A 0.40762414 0.40762414 0 0 0 3.7615275 294.05856 L 4.6953206 294.70503 L 4.3201497 295.0802 L 3.6721273 294.14434 A 0.40762414 0.40762414 0 0 0 2.986381 294.17173 L 2.7243815 294.62132 L 1.9414836 292.32637 z " />
+    <g
+       fill="#ffffff"
+       id="g1175"
+       transform="matrix(0.00379249,0,0,0.00379249,1.0219411,291.32977)"
+       style="opacity:1">
+      <path
+         d="m 470.49125,433 c -0.3497,0.006 -0.58488,0.36077 -0.45507,0.68555 l 4,10.00195 c 0.1779,0.45034 0.82806,0.4102 0.94922,-0.0586 l 1.17578,-4.46875 4.46679,-1.17578 c 0.46499,-0.12321 0.50486,-0.76769 0.0586,-0.94727 l -10,-4.00195 c -0.0621,-0.0247 -0.12852,-0.0366 -0.19532,-0.0351 z"
+         transform="matrix(100,0,0,100,-46899.999,-43200.19)"
+         id="path1173" />
+    </g>
   </g>
 </svg>
