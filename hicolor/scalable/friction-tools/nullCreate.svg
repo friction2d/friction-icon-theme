@@ -5,7 +5,7 @@
    viewBox="0 0 6.6145832 6.6145835"
    version="1.1"
    id="svg1468"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    sodipodi:docname="nullCreate.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -18,25 +18,42 @@
      id="defs1462" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.678384"
-     inkscape:cx="10.890707"
-     inkscape:cy="10.354064"
+     inkscape:zoom="15.25816"
+     inkscape:cx="3.0475496"
+     inkscape:cy="13.63205"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1013"
+     inkscape:window-height="1054"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="1" />
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="0.26458333"
+       spacingy="0.26458331"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
   <metadata
      id="metadata1465">
     <rdf:RDF>
@@ -45,7 +62,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,19 +70,17 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-290.3854)">
+    <ellipse
+       style="stroke-width:0.52916667;paint-order:fill markers stroke;stroke:#cc0000;stroke-dasharray:none"
+       id="path1"
+       cx="3.3072915"
+       cy="293.69269"
+       rx="1.7197917"
+       ry="1.7197915" />
     <path
-       id="path4906"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.372986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:9.4;stroke-opacity:1"
-       d="m 3.3072917,291.45459 a 2.2379143,2.2379143 0 0 0 -2.2381062,2.2381 2.2379143,2.2379143 0 0 0 2.2381062,2.23811 2.2379143,2.2379143 0 0 0 2.2381062,-2.23811 2.2379143,2.2379143 0 0 0 -2.2381062,-2.2381 z m -0.027905,0.45578 a 1.7824545,1.7824545 0 0 1 0.027905,0 1.7824545,1.7824545 0 0 1 1.7823201,1.78232 1.7824545,1.7824545 0 0 1 -1.7823201,1.78232 1.7824545,1.7824545 0 0 1 -1.7823201,-1.78232 1.7824545,1.7824545 0 0 1 1.7544151,-1.78232 z" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path818"
-       d="m 1.787365,292.27266 2.9441409,2.94414"
-       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       style="fill:#ffffff;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 4.7315054,292.27266 -2.94414,2.94414"
-       id="path816"
-       inkscape:connector-curvature="0" />
+       style="stroke:#cc0000;stroke-width:0.529167;stroke-linecap:round;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 5.2916665,291.70832 -3.9687499,3.96875"
+       id="path2"
+       sodipodi:nodetypes="cc" />
   </g>
 </svg>
