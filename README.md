@@ -1,4 +1,4 @@
-Freedesktop compatible icon theme for Friction.
+Icon theme for Friction.
 
 ### Credits
 
