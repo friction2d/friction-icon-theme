@@ -22,9 +22,9 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    showgrid="true"
-   inkscape:zoom="24.153871"
-   inkscape:cx="10.702218"
-   inkscape:cy="12.917184"
+   inkscape:zoom="19.603824"
+   inkscape:cx="10.329617"
+   inkscape:cy="13.211708"
    inkscape:current-layer="svg1"><inkscape:grid
      id="grid1"
      units="px"
@@ -41,15 +41,16 @@
      visible="true" /></sodipodi:namedview>
     
 <g
-   id="g2"><path
+   id="g1"><path
      style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
-     d="M 17,8 21.515076,12.5 17,17"
+     d="M 17,8 21.5,12.5 17,17"
      id="path2"
      sodipodi:nodetypes="ccc" /><path
-     id="path3"
-     style="color:#000000;fill:#ffffff;fill-opacity:1;stroke-width:0.35;stroke-dashoffset:30.2362;paint-order:markers fill stroke"
-     d="M 4 11.5 L 4 13.5 L 19.09375 13.5 L 20.097656 12.5 L 19.09375 11.5 L 4 11.5 z " /><path
      style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
      d="M 8,3 H 3 v 19 h 5"
      id="path4"
-     sodipodi:nodetypes="cccc" /></g></svg>
+     sodipodi:nodetypes="cccc" /><path
+     style="fill:none;stroke:#ffffff;stroke-width:2.02759;stroke-linecap:butt;stroke-linejoin:round;paint-order:fill markers stroke"
+     d="M 21.5,12.5 H 3"
+     id="path1"
+     sodipodi:nodetypes="cc" /></g></svg>
