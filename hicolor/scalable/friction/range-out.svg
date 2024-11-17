@@ -40,16 +40,17 @@
      enabled="true"
      visible="true" /></sodipodi:namedview>
     
-<path
-   style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
-   d="M 8,8 3.5,12.5 8,17"
-   id="path2"
-   sodipodi:nodetypes="ccc" /><path
-   style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
-   d="m 17,3 h 5 v 19 h -5"
-   id="path4"
-   sodipodi:nodetypes="cccc" /><path
-   style="fill:none;stroke:#ffffff;stroke-width:2.02759;stroke-linecap:butt;stroke-linejoin:round;paint-order:fill markers stroke"
-   d="M 3.5,12.5 H 22"
-   id="path1"
-   sodipodi:nodetypes="cc" /></svg>
+<g
+   id="g1"><path
+     style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+     d="M 8,8 3.5,12.5 8,17"
+     id="path2"
+     sodipodi:nodetypes="ccc" /><path
+     style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+     d="m 17,3 h 5 v 19 h -5"
+     id="path4"
+     sodipodi:nodetypes="cccc" /><path
+     style="fill:none;stroke:#ffffff;stroke-width:2.02759;stroke-linecap:butt;stroke-linejoin:round;paint-order:fill markers stroke"
+     d="M 3.5,12.5 H 22"
+     id="path1"
+     sodipodi:nodetypes="cc" /></g></svg>
