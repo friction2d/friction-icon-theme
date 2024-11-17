@@ -23,7 +23,7 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="true"
    inkscape:zoom="21.760244"
-   inkscape:cx="9.2140511"
+   inkscape:cx="9.2600065"
    inkscape:cy="13.281101"
    inkscape:current-layer="svg1"><inkscape:grid
      id="grid1"
@@ -40,20 +40,21 @@
      enabled="true"
      visible="true" /></sodipodi:namedview>
     
-<path
-   style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
-   d="m 17,3 h 5 v 19 h -5"
-   id="path4"
-   sodipodi:nodetypes="cccc" /><path
-   style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
-   d="M 8,3 H 3 v 19 h 5"
-   id="path7"
-   sodipodi:nodetypes="cccc" /><path
-   style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-   d="m 8,8 9,9"
-   id="path8"
-   sodipodi:nodetypes="cc" /><path
-   style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-   d="M 17,8 8,17"
-   id="path9"
-   sodipodi:nodetypes="cc" /></svg>
+<g
+   id="g1"><path
+     style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+     d="m 17,3 h 5 v 19 h -5"
+     id="path4"
+     sodipodi:nodetypes="cccc" /><path
+     style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+     d="M 8,3 H 3 v 19 h 5"
+     id="path7"
+     sodipodi:nodetypes="cccc" /><path
+     style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="m 8,8 9,9"
+     id="path8"
+     sodipodi:nodetypes="cc" /><path
+     style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 17,8 8,17"
+     id="path9"
+     sodipodi:nodetypes="cc" /></g></svg>

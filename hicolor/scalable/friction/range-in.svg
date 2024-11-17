@@ -23,7 +23,7 @@
    inkscape:deskcolor="#d1d1d1"
    showgrid="true"
    inkscape:zoom="19.603824"
-   inkscape:cx="10.227597"
+   inkscape:cx="10.278607"
    inkscape:cy="13.211708"
    inkscape:current-layer="svg1"><inkscape:grid
      id="grid1"
@@ -40,18 +40,16 @@
      enabled="true"
      visible="true" /></sodipodi:namedview>
     
-<g
-   id="g1"
-   transform="matrix(-1,0,0,1,25,0)"><path
-     style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
-     d="M 8,8 3.5,12.5 8,17"
-     id="path2"
-     sodipodi:nodetypes="ccc" /><path
-     style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
-     d="m 17,3 h 5 v 19 h -5"
-     id="path4"
-     sodipodi:nodetypes="cccc" /><path
-     style="fill:none;stroke:#ffffff;stroke-width:2.02759;stroke-linecap:butt;stroke-linejoin:round;paint-order:fill markers stroke"
-     d="M 3.5,12.5 H 22"
-     id="path1"
-     sodipodi:nodetypes="cc" /></g></svg>
+<path
+   style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+   d="M 17,8 21.5,12.5 17,17"
+   id="path2"
+   sodipodi:nodetypes="ccc" /><path
+   style="fill:none;fill-opacity:0.862745;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:30.2362;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+   d="M 8,3 H 3 v 19 h 5"
+   id="path4"
+   sodipodi:nodetypes="cccc" /><path
+   style="fill:none;stroke:#ffffff;stroke-width:2.02759;stroke-linecap:butt;stroke-linejoin:round;paint-order:fill markers stroke"
+   d="M 21.5,12.5 H 3"
+   id="path1"
+   sodipodi:nodetypes="cc" /></svg>
