@@ -42,6 +42,7 @@
  <file alias='icons/hicolor/16x16/friction/fill_gradient_radial_2.png'>hicolor/16x16/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/16x16/friction/fill_gradient_radial.png'>hicolor/16x16/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/16x16/friction/fill_none_2.png'>hicolor/16x16/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/16x16/friction/frame.png'>hicolor/16x16/friction/frame.png</file>
  <file alias='icons/hicolor/16x16/friction/graph_property_2.png'>hicolor/16x16/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/16x16/friction/graph_property.png'>hicolor/16x16/friction/graph_property.png</file>
  <file alias='icons/hicolor/16x16/friction/markers-add.png'>hicolor/16x16/friction/markers-add.png</file>
@@ -269,6 +270,7 @@
  <file alias='icons/hicolor/17x17/friction/fill_gradient_radial_2.png'>hicolor/17x17/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/17x17/friction/fill_gradient_radial.png'>hicolor/17x17/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/17x17/friction/fill_none_2.png'>hicolor/17x17/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/17x17/friction/frame.png'>hicolor/17x17/friction/frame.png</file>
  <file alias='icons/hicolor/17x17/friction/graph_property_2.png'>hicolor/17x17/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/17x17/friction/graph_property.png'>hicolor/17x17/friction/graph_property.png</file>
  <file alias='icons/hicolor/17x17/friction/markers-add.png'>hicolor/17x17/friction/markers-add.png</file>
@@ -496,6 +498,7 @@
  <file alias='icons/hicolor/18x18/friction/fill_gradient_radial_2.png'>hicolor/18x18/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/18x18/friction/fill_gradient_radial.png'>hicolor/18x18/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/18x18/friction/fill_none_2.png'>hicolor/18x18/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/18x18/friction/frame.png'>hicolor/18x18/friction/frame.png</file>
  <file alias='icons/hicolor/18x18/friction/graph_property_2.png'>hicolor/18x18/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/18x18/friction/graph_property.png'>hicolor/18x18/friction/graph_property.png</file>
  <file alias='icons/hicolor/18x18/friction/markers-add.png'>hicolor/18x18/friction/markers-add.png</file>
@@ -723,6 +726,7 @@
  <file alias='icons/hicolor/20x20/friction/fill_gradient_radial_2.png'>hicolor/20x20/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/20x20/friction/fill_gradient_radial.png'>hicolor/20x20/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/20x20/friction/fill_none_2.png'>hicolor/20x20/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/20x20/friction/frame.png'>hicolor/20x20/friction/frame.png</file>
  <file alias='icons/hicolor/20x20/friction/graph_property_2.png'>hicolor/20x20/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/20x20/friction/graph_property.png'>hicolor/20x20/friction/graph_property.png</file>
  <file alias='icons/hicolor/20x20/friction/markers-add.png'>hicolor/20x20/friction/markers-add.png</file>
@@ -950,6 +954,7 @@
  <file alias='icons/hicolor/21x21/friction/fill_gradient_radial_2.png'>hicolor/21x21/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/21x21/friction/fill_gradient_radial.png'>hicolor/21x21/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/21x21/friction/fill_none_2.png'>hicolor/21x21/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/21x21/friction/frame.png'>hicolor/21x21/friction/frame.png</file>
  <file alias='icons/hicolor/21x21/friction/graph_property_2.png'>hicolor/21x21/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/21x21/friction/graph_property.png'>hicolor/21x21/friction/graph_property.png</file>
  <file alias='icons/hicolor/21x21/friction/markers-add.png'>hicolor/21x21/friction/markers-add.png</file>
@@ -1177,6 +1182,7 @@
  <file alias='icons/hicolor/22x22/friction/fill_gradient_radial_2.png'>hicolor/22x22/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/22x22/friction/fill_gradient_radial.png'>hicolor/22x22/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/22x22/friction/fill_none_2.png'>hicolor/22x22/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/22x22/friction/frame.png'>hicolor/22x22/friction/frame.png</file>
  <file alias='icons/hicolor/22x22/friction/graph_property_2.png'>hicolor/22x22/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/22x22/friction/graph_property.png'>hicolor/22x22/friction/graph_property.png</file>
  <file alias='icons/hicolor/22x22/friction/markers-add.png'>hicolor/22x22/friction/markers-add.png</file>
@@ -1404,6 +1410,7 @@
  <file alias='icons/hicolor/24x24/friction/fill_gradient_radial_2.png'>hicolor/24x24/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/24x24/friction/fill_gradient_radial.png'>hicolor/24x24/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/24x24/friction/fill_none_2.png'>hicolor/24x24/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/24x24/friction/frame.png'>hicolor/24x24/friction/frame.png</file>
  <file alias='icons/hicolor/24x24/friction/graph_property_2.png'>hicolor/24x24/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/24x24/friction/graph_property.png'>hicolor/24x24/friction/graph_property.png</file>
  <file alias='icons/hicolor/24x24/friction/markers-add.png'>hicolor/24x24/friction/markers-add.png</file>
@@ -1631,6 +1638,7 @@
  <file alias='icons/hicolor/25x25/friction/fill_gradient_radial_2.png'>hicolor/25x25/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/25x25/friction/fill_gradient_radial.png'>hicolor/25x25/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/25x25/friction/fill_none_2.png'>hicolor/25x25/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/25x25/friction/frame.png'>hicolor/25x25/friction/frame.png</file>
  <file alias='icons/hicolor/25x25/friction/graph_property_2.png'>hicolor/25x25/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/25x25/friction/graph_property.png'>hicolor/25x25/friction/graph_property.png</file>
  <file alias='icons/hicolor/25x25/friction/markers-add.png'>hicolor/25x25/friction/markers-add.png</file>
@@ -1858,6 +1866,7 @@
  <file alias='icons/hicolor/26x26/friction/fill_gradient_radial_2.png'>hicolor/26x26/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/26x26/friction/fill_gradient_radial.png'>hicolor/26x26/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/26x26/friction/fill_none_2.png'>hicolor/26x26/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/26x26/friction/frame.png'>hicolor/26x26/friction/frame.png</file>
  <file alias='icons/hicolor/26x26/friction/graph_property_2.png'>hicolor/26x26/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/26x26/friction/graph_property.png'>hicolor/26x26/friction/graph_property.png</file>
  <file alias='icons/hicolor/26x26/friction/markers-add.png'>hicolor/26x26/friction/markers-add.png</file>
@@ -2085,6 +2094,7 @@
  <file alias='icons/hicolor/28x28/friction/fill_gradient_radial_2.png'>hicolor/28x28/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/28x28/friction/fill_gradient_radial.png'>hicolor/28x28/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/28x28/friction/fill_none_2.png'>hicolor/28x28/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/28x28/friction/frame.png'>hicolor/28x28/friction/frame.png</file>
  <file alias='icons/hicolor/28x28/friction/graph_property_2.png'>hicolor/28x28/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/28x28/friction/graph_property.png'>hicolor/28x28/friction/graph_property.png</file>
  <file alias='icons/hicolor/28x28/friction/markers-add.png'>hicolor/28x28/friction/markers-add.png</file>
@@ -2312,6 +2322,7 @@
  <file alias='icons/hicolor/32x32/friction/fill_gradient_radial_2.png'>hicolor/32x32/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/32x32/friction/fill_gradient_radial.png'>hicolor/32x32/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/32x32/friction/fill_none_2.png'>hicolor/32x32/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/32x32/friction/frame.png'>hicolor/32x32/friction/frame.png</file>
  <file alias='icons/hicolor/32x32/friction/graph_property_2.png'>hicolor/32x32/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/32x32/friction/graph_property.png'>hicolor/32x32/friction/graph_property.png</file>
  <file alias='icons/hicolor/32x32/friction/markers-add.png'>hicolor/32x32/friction/markers-add.png</file>
@@ -2539,6 +2550,7 @@
  <file alias='icons/hicolor/48x48/friction/fill_gradient_radial_2.png'>hicolor/48x48/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/48x48/friction/fill_gradient_radial.png'>hicolor/48x48/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/48x48/friction/fill_none_2.png'>hicolor/48x48/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/48x48/friction/frame.png'>hicolor/48x48/friction/frame.png</file>
  <file alias='icons/hicolor/48x48/friction/graph_property_2.png'>hicolor/48x48/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/48x48/friction/graph_property.png'>hicolor/48x48/friction/graph_property.png</file>
  <file alias='icons/hicolor/48x48/friction/markers-add.png'>hicolor/48x48/friction/markers-add.png</file>
@@ -2766,6 +2778,7 @@
  <file alias='icons/hicolor/64x64/friction/fill_gradient_radial_2.png'>hicolor/64x64/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/64x64/friction/fill_gradient_radial.png'>hicolor/64x64/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/64x64/friction/fill_none_2.png'>hicolor/64x64/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/64x64/friction/frame.png'>hicolor/64x64/friction/frame.png</file>
  <file alias='icons/hicolor/64x64/friction/graph_property_2.png'>hicolor/64x64/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/64x64/friction/graph_property.png'>hicolor/64x64/friction/graph_property.png</file>
  <file alias='icons/hicolor/64x64/friction/markers-add.png'>hicolor/64x64/friction/markers-add.png</file>
@@ -2993,6 +3006,7 @@
  <file alias='icons/hicolor/96x96/friction/fill_gradient_radial_2.png'>hicolor/96x96/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/96x96/friction/fill_gradient_radial.png'>hicolor/96x96/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/96x96/friction/fill_none_2.png'>hicolor/96x96/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/96x96/friction/frame.png'>hicolor/96x96/friction/frame.png</file>
  <file alias='icons/hicolor/96x96/friction/graph_property_2.png'>hicolor/96x96/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/96x96/friction/graph_property.png'>hicolor/96x96/friction/graph_property.png</file>
  <file alias='icons/hicolor/96x96/friction/markers-add.png'>hicolor/96x96/friction/markers-add.png</file>
@@ -3220,6 +3234,7 @@
  <file alias='icons/hicolor/128x128/friction/fill_gradient_radial_2.png'>hicolor/128x128/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/128x128/friction/fill_gradient_radial.png'>hicolor/128x128/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/128x128/friction/fill_none_2.png'>hicolor/128x128/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/128x128/friction/frame.png'>hicolor/128x128/friction/frame.png</file>
  <file alias='icons/hicolor/128x128/friction/graph_property_2.png'>hicolor/128x128/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/128x128/friction/graph_property.png'>hicolor/128x128/friction/graph_property.png</file>
  <file alias='icons/hicolor/128x128/friction/markers-add.png'>hicolor/128x128/friction/markers-add.png</file>
@@ -3447,6 +3462,7 @@
  <file alias='icons/hicolor/192x192/friction/fill_gradient_radial_2.png'>hicolor/192x192/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/192x192/friction/fill_gradient_radial.png'>hicolor/192x192/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/192x192/friction/fill_none_2.png'>hicolor/192x192/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/192x192/friction/frame.png'>hicolor/192x192/friction/frame.png</file>
  <file alias='icons/hicolor/192x192/friction/graph_property_2.png'>hicolor/192x192/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/192x192/friction/graph_property.png'>hicolor/192x192/friction/graph_property.png</file>
  <file alias='icons/hicolor/192x192/friction/markers-add.png'>hicolor/192x192/friction/markers-add.png</file>
@@ -3674,6 +3690,7 @@
  <file alias='icons/hicolor/256x256/friction/fill_gradient_radial_2.png'>hicolor/256x256/friction/fill_gradient_radial_2.png</file>
  <file alias='icons/hicolor/256x256/friction/fill_gradient_radial.png'>hicolor/256x256/friction/fill_gradient_radial.png</file>
  <file alias='icons/hicolor/256x256/friction/fill_none_2.png'>hicolor/256x256/friction/fill_none_2.png</file>
+ <file alias='icons/hicolor/256x256/friction/frame.png'>hicolor/256x256/friction/frame.png</file>
  <file alias='icons/hicolor/256x256/friction/graph_property_2.png'>hicolor/256x256/friction/graph_property_2.png</file>
  <file alias='icons/hicolor/256x256/friction/graph_property.png'>hicolor/256x256/friction/graph_property.png</file>
  <file alias='icons/hicolor/256x256/friction/markers-add.png'>hicolor/256x256/friction/markers-add.png</file>
