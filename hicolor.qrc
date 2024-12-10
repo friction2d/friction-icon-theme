@@ -31,6 +31,7 @@
  <file alias='icons/hicolor/16x16/actions/zoom_in.png'>hicolor/16x16/actions/zoom_in.png</file>
  <file alias='icons/hicolor/16x16/actions/zoom_out.png'>hicolor/16x16/actions/zoom_out.png</file>
  <file alias='icons/hicolor/16x16/apps/graphics.friction.Friction.png'>hicolor/16x16/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/16x16/friction/alignment.png'>hicolor/16x16/friction/alignment.png</file>
  <file alias='icons/hicolor/16x16/friction/box-checked-hover.png'>hicolor/16x16/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/16x16/friction/box-checked.png'>hicolor/16x16/friction/box-checked.png</file>
  <file alias='icons/hicolor/16x16/friction/box-unchecked-hover.png'>hicolor/16x16/friction/box-unchecked-hover.png</file>
@@ -259,6 +260,7 @@
  <file alias='icons/hicolor/17x17/actions/zoom_in.png'>hicolor/17x17/actions/zoom_in.png</file>
  <file alias='icons/hicolor/17x17/actions/zoom_out.png'>hicolor/17x17/actions/zoom_out.png</file>
  <file alias='icons/hicolor/17x17/apps/graphics.friction.Friction.png'>hicolor/17x17/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/17x17/friction/alignment.png'>hicolor/17x17/friction/alignment.png</file>
  <file alias='icons/hicolor/17x17/friction/box-checked-hover.png'>hicolor/17x17/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/17x17/friction/box-checked.png'>hicolor/17x17/friction/box-checked.png</file>
  <file alias='icons/hicolor/17x17/friction/box-unchecked-hover.png'>hicolor/17x17/friction/box-unchecked-hover.png</file>
@@ -487,6 +489,7 @@
  <file alias='icons/hicolor/18x18/actions/zoom_in.png'>hicolor/18x18/actions/zoom_in.png</file>
  <file alias='icons/hicolor/18x18/actions/zoom_out.png'>hicolor/18x18/actions/zoom_out.png</file>
  <file alias='icons/hicolor/18x18/apps/graphics.friction.Friction.png'>hicolor/18x18/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/18x18/friction/alignment.png'>hicolor/18x18/friction/alignment.png</file>
  <file alias='icons/hicolor/18x18/friction/box-checked-hover.png'>hicolor/18x18/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/18x18/friction/box-checked.png'>hicolor/18x18/friction/box-checked.png</file>
  <file alias='icons/hicolor/18x18/friction/box-unchecked-hover.png'>hicolor/18x18/friction/box-unchecked-hover.png</file>
@@ -715,6 +718,7 @@
  <file alias='icons/hicolor/20x20/actions/zoom_in.png'>hicolor/20x20/actions/zoom_in.png</file>
  <file alias='icons/hicolor/20x20/actions/zoom_out.png'>hicolor/20x20/actions/zoom_out.png</file>
  <file alias='icons/hicolor/20x20/apps/graphics.friction.Friction.png'>hicolor/20x20/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/20x20/friction/alignment.png'>hicolor/20x20/friction/alignment.png</file>
  <file alias='icons/hicolor/20x20/friction/box-checked-hover.png'>hicolor/20x20/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/20x20/friction/box-checked.png'>hicolor/20x20/friction/box-checked.png</file>
  <file alias='icons/hicolor/20x20/friction/box-unchecked-hover.png'>hicolor/20x20/friction/box-unchecked-hover.png</file>
@@ -943,6 +947,7 @@
  <file alias='icons/hicolor/21x21/actions/zoom_in.png'>hicolor/21x21/actions/zoom_in.png</file>
  <file alias='icons/hicolor/21x21/actions/zoom_out.png'>hicolor/21x21/actions/zoom_out.png</file>
  <file alias='icons/hicolor/21x21/apps/graphics.friction.Friction.png'>hicolor/21x21/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/21x21/friction/alignment.png'>hicolor/21x21/friction/alignment.png</file>
  <file alias='icons/hicolor/21x21/friction/box-checked-hover.png'>hicolor/21x21/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/21x21/friction/box-checked.png'>hicolor/21x21/friction/box-checked.png</file>
  <file alias='icons/hicolor/21x21/friction/box-unchecked-hover.png'>hicolor/21x21/friction/box-unchecked-hover.png</file>
@@ -1171,6 +1176,7 @@
  <file alias='icons/hicolor/22x22/actions/zoom_in.png'>hicolor/22x22/actions/zoom_in.png</file>
  <file alias='icons/hicolor/22x22/actions/zoom_out.png'>hicolor/22x22/actions/zoom_out.png</file>
  <file alias='icons/hicolor/22x22/apps/graphics.friction.Friction.png'>hicolor/22x22/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/22x22/friction/alignment.png'>hicolor/22x22/friction/alignment.png</file>
  <file alias='icons/hicolor/22x22/friction/box-checked-hover.png'>hicolor/22x22/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/22x22/friction/box-checked.png'>hicolor/22x22/friction/box-checked.png</file>
  <file alias='icons/hicolor/22x22/friction/box-unchecked-hover.png'>hicolor/22x22/friction/box-unchecked-hover.png</file>
@@ -1399,6 +1405,7 @@
  <file alias='icons/hicolor/24x24/actions/zoom_in.png'>hicolor/24x24/actions/zoom_in.png</file>
  <file alias='icons/hicolor/24x24/actions/zoom_out.png'>hicolor/24x24/actions/zoom_out.png</file>
  <file alias='icons/hicolor/24x24/apps/graphics.friction.Friction.png'>hicolor/24x24/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/24x24/friction/alignment.png'>hicolor/24x24/friction/alignment.png</file>
  <file alias='icons/hicolor/24x24/friction/box-checked-hover.png'>hicolor/24x24/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/24x24/friction/box-checked.png'>hicolor/24x24/friction/box-checked.png</file>
  <file alias='icons/hicolor/24x24/friction/box-unchecked-hover.png'>hicolor/24x24/friction/box-unchecked-hover.png</file>
@@ -1627,6 +1634,7 @@
  <file alias='icons/hicolor/25x25/actions/zoom_in.png'>hicolor/25x25/actions/zoom_in.png</file>
  <file alias='icons/hicolor/25x25/actions/zoom_out.png'>hicolor/25x25/actions/zoom_out.png</file>
  <file alias='icons/hicolor/25x25/apps/graphics.friction.Friction.png'>hicolor/25x25/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/25x25/friction/alignment.png'>hicolor/25x25/friction/alignment.png</file>
  <file alias='icons/hicolor/25x25/friction/box-checked-hover.png'>hicolor/25x25/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/25x25/friction/box-checked.png'>hicolor/25x25/friction/box-checked.png</file>
  <file alias='icons/hicolor/25x25/friction/box-unchecked-hover.png'>hicolor/25x25/friction/box-unchecked-hover.png</file>
@@ -1855,6 +1863,7 @@
  <file alias='icons/hicolor/26x26/actions/zoom_in.png'>hicolor/26x26/actions/zoom_in.png</file>
  <file alias='icons/hicolor/26x26/actions/zoom_out.png'>hicolor/26x26/actions/zoom_out.png</file>
  <file alias='icons/hicolor/26x26/apps/graphics.friction.Friction.png'>hicolor/26x26/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/26x26/friction/alignment.png'>hicolor/26x26/friction/alignment.png</file>
  <file alias='icons/hicolor/26x26/friction/box-checked-hover.png'>hicolor/26x26/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/26x26/friction/box-checked.png'>hicolor/26x26/friction/box-checked.png</file>
  <file alias='icons/hicolor/26x26/friction/box-unchecked-hover.png'>hicolor/26x26/friction/box-unchecked-hover.png</file>
@@ -2083,6 +2092,7 @@
  <file alias='icons/hicolor/28x28/actions/zoom_in.png'>hicolor/28x28/actions/zoom_in.png</file>
  <file alias='icons/hicolor/28x28/actions/zoom_out.png'>hicolor/28x28/actions/zoom_out.png</file>
  <file alias='icons/hicolor/28x28/apps/graphics.friction.Friction.png'>hicolor/28x28/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/28x28/friction/alignment.png'>hicolor/28x28/friction/alignment.png</file>
  <file alias='icons/hicolor/28x28/friction/box-checked-hover.png'>hicolor/28x28/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/28x28/friction/box-checked.png'>hicolor/28x28/friction/box-checked.png</file>
  <file alias='icons/hicolor/28x28/friction/box-unchecked-hover.png'>hicolor/28x28/friction/box-unchecked-hover.png</file>
@@ -2311,6 +2321,7 @@
  <file alias='icons/hicolor/32x32/actions/zoom_in.png'>hicolor/32x32/actions/zoom_in.png</file>
  <file alias='icons/hicolor/32x32/actions/zoom_out.png'>hicolor/32x32/actions/zoom_out.png</file>
  <file alias='icons/hicolor/32x32/apps/graphics.friction.Friction.png'>hicolor/32x32/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/32x32/friction/alignment.png'>hicolor/32x32/friction/alignment.png</file>
  <file alias='icons/hicolor/32x32/friction/box-checked-hover.png'>hicolor/32x32/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/32x32/friction/box-checked.png'>hicolor/32x32/friction/box-checked.png</file>
  <file alias='icons/hicolor/32x32/friction/box-unchecked-hover.png'>hicolor/32x32/friction/box-unchecked-hover.png</file>
@@ -2539,6 +2550,7 @@
  <file alias='icons/hicolor/48x48/actions/zoom_in.png'>hicolor/48x48/actions/zoom_in.png</file>
  <file alias='icons/hicolor/48x48/actions/zoom_out.png'>hicolor/48x48/actions/zoom_out.png</file>
  <file alias='icons/hicolor/48x48/apps/graphics.friction.Friction.png'>hicolor/48x48/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/48x48/friction/alignment.png'>hicolor/48x48/friction/alignment.png</file>
  <file alias='icons/hicolor/48x48/friction/box-checked-hover.png'>hicolor/48x48/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/48x48/friction/box-checked.png'>hicolor/48x48/friction/box-checked.png</file>
  <file alias='icons/hicolor/48x48/friction/box-unchecked-hover.png'>hicolor/48x48/friction/box-unchecked-hover.png</file>
@@ -2767,6 +2779,7 @@
  <file alias='icons/hicolor/64x64/actions/zoom_in.png'>hicolor/64x64/actions/zoom_in.png</file>
  <file alias='icons/hicolor/64x64/actions/zoom_out.png'>hicolor/64x64/actions/zoom_out.png</file>
  <file alias='icons/hicolor/64x64/apps/graphics.friction.Friction.png'>hicolor/64x64/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/64x64/friction/alignment.png'>hicolor/64x64/friction/alignment.png</file>
  <file alias='icons/hicolor/64x64/friction/box-checked-hover.png'>hicolor/64x64/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/64x64/friction/box-checked.png'>hicolor/64x64/friction/box-checked.png</file>
  <file alias='icons/hicolor/64x64/friction/box-unchecked-hover.png'>hicolor/64x64/friction/box-unchecked-hover.png</file>
@@ -2995,6 +3008,7 @@
  <file alias='icons/hicolor/96x96/actions/zoom_in.png'>hicolor/96x96/actions/zoom_in.png</file>
  <file alias='icons/hicolor/96x96/actions/zoom_out.png'>hicolor/96x96/actions/zoom_out.png</file>
  <file alias='icons/hicolor/96x96/apps/graphics.friction.Friction.png'>hicolor/96x96/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/96x96/friction/alignment.png'>hicolor/96x96/friction/alignment.png</file>
  <file alias='icons/hicolor/96x96/friction/box-checked-hover.png'>hicolor/96x96/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/96x96/friction/box-checked.png'>hicolor/96x96/friction/box-checked.png</file>
  <file alias='icons/hicolor/96x96/friction/box-unchecked-hover.png'>hicolor/96x96/friction/box-unchecked-hover.png</file>
@@ -3223,6 +3237,7 @@
  <file alias='icons/hicolor/128x128/actions/zoom_in.png'>hicolor/128x128/actions/zoom_in.png</file>
  <file alias='icons/hicolor/128x128/actions/zoom_out.png'>hicolor/128x128/actions/zoom_out.png</file>
  <file alias='icons/hicolor/128x128/apps/graphics.friction.Friction.png'>hicolor/128x128/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/128x128/friction/alignment.png'>hicolor/128x128/friction/alignment.png</file>
  <file alias='icons/hicolor/128x128/friction/box-checked-hover.png'>hicolor/128x128/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/128x128/friction/box-checked.png'>hicolor/128x128/friction/box-checked.png</file>
  <file alias='icons/hicolor/128x128/friction/box-unchecked-hover.png'>hicolor/128x128/friction/box-unchecked-hover.png</file>
@@ -3451,6 +3466,7 @@
  <file alias='icons/hicolor/192x192/actions/zoom_in.png'>hicolor/192x192/actions/zoom_in.png</file>
  <file alias='icons/hicolor/192x192/actions/zoom_out.png'>hicolor/192x192/actions/zoom_out.png</file>
  <file alias='icons/hicolor/192x192/apps/graphics.friction.Friction.png'>hicolor/192x192/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/192x192/friction/alignment.png'>hicolor/192x192/friction/alignment.png</file>
  <file alias='icons/hicolor/192x192/friction/box-checked-hover.png'>hicolor/192x192/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/192x192/friction/box-checked.png'>hicolor/192x192/friction/box-checked.png</file>
  <file alias='icons/hicolor/192x192/friction/box-unchecked-hover.png'>hicolor/192x192/friction/box-unchecked-hover.png</file>
@@ -3679,6 +3695,7 @@
  <file alias='icons/hicolor/256x256/actions/zoom_in.png'>hicolor/256x256/actions/zoom_in.png</file>
  <file alias='icons/hicolor/256x256/actions/zoom_out.png'>hicolor/256x256/actions/zoom_out.png</file>
  <file alias='icons/hicolor/256x256/apps/graphics.friction.Friction.png'>hicolor/256x256/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/256x256/friction/alignment.png'>hicolor/256x256/friction/alignment.png</file>
  <file alias='icons/hicolor/256x256/friction/box-checked-hover.png'>hicolor/256x256/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/256x256/friction/box-checked.png'>hicolor/256x256/friction/box-checked.png</file>
  <file alias='icons/hicolor/256x256/friction/box-unchecked-hover.png'>hicolor/256x256/friction/box-unchecked-hover.png</file>
