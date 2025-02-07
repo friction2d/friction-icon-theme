@@ -31,6 +31,7 @@
  <file alias='icons/hicolor/16x16/actions/zoom_in.png'>hicolor/16x16/actions/zoom_in.png</file>
  <file alias='icons/hicolor/16x16/actions/zoom_out.png'>hicolor/16x16/actions/zoom_out.png</file>
  <file alias='icons/hicolor/16x16/apps/graphics.friction.Friction.png'>hicolor/16x16/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/16x16/friction/adjustments.png'>hicolor/16x16/friction/adjustments.png</file>
  <file alias='icons/hicolor/16x16/friction/alignment.png'>hicolor/16x16/friction/alignment.png</file>
  <file alias='icons/hicolor/16x16/friction/box-checked-hover.png'>hicolor/16x16/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/16x16/friction/box-checked.png'>hicolor/16x16/friction/box-checked.png</file>
@@ -52,7 +53,6 @@
  <file alias='icons/hicolor/16x16/friction/markers-add.png'>hicolor/16x16/friction/markers-add.png</file>
  <file alias='icons/hicolor/16x16/friction/markers-edit.png'>hicolor/16x16/friction/markers-edit.png</file>
  <file alias='icons/hicolor/16x16/friction/preview_loop.png'>hicolor/16x16/friction/preview_loop.png</file>
- <file alias='icons/hicolor/16x16/friction/preview_realtime.png'>hicolor/16x16/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/16x16/friction/range-clear.png'>hicolor/16x16/friction/range-clear.png</file>
  <file alias='icons/hicolor/16x16/friction/range-in.png'>hicolor/16x16/friction/range-in.png</file>
  <file alias='icons/hicolor/16x16/friction/range-out.png'>hicolor/16x16/friction/range-out.png</file>
@@ -265,6 +265,7 @@
  <file alias='icons/hicolor/17x17/actions/zoom_in.png'>hicolor/17x17/actions/zoom_in.png</file>
  <file alias='icons/hicolor/17x17/actions/zoom_out.png'>hicolor/17x17/actions/zoom_out.png</file>
  <file alias='icons/hicolor/17x17/apps/graphics.friction.Friction.png'>hicolor/17x17/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/17x17/friction/adjustments.png'>hicolor/17x17/friction/adjustments.png</file>
  <file alias='icons/hicolor/17x17/friction/alignment.png'>hicolor/17x17/friction/alignment.png</file>
  <file alias='icons/hicolor/17x17/friction/box-checked-hover.png'>hicolor/17x17/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/17x17/friction/box-checked.png'>hicolor/17x17/friction/box-checked.png</file>
@@ -286,7 +287,6 @@
  <file alias='icons/hicolor/17x17/friction/markers-add.png'>hicolor/17x17/friction/markers-add.png</file>
  <file alias='icons/hicolor/17x17/friction/markers-edit.png'>hicolor/17x17/friction/markers-edit.png</file>
  <file alias='icons/hicolor/17x17/friction/preview_loop.png'>hicolor/17x17/friction/preview_loop.png</file>
- <file alias='icons/hicolor/17x17/friction/preview_realtime.png'>hicolor/17x17/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/17x17/friction/range-clear.png'>hicolor/17x17/friction/range-clear.png</file>
  <file alias='icons/hicolor/17x17/friction/range-in.png'>hicolor/17x17/friction/range-in.png</file>
  <file alias='icons/hicolor/17x17/friction/range-out.png'>hicolor/17x17/friction/range-out.png</file>
@@ -499,6 +499,7 @@
  <file alias='icons/hicolor/18x18/actions/zoom_in.png'>hicolor/18x18/actions/zoom_in.png</file>
  <file alias='icons/hicolor/18x18/actions/zoom_out.png'>hicolor/18x18/actions/zoom_out.png</file>
  <file alias='icons/hicolor/18x18/apps/graphics.friction.Friction.png'>hicolor/18x18/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/18x18/friction/adjustments.png'>hicolor/18x18/friction/adjustments.png</file>
  <file alias='icons/hicolor/18x18/friction/alignment.png'>hicolor/18x18/friction/alignment.png</file>
  <file alias='icons/hicolor/18x18/friction/box-checked-hover.png'>hicolor/18x18/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/18x18/friction/box-checked.png'>hicolor/18x18/friction/box-checked.png</file>
@@ -520,7 +521,6 @@
  <file alias='icons/hicolor/18x18/friction/markers-add.png'>hicolor/18x18/friction/markers-add.png</file>
  <file alias='icons/hicolor/18x18/friction/markers-edit.png'>hicolor/18x18/friction/markers-edit.png</file>
  <file alias='icons/hicolor/18x18/friction/preview_loop.png'>hicolor/18x18/friction/preview_loop.png</file>
- <file alias='icons/hicolor/18x18/friction/preview_realtime.png'>hicolor/18x18/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/18x18/friction/range-clear.png'>hicolor/18x18/friction/range-clear.png</file>
  <file alias='icons/hicolor/18x18/friction/range-in.png'>hicolor/18x18/friction/range-in.png</file>
  <file alias='icons/hicolor/18x18/friction/range-out.png'>hicolor/18x18/friction/range-out.png</file>
@@ -733,6 +733,7 @@
  <file alias='icons/hicolor/20x20/actions/zoom_in.png'>hicolor/20x20/actions/zoom_in.png</file>
  <file alias='icons/hicolor/20x20/actions/zoom_out.png'>hicolor/20x20/actions/zoom_out.png</file>
  <file alias='icons/hicolor/20x20/apps/graphics.friction.Friction.png'>hicolor/20x20/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/20x20/friction/adjustments.png'>hicolor/20x20/friction/adjustments.png</file>
  <file alias='icons/hicolor/20x20/friction/alignment.png'>hicolor/20x20/friction/alignment.png</file>
  <file alias='icons/hicolor/20x20/friction/box-checked-hover.png'>hicolor/20x20/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/20x20/friction/box-checked.png'>hicolor/20x20/friction/box-checked.png</file>
@@ -754,7 +755,6 @@
  <file alias='icons/hicolor/20x20/friction/markers-add.png'>hicolor/20x20/friction/markers-add.png</file>
  <file alias='icons/hicolor/20x20/friction/markers-edit.png'>hicolor/20x20/friction/markers-edit.png</file>
  <file alias='icons/hicolor/20x20/friction/preview_loop.png'>hicolor/20x20/friction/preview_loop.png</file>
- <file alias='icons/hicolor/20x20/friction/preview_realtime.png'>hicolor/20x20/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/20x20/friction/range-clear.png'>hicolor/20x20/friction/range-clear.png</file>
  <file alias='icons/hicolor/20x20/friction/range-in.png'>hicolor/20x20/friction/range-in.png</file>
  <file alias='icons/hicolor/20x20/friction/range-out.png'>hicolor/20x20/friction/range-out.png</file>
@@ -967,6 +967,7 @@
  <file alias='icons/hicolor/21x21/actions/zoom_in.png'>hicolor/21x21/actions/zoom_in.png</file>
  <file alias='icons/hicolor/21x21/actions/zoom_out.png'>hicolor/21x21/actions/zoom_out.png</file>
  <file alias='icons/hicolor/21x21/apps/graphics.friction.Friction.png'>hicolor/21x21/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/21x21/friction/adjustments.png'>hicolor/21x21/friction/adjustments.png</file>
  <file alias='icons/hicolor/21x21/friction/alignment.png'>hicolor/21x21/friction/alignment.png</file>
  <file alias='icons/hicolor/21x21/friction/box-checked-hover.png'>hicolor/21x21/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/21x21/friction/box-checked.png'>hicolor/21x21/friction/box-checked.png</file>
@@ -988,7 +989,6 @@
  <file alias='icons/hicolor/21x21/friction/markers-add.png'>hicolor/21x21/friction/markers-add.png</file>
  <file alias='icons/hicolor/21x21/friction/markers-edit.png'>hicolor/21x21/friction/markers-edit.png</file>
  <file alias='icons/hicolor/21x21/friction/preview_loop.png'>hicolor/21x21/friction/preview_loop.png</file>
- <file alias='icons/hicolor/21x21/friction/preview_realtime.png'>hicolor/21x21/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/21x21/friction/range-clear.png'>hicolor/21x21/friction/range-clear.png</file>
  <file alias='icons/hicolor/21x21/friction/range-in.png'>hicolor/21x21/friction/range-in.png</file>
  <file alias='icons/hicolor/21x21/friction/range-out.png'>hicolor/21x21/friction/range-out.png</file>
@@ -1201,6 +1201,7 @@
  <file alias='icons/hicolor/22x22/actions/zoom_in.png'>hicolor/22x22/actions/zoom_in.png</file>
  <file alias='icons/hicolor/22x22/actions/zoom_out.png'>hicolor/22x22/actions/zoom_out.png</file>
  <file alias='icons/hicolor/22x22/apps/graphics.friction.Friction.png'>hicolor/22x22/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/22x22/friction/adjustments.png'>hicolor/22x22/friction/adjustments.png</file>
  <file alias='icons/hicolor/22x22/friction/alignment.png'>hicolor/22x22/friction/alignment.png</file>
  <file alias='icons/hicolor/22x22/friction/box-checked-hover.png'>hicolor/22x22/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/22x22/friction/box-checked.png'>hicolor/22x22/friction/box-checked.png</file>
@@ -1222,7 +1223,6 @@
  <file alias='icons/hicolor/22x22/friction/markers-add.png'>hicolor/22x22/friction/markers-add.png</file>
  <file alias='icons/hicolor/22x22/friction/markers-edit.png'>hicolor/22x22/friction/markers-edit.png</file>
  <file alias='icons/hicolor/22x22/friction/preview_loop.png'>hicolor/22x22/friction/preview_loop.png</file>
- <file alias='icons/hicolor/22x22/friction/preview_realtime.png'>hicolor/22x22/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/22x22/friction/range-clear.png'>hicolor/22x22/friction/range-clear.png</file>
  <file alias='icons/hicolor/22x22/friction/range-in.png'>hicolor/22x22/friction/range-in.png</file>
  <file alias='icons/hicolor/22x22/friction/range-out.png'>hicolor/22x22/friction/range-out.png</file>
@@ -1435,6 +1435,7 @@
  <file alias='icons/hicolor/24x24/actions/zoom_in.png'>hicolor/24x24/actions/zoom_in.png</file>
  <file alias='icons/hicolor/24x24/actions/zoom_out.png'>hicolor/24x24/actions/zoom_out.png</file>
  <file alias='icons/hicolor/24x24/apps/graphics.friction.Friction.png'>hicolor/24x24/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/24x24/friction/adjustments.png'>hicolor/24x24/friction/adjustments.png</file>
  <file alias='icons/hicolor/24x24/friction/alignment.png'>hicolor/24x24/friction/alignment.png</file>
  <file alias='icons/hicolor/24x24/friction/box-checked-hover.png'>hicolor/24x24/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/24x24/friction/box-checked.png'>hicolor/24x24/friction/box-checked.png</file>
@@ -1456,7 +1457,6 @@
  <file alias='icons/hicolor/24x24/friction/markers-add.png'>hicolor/24x24/friction/markers-add.png</file>
  <file alias='icons/hicolor/24x24/friction/markers-edit.png'>hicolor/24x24/friction/markers-edit.png</file>
  <file alias='icons/hicolor/24x24/friction/preview_loop.png'>hicolor/24x24/friction/preview_loop.png</file>
- <file alias='icons/hicolor/24x24/friction/preview_realtime.png'>hicolor/24x24/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/24x24/friction/range-clear.png'>hicolor/24x24/friction/range-clear.png</file>
  <file alias='icons/hicolor/24x24/friction/range-in.png'>hicolor/24x24/friction/range-in.png</file>
  <file alias='icons/hicolor/24x24/friction/range-out.png'>hicolor/24x24/friction/range-out.png</file>
@@ -1669,6 +1669,7 @@
  <file alias='icons/hicolor/25x25/actions/zoom_in.png'>hicolor/25x25/actions/zoom_in.png</file>
  <file alias='icons/hicolor/25x25/actions/zoom_out.png'>hicolor/25x25/actions/zoom_out.png</file>
  <file alias='icons/hicolor/25x25/apps/graphics.friction.Friction.png'>hicolor/25x25/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/25x25/friction/adjustments.png'>hicolor/25x25/friction/adjustments.png</file>
  <file alias='icons/hicolor/25x25/friction/alignment.png'>hicolor/25x25/friction/alignment.png</file>
  <file alias='icons/hicolor/25x25/friction/box-checked-hover.png'>hicolor/25x25/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/25x25/friction/box-checked.png'>hicolor/25x25/friction/box-checked.png</file>
@@ -1690,7 +1691,6 @@
  <file alias='icons/hicolor/25x25/friction/markers-add.png'>hicolor/25x25/friction/markers-add.png</file>
  <file alias='icons/hicolor/25x25/friction/markers-edit.png'>hicolor/25x25/friction/markers-edit.png</file>
  <file alias='icons/hicolor/25x25/friction/preview_loop.png'>hicolor/25x25/friction/preview_loop.png</file>
- <file alias='icons/hicolor/25x25/friction/preview_realtime.png'>hicolor/25x25/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/25x25/friction/range-clear.png'>hicolor/25x25/friction/range-clear.png</file>
  <file alias='icons/hicolor/25x25/friction/range-in.png'>hicolor/25x25/friction/range-in.png</file>
  <file alias='icons/hicolor/25x25/friction/range-out.png'>hicolor/25x25/friction/range-out.png</file>
@@ -1903,6 +1903,7 @@
  <file alias='icons/hicolor/26x26/actions/zoom_in.png'>hicolor/26x26/actions/zoom_in.png</file>
  <file alias='icons/hicolor/26x26/actions/zoom_out.png'>hicolor/26x26/actions/zoom_out.png</file>
  <file alias='icons/hicolor/26x26/apps/graphics.friction.Friction.png'>hicolor/26x26/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/26x26/friction/adjustments.png'>hicolor/26x26/friction/adjustments.png</file>
  <file alias='icons/hicolor/26x26/friction/alignment.png'>hicolor/26x26/friction/alignment.png</file>
  <file alias='icons/hicolor/26x26/friction/box-checked-hover.png'>hicolor/26x26/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/26x26/friction/box-checked.png'>hicolor/26x26/friction/box-checked.png</file>
@@ -1924,7 +1925,6 @@
  <file alias='icons/hicolor/26x26/friction/markers-add.png'>hicolor/26x26/friction/markers-add.png</file>
  <file alias='icons/hicolor/26x26/friction/markers-edit.png'>hicolor/26x26/friction/markers-edit.png</file>
  <file alias='icons/hicolor/26x26/friction/preview_loop.png'>hicolor/26x26/friction/preview_loop.png</file>
- <file alias='icons/hicolor/26x26/friction/preview_realtime.png'>hicolor/26x26/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/26x26/friction/range-clear.png'>hicolor/26x26/friction/range-clear.png</file>
  <file alias='icons/hicolor/26x26/friction/range-in.png'>hicolor/26x26/friction/range-in.png</file>
  <file alias='icons/hicolor/26x26/friction/range-out.png'>hicolor/26x26/friction/range-out.png</file>
@@ -2137,6 +2137,7 @@
  <file alias='icons/hicolor/28x28/actions/zoom_in.png'>hicolor/28x28/actions/zoom_in.png</file>
  <file alias='icons/hicolor/28x28/actions/zoom_out.png'>hicolor/28x28/actions/zoom_out.png</file>
  <file alias='icons/hicolor/28x28/apps/graphics.friction.Friction.png'>hicolor/28x28/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/28x28/friction/adjustments.png'>hicolor/28x28/friction/adjustments.png</file>
  <file alias='icons/hicolor/28x28/friction/alignment.png'>hicolor/28x28/friction/alignment.png</file>
  <file alias='icons/hicolor/28x28/friction/box-checked-hover.png'>hicolor/28x28/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/28x28/friction/box-checked.png'>hicolor/28x28/friction/box-checked.png</file>
@@ -2158,7 +2159,6 @@
  <file alias='icons/hicolor/28x28/friction/markers-add.png'>hicolor/28x28/friction/markers-add.png</file>
  <file alias='icons/hicolor/28x28/friction/markers-edit.png'>hicolor/28x28/friction/markers-edit.png</file>
  <file alias='icons/hicolor/28x28/friction/preview_loop.png'>hicolor/28x28/friction/preview_loop.png</file>
- <file alias='icons/hicolor/28x28/friction/preview_realtime.png'>hicolor/28x28/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/28x28/friction/range-clear.png'>hicolor/28x28/friction/range-clear.png</file>
  <file alias='icons/hicolor/28x28/friction/range-in.png'>hicolor/28x28/friction/range-in.png</file>
  <file alias='icons/hicolor/28x28/friction/range-out.png'>hicolor/28x28/friction/range-out.png</file>
@@ -2371,6 +2371,7 @@
  <file alias='icons/hicolor/32x32/actions/zoom_in.png'>hicolor/32x32/actions/zoom_in.png</file>
  <file alias='icons/hicolor/32x32/actions/zoom_out.png'>hicolor/32x32/actions/zoom_out.png</file>
  <file alias='icons/hicolor/32x32/apps/graphics.friction.Friction.png'>hicolor/32x32/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/32x32/friction/adjustments.png'>hicolor/32x32/friction/adjustments.png</file>
  <file alias='icons/hicolor/32x32/friction/alignment.png'>hicolor/32x32/friction/alignment.png</file>
  <file alias='icons/hicolor/32x32/friction/box-checked-hover.png'>hicolor/32x32/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/32x32/friction/box-checked.png'>hicolor/32x32/friction/box-checked.png</file>
@@ -2392,7 +2393,6 @@
  <file alias='icons/hicolor/32x32/friction/markers-add.png'>hicolor/32x32/friction/markers-add.png</file>
  <file alias='icons/hicolor/32x32/friction/markers-edit.png'>hicolor/32x32/friction/markers-edit.png</file>
  <file alias='icons/hicolor/32x32/friction/preview_loop.png'>hicolor/32x32/friction/preview_loop.png</file>
- <file alias='icons/hicolor/32x32/friction/preview_realtime.png'>hicolor/32x32/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/32x32/friction/range-clear.png'>hicolor/32x32/friction/range-clear.png</file>
  <file alias='icons/hicolor/32x32/friction/range-in.png'>hicolor/32x32/friction/range-in.png</file>
  <file alias='icons/hicolor/32x32/friction/range-out.png'>hicolor/32x32/friction/range-out.png</file>
@@ -2605,6 +2605,7 @@
  <file alias='icons/hicolor/48x48/actions/zoom_in.png'>hicolor/48x48/actions/zoom_in.png</file>
  <file alias='icons/hicolor/48x48/actions/zoom_out.png'>hicolor/48x48/actions/zoom_out.png</file>
  <file alias='icons/hicolor/48x48/apps/graphics.friction.Friction.png'>hicolor/48x48/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/48x48/friction/adjustments.png'>hicolor/48x48/friction/adjustments.png</file>
  <file alias='icons/hicolor/48x48/friction/alignment.png'>hicolor/48x48/friction/alignment.png</file>
  <file alias='icons/hicolor/48x48/friction/box-checked-hover.png'>hicolor/48x48/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/48x48/friction/box-checked.png'>hicolor/48x48/friction/box-checked.png</file>
@@ -2626,7 +2627,6 @@
  <file alias='icons/hicolor/48x48/friction/markers-add.png'>hicolor/48x48/friction/markers-add.png</file>
  <file alias='icons/hicolor/48x48/friction/markers-edit.png'>hicolor/48x48/friction/markers-edit.png</file>
  <file alias='icons/hicolor/48x48/friction/preview_loop.png'>hicolor/48x48/friction/preview_loop.png</file>
- <file alias='icons/hicolor/48x48/friction/preview_realtime.png'>hicolor/48x48/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/48x48/friction/range-clear.png'>hicolor/48x48/friction/range-clear.png</file>
  <file alias='icons/hicolor/48x48/friction/range-in.png'>hicolor/48x48/friction/range-in.png</file>
  <file alias='icons/hicolor/48x48/friction/range-out.png'>hicolor/48x48/friction/range-out.png</file>
@@ -2839,6 +2839,7 @@
  <file alias='icons/hicolor/64x64/actions/zoom_in.png'>hicolor/64x64/actions/zoom_in.png</file>
  <file alias='icons/hicolor/64x64/actions/zoom_out.png'>hicolor/64x64/actions/zoom_out.png</file>
  <file alias='icons/hicolor/64x64/apps/graphics.friction.Friction.png'>hicolor/64x64/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/64x64/friction/adjustments.png'>hicolor/64x64/friction/adjustments.png</file>
  <file alias='icons/hicolor/64x64/friction/alignment.png'>hicolor/64x64/friction/alignment.png</file>
  <file alias='icons/hicolor/64x64/friction/box-checked-hover.png'>hicolor/64x64/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/64x64/friction/box-checked.png'>hicolor/64x64/friction/box-checked.png</file>
@@ -2860,7 +2861,6 @@
  <file alias='icons/hicolor/64x64/friction/markers-add.png'>hicolor/64x64/friction/markers-add.png</file>
  <file alias='icons/hicolor/64x64/friction/markers-edit.png'>hicolor/64x64/friction/markers-edit.png</file>
  <file alias='icons/hicolor/64x64/friction/preview_loop.png'>hicolor/64x64/friction/preview_loop.png</file>
- <file alias='icons/hicolor/64x64/friction/preview_realtime.png'>hicolor/64x64/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/64x64/friction/range-clear.png'>hicolor/64x64/friction/range-clear.png</file>
  <file alias='icons/hicolor/64x64/friction/range-in.png'>hicolor/64x64/friction/range-in.png</file>
  <file alias='icons/hicolor/64x64/friction/range-out.png'>hicolor/64x64/friction/range-out.png</file>
@@ -3073,6 +3073,7 @@
  <file alias='icons/hicolor/96x96/actions/zoom_in.png'>hicolor/96x96/actions/zoom_in.png</file>
  <file alias='icons/hicolor/96x96/actions/zoom_out.png'>hicolor/96x96/actions/zoom_out.png</file>
  <file alias='icons/hicolor/96x96/apps/graphics.friction.Friction.png'>hicolor/96x96/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/96x96/friction/adjustments.png'>hicolor/96x96/friction/adjustments.png</file>
  <file alias='icons/hicolor/96x96/friction/alignment.png'>hicolor/96x96/friction/alignment.png</file>
  <file alias='icons/hicolor/96x96/friction/box-checked-hover.png'>hicolor/96x96/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/96x96/friction/box-checked.png'>hicolor/96x96/friction/box-checked.png</file>
@@ -3094,7 +3095,6 @@
  <file alias='icons/hicolor/96x96/friction/markers-add.png'>hicolor/96x96/friction/markers-add.png</file>
  <file alias='icons/hicolor/96x96/friction/markers-edit.png'>hicolor/96x96/friction/markers-edit.png</file>
  <file alias='icons/hicolor/96x96/friction/preview_loop.png'>hicolor/96x96/friction/preview_loop.png</file>
- <file alias='icons/hicolor/96x96/friction/preview_realtime.png'>hicolor/96x96/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/96x96/friction/range-clear.png'>hicolor/96x96/friction/range-clear.png</file>
  <file alias='icons/hicolor/96x96/friction/range-in.png'>hicolor/96x96/friction/range-in.png</file>
  <file alias='icons/hicolor/96x96/friction/range-out.png'>hicolor/96x96/friction/range-out.png</file>
@@ -3307,6 +3307,7 @@
  <file alias='icons/hicolor/128x128/actions/zoom_in.png'>hicolor/128x128/actions/zoom_in.png</file>
  <file alias='icons/hicolor/128x128/actions/zoom_out.png'>hicolor/128x128/actions/zoom_out.png</file>
  <file alias='icons/hicolor/128x128/apps/graphics.friction.Friction.png'>hicolor/128x128/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/128x128/friction/adjustments.png'>hicolor/128x128/friction/adjustments.png</file>
  <file alias='icons/hicolor/128x128/friction/alignment.png'>hicolor/128x128/friction/alignment.png</file>
  <file alias='icons/hicolor/128x128/friction/box-checked-hover.png'>hicolor/128x128/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/128x128/friction/box-checked.png'>hicolor/128x128/friction/box-checked.png</file>
@@ -3328,7 +3329,6 @@
  <file alias='icons/hicolor/128x128/friction/markers-add.png'>hicolor/128x128/friction/markers-add.png</file>
  <file alias='icons/hicolor/128x128/friction/markers-edit.png'>hicolor/128x128/friction/markers-edit.png</file>
  <file alias='icons/hicolor/128x128/friction/preview_loop.png'>hicolor/128x128/friction/preview_loop.png</file>
- <file alias='icons/hicolor/128x128/friction/preview_realtime.png'>hicolor/128x128/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/128x128/friction/range-clear.png'>hicolor/128x128/friction/range-clear.png</file>
  <file alias='icons/hicolor/128x128/friction/range-in.png'>hicolor/128x128/friction/range-in.png</file>
  <file alias='icons/hicolor/128x128/friction/range-out.png'>hicolor/128x128/friction/range-out.png</file>
@@ -3541,6 +3541,7 @@
  <file alias='icons/hicolor/192x192/actions/zoom_in.png'>hicolor/192x192/actions/zoom_in.png</file>
  <file alias='icons/hicolor/192x192/actions/zoom_out.png'>hicolor/192x192/actions/zoom_out.png</file>
  <file alias='icons/hicolor/192x192/apps/graphics.friction.Friction.png'>hicolor/192x192/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/192x192/friction/adjustments.png'>hicolor/192x192/friction/adjustments.png</file>
  <file alias='icons/hicolor/192x192/friction/alignment.png'>hicolor/192x192/friction/alignment.png</file>
  <file alias='icons/hicolor/192x192/friction/box-checked-hover.png'>hicolor/192x192/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/192x192/friction/box-checked.png'>hicolor/192x192/friction/box-checked.png</file>
@@ -3562,7 +3563,6 @@
  <file alias='icons/hicolor/192x192/friction/markers-add.png'>hicolor/192x192/friction/markers-add.png</file>
  <file alias='icons/hicolor/192x192/friction/markers-edit.png'>hicolor/192x192/friction/markers-edit.png</file>
  <file alias='icons/hicolor/192x192/friction/preview_loop.png'>hicolor/192x192/friction/preview_loop.png</file>
- <file alias='icons/hicolor/192x192/friction/preview_realtime.png'>hicolor/192x192/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/192x192/friction/range-clear.png'>hicolor/192x192/friction/range-clear.png</file>
  <file alias='icons/hicolor/192x192/friction/range-in.png'>hicolor/192x192/friction/range-in.png</file>
  <file alias='icons/hicolor/192x192/friction/range-out.png'>hicolor/192x192/friction/range-out.png</file>
@@ -3775,6 +3775,7 @@
  <file alias='icons/hicolor/256x256/actions/zoom_in.png'>hicolor/256x256/actions/zoom_in.png</file>
  <file alias='icons/hicolor/256x256/actions/zoom_out.png'>hicolor/256x256/actions/zoom_out.png</file>
  <file alias='icons/hicolor/256x256/apps/graphics.friction.Friction.png'>hicolor/256x256/apps/graphics.friction.Friction.png</file>
+ <file alias='icons/hicolor/256x256/friction/adjustments.png'>hicolor/256x256/friction/adjustments.png</file>
  <file alias='icons/hicolor/256x256/friction/alignment.png'>hicolor/256x256/friction/alignment.png</file>
  <file alias='icons/hicolor/256x256/friction/box-checked-hover.png'>hicolor/256x256/friction/box-checked-hover.png</file>
  <file alias='icons/hicolor/256x256/friction/box-checked.png'>hicolor/256x256/friction/box-checked.png</file>
@@ -3796,7 +3797,6 @@
  <file alias='icons/hicolor/256x256/friction/markers-add.png'>hicolor/256x256/friction/markers-add.png</file>
  <file alias='icons/hicolor/256x256/friction/markers-edit.png'>hicolor/256x256/friction/markers-edit.png</file>
  <file alias='icons/hicolor/256x256/friction/preview_loop.png'>hicolor/256x256/friction/preview_loop.png</file>
- <file alias='icons/hicolor/256x256/friction/preview_realtime.png'>hicolor/256x256/friction/preview_realtime.png</file>
  <file alias='icons/hicolor/256x256/friction/range-clear.png'>hicolor/256x256/friction/range-clear.png</file>
  <file alias='icons/hicolor/256x256/friction/range-in.png'>hicolor/256x256/friction/range-in.png</file>
  <file alias='icons/hicolor/256x256/friction/range-out.png'>hicolor/256x256/friction/range-out.png</file>
