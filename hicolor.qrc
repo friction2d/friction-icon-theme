@@ -65,6 +65,8 @@
  <file alias='icons/hicolor/16x16/friction/range-out.png'>hicolor/16x16/friction/range-out.png</file>
  <file alias='icons/hicolor/16x16/friction/stroke_flat_2.png'>hicolor/16x16/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/16x16/friction/stroke_flat.png'>hicolor/16x16/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/16x16/friction/zoom_horizontal.png'>hicolor/16x16/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/16x16/friction/zoom_vertical.png'>hicolor/16x16/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/16x16/friction-tools/boxTransform.png'>hicolor/16x16/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/16x16/friction-tools/circleCreate.png'>hicolor/16x16/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/16x16/friction-tools/drawPath.png'>hicolor/16x16/friction-tools/drawPath.png</file>
@@ -127,6 +129,7 @@
  <file alias='icons/hicolor/16x16/legacy/alignRight.png'>hicolor/16x16/legacy/alignRight.png</file>
  <file alias='icons/hicolor/16x16/legacy/alignTop.png'>hicolor/16x16/legacy/alignTop.png</file>
  <file alias='icons/hicolor/16x16/legacy/alignVCenter.png'>hicolor/16x16/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/16x16/legacy/alpha.png'>hicolor/16x16/legacy/alpha.png</file>
  <file alias='icons/hicolor/16x16/legacy/asset_manager.png'>hicolor/16x16/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/16x16/legacy/cancel.png'>hicolor/16x16/legacy/cancel.png</file>
  <file alias='icons/hicolor/16x16/legacy/capFlat.png'>hicolor/16x16/legacy/capFlat.png</file>
@@ -192,6 +195,7 @@
  <file alias='icons/hicolor/16x16/legacy/pivot-align-right.png'>hicolor/16x16/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/16x16/legacy/pivot-align-top.png'>hicolor/16x16/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/16x16/legacy/pivot-align-vcenter.png'>hicolor/16x16/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/16x16/legacy/pivot.png'>hicolor/16x16/legacy/pivot.png</file>
  <file alias='icons/hicolor/16x16/legacy/play.png'>hicolor/16x16/legacy/play.png</file>
  <file alias='icons/hicolor/16x16/legacy/plus.png'>hicolor/16x16/legacy/plus.png</file>
  <file alias='icons/hicolor/16x16/legacy/preferences.png'>hicolor/16x16/legacy/preferences.png</file>
@@ -306,6 +310,8 @@
  <file alias='icons/hicolor/17x17/friction/range-out.png'>hicolor/17x17/friction/range-out.png</file>
  <file alias='icons/hicolor/17x17/friction/stroke_flat_2.png'>hicolor/17x17/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/17x17/friction/stroke_flat.png'>hicolor/17x17/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/17x17/friction/zoom_horizontal.png'>hicolor/17x17/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/17x17/friction/zoom_vertical.png'>hicolor/17x17/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/17x17/friction-tools/boxTransform.png'>hicolor/17x17/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/17x17/friction-tools/circleCreate.png'>hicolor/17x17/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/17x17/friction-tools/drawPath.png'>hicolor/17x17/friction-tools/drawPath.png</file>
@@ -368,6 +374,7 @@
  <file alias='icons/hicolor/17x17/legacy/alignRight.png'>hicolor/17x17/legacy/alignRight.png</file>
  <file alias='icons/hicolor/17x17/legacy/alignTop.png'>hicolor/17x17/legacy/alignTop.png</file>
  <file alias='icons/hicolor/17x17/legacy/alignVCenter.png'>hicolor/17x17/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/17x17/legacy/alpha.png'>hicolor/17x17/legacy/alpha.png</file>
  <file alias='icons/hicolor/17x17/legacy/asset_manager.png'>hicolor/17x17/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/17x17/legacy/cancel.png'>hicolor/17x17/legacy/cancel.png</file>
  <file alias='icons/hicolor/17x17/legacy/capFlat.png'>hicolor/17x17/legacy/capFlat.png</file>
@@ -433,6 +440,7 @@
  <file alias='icons/hicolor/17x17/legacy/pivot-align-right.png'>hicolor/17x17/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/17x17/legacy/pivot-align-top.png'>hicolor/17x17/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/17x17/legacy/pivot-align-vcenter.png'>hicolor/17x17/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/17x17/legacy/pivot.png'>hicolor/17x17/legacy/pivot.png</file>
  <file alias='icons/hicolor/17x17/legacy/play.png'>hicolor/17x17/legacy/play.png</file>
  <file alias='icons/hicolor/17x17/legacy/plus.png'>hicolor/17x17/legacy/plus.png</file>
  <file alias='icons/hicolor/17x17/legacy/preferences.png'>hicolor/17x17/legacy/preferences.png</file>
@@ -547,6 +555,8 @@
  <file alias='icons/hicolor/18x18/friction/range-out.png'>hicolor/18x18/friction/range-out.png</file>
  <file alias='icons/hicolor/18x18/friction/stroke_flat_2.png'>hicolor/18x18/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/18x18/friction/stroke_flat.png'>hicolor/18x18/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/18x18/friction/zoom_horizontal.png'>hicolor/18x18/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/18x18/friction/zoom_vertical.png'>hicolor/18x18/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/18x18/friction-tools/boxTransform.png'>hicolor/18x18/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/18x18/friction-tools/circleCreate.png'>hicolor/18x18/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/18x18/friction-tools/drawPath.png'>hicolor/18x18/friction-tools/drawPath.png</file>
@@ -609,6 +619,7 @@
  <file alias='icons/hicolor/18x18/legacy/alignRight.png'>hicolor/18x18/legacy/alignRight.png</file>
  <file alias='icons/hicolor/18x18/legacy/alignTop.png'>hicolor/18x18/legacy/alignTop.png</file>
  <file alias='icons/hicolor/18x18/legacy/alignVCenter.png'>hicolor/18x18/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/18x18/legacy/alpha.png'>hicolor/18x18/legacy/alpha.png</file>
  <file alias='icons/hicolor/18x18/legacy/asset_manager.png'>hicolor/18x18/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/18x18/legacy/cancel.png'>hicolor/18x18/legacy/cancel.png</file>
  <file alias='icons/hicolor/18x18/legacy/capFlat.png'>hicolor/18x18/legacy/capFlat.png</file>
@@ -674,6 +685,7 @@
  <file alias='icons/hicolor/18x18/legacy/pivot-align-right.png'>hicolor/18x18/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/18x18/legacy/pivot-align-top.png'>hicolor/18x18/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/18x18/legacy/pivot-align-vcenter.png'>hicolor/18x18/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/18x18/legacy/pivot.png'>hicolor/18x18/legacy/pivot.png</file>
  <file alias='icons/hicolor/18x18/legacy/play.png'>hicolor/18x18/legacy/play.png</file>
  <file alias='icons/hicolor/18x18/legacy/plus.png'>hicolor/18x18/legacy/plus.png</file>
  <file alias='icons/hicolor/18x18/legacy/preferences.png'>hicolor/18x18/legacy/preferences.png</file>
@@ -788,6 +800,8 @@
  <file alias='icons/hicolor/20x20/friction/range-out.png'>hicolor/20x20/friction/range-out.png</file>
  <file alias='icons/hicolor/20x20/friction/stroke_flat_2.png'>hicolor/20x20/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/20x20/friction/stroke_flat.png'>hicolor/20x20/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/20x20/friction/zoom_horizontal.png'>hicolor/20x20/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/20x20/friction/zoom_vertical.png'>hicolor/20x20/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/20x20/friction-tools/boxTransform.png'>hicolor/20x20/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/20x20/friction-tools/circleCreate.png'>hicolor/20x20/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/20x20/friction-tools/drawPath.png'>hicolor/20x20/friction-tools/drawPath.png</file>
@@ -850,6 +864,7 @@
  <file alias='icons/hicolor/20x20/legacy/alignRight.png'>hicolor/20x20/legacy/alignRight.png</file>
  <file alias='icons/hicolor/20x20/legacy/alignTop.png'>hicolor/20x20/legacy/alignTop.png</file>
  <file alias='icons/hicolor/20x20/legacy/alignVCenter.png'>hicolor/20x20/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/20x20/legacy/alpha.png'>hicolor/20x20/legacy/alpha.png</file>
  <file alias='icons/hicolor/20x20/legacy/asset_manager.png'>hicolor/20x20/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/20x20/legacy/cancel.png'>hicolor/20x20/legacy/cancel.png</file>
  <file alias='icons/hicolor/20x20/legacy/capFlat.png'>hicolor/20x20/legacy/capFlat.png</file>
@@ -915,6 +930,7 @@
  <file alias='icons/hicolor/20x20/legacy/pivot-align-right.png'>hicolor/20x20/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/20x20/legacy/pivot-align-top.png'>hicolor/20x20/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/20x20/legacy/pivot-align-vcenter.png'>hicolor/20x20/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/20x20/legacy/pivot.png'>hicolor/20x20/legacy/pivot.png</file>
  <file alias='icons/hicolor/20x20/legacy/play.png'>hicolor/20x20/legacy/play.png</file>
  <file alias='icons/hicolor/20x20/legacy/plus.png'>hicolor/20x20/legacy/plus.png</file>
  <file alias='icons/hicolor/20x20/legacy/preferences.png'>hicolor/20x20/legacy/preferences.png</file>
@@ -1029,6 +1045,8 @@
  <file alias='icons/hicolor/21x21/friction/range-out.png'>hicolor/21x21/friction/range-out.png</file>
  <file alias='icons/hicolor/21x21/friction/stroke_flat_2.png'>hicolor/21x21/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/21x21/friction/stroke_flat.png'>hicolor/21x21/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/21x21/friction/zoom_horizontal.png'>hicolor/21x21/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/21x21/friction/zoom_vertical.png'>hicolor/21x21/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/21x21/friction-tools/boxTransform.png'>hicolor/21x21/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/21x21/friction-tools/circleCreate.png'>hicolor/21x21/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/21x21/friction-tools/drawPath.png'>hicolor/21x21/friction-tools/drawPath.png</file>
@@ -1091,6 +1109,7 @@
  <file alias='icons/hicolor/21x21/legacy/alignRight.png'>hicolor/21x21/legacy/alignRight.png</file>
  <file alias='icons/hicolor/21x21/legacy/alignTop.png'>hicolor/21x21/legacy/alignTop.png</file>
  <file alias='icons/hicolor/21x21/legacy/alignVCenter.png'>hicolor/21x21/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/21x21/legacy/alpha.png'>hicolor/21x21/legacy/alpha.png</file>
  <file alias='icons/hicolor/21x21/legacy/asset_manager.png'>hicolor/21x21/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/21x21/legacy/cancel.png'>hicolor/21x21/legacy/cancel.png</file>
  <file alias='icons/hicolor/21x21/legacy/capFlat.png'>hicolor/21x21/legacy/capFlat.png</file>
@@ -1156,6 +1175,7 @@
  <file alias='icons/hicolor/21x21/legacy/pivot-align-right.png'>hicolor/21x21/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/21x21/legacy/pivot-align-top.png'>hicolor/21x21/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/21x21/legacy/pivot-align-vcenter.png'>hicolor/21x21/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/21x21/legacy/pivot.png'>hicolor/21x21/legacy/pivot.png</file>
  <file alias='icons/hicolor/21x21/legacy/play.png'>hicolor/21x21/legacy/play.png</file>
  <file alias='icons/hicolor/21x21/legacy/plus.png'>hicolor/21x21/legacy/plus.png</file>
  <file alias='icons/hicolor/21x21/legacy/preferences.png'>hicolor/21x21/legacy/preferences.png</file>
@@ -1270,6 +1290,8 @@
  <file alias='icons/hicolor/22x22/friction/range-out.png'>hicolor/22x22/friction/range-out.png</file>
  <file alias='icons/hicolor/22x22/friction/stroke_flat_2.png'>hicolor/22x22/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/22x22/friction/stroke_flat.png'>hicolor/22x22/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/22x22/friction/zoom_horizontal.png'>hicolor/22x22/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/22x22/friction/zoom_vertical.png'>hicolor/22x22/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/22x22/friction-tools/boxTransform.png'>hicolor/22x22/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/22x22/friction-tools/circleCreate.png'>hicolor/22x22/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/22x22/friction-tools/drawPath.png'>hicolor/22x22/friction-tools/drawPath.png</file>
@@ -1332,6 +1354,7 @@
  <file alias='icons/hicolor/22x22/legacy/alignRight.png'>hicolor/22x22/legacy/alignRight.png</file>
  <file alias='icons/hicolor/22x22/legacy/alignTop.png'>hicolor/22x22/legacy/alignTop.png</file>
  <file alias='icons/hicolor/22x22/legacy/alignVCenter.png'>hicolor/22x22/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/22x22/legacy/alpha.png'>hicolor/22x22/legacy/alpha.png</file>
  <file alias='icons/hicolor/22x22/legacy/asset_manager.png'>hicolor/22x22/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/22x22/legacy/cancel.png'>hicolor/22x22/legacy/cancel.png</file>
  <file alias='icons/hicolor/22x22/legacy/capFlat.png'>hicolor/22x22/legacy/capFlat.png</file>
@@ -1397,6 +1420,7 @@
  <file alias='icons/hicolor/22x22/legacy/pivot-align-right.png'>hicolor/22x22/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/22x22/legacy/pivot-align-top.png'>hicolor/22x22/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/22x22/legacy/pivot-align-vcenter.png'>hicolor/22x22/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/22x22/legacy/pivot.png'>hicolor/22x22/legacy/pivot.png</file>
  <file alias='icons/hicolor/22x22/legacy/play.png'>hicolor/22x22/legacy/play.png</file>
  <file alias='icons/hicolor/22x22/legacy/plus.png'>hicolor/22x22/legacy/plus.png</file>
  <file alias='icons/hicolor/22x22/legacy/preferences.png'>hicolor/22x22/legacy/preferences.png</file>
@@ -1511,6 +1535,8 @@
  <file alias='icons/hicolor/24x24/friction/range-out.png'>hicolor/24x24/friction/range-out.png</file>
  <file alias='icons/hicolor/24x24/friction/stroke_flat_2.png'>hicolor/24x24/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/24x24/friction/stroke_flat.png'>hicolor/24x24/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/24x24/friction/zoom_horizontal.png'>hicolor/24x24/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/24x24/friction/zoom_vertical.png'>hicolor/24x24/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/24x24/friction-tools/boxTransform.png'>hicolor/24x24/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/24x24/friction-tools/circleCreate.png'>hicolor/24x24/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/24x24/friction-tools/drawPath.png'>hicolor/24x24/friction-tools/drawPath.png</file>
@@ -1573,6 +1599,7 @@
  <file alias='icons/hicolor/24x24/legacy/alignRight.png'>hicolor/24x24/legacy/alignRight.png</file>
  <file alias='icons/hicolor/24x24/legacy/alignTop.png'>hicolor/24x24/legacy/alignTop.png</file>
  <file alias='icons/hicolor/24x24/legacy/alignVCenter.png'>hicolor/24x24/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/24x24/legacy/alpha.png'>hicolor/24x24/legacy/alpha.png</file>
  <file alias='icons/hicolor/24x24/legacy/asset_manager.png'>hicolor/24x24/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/24x24/legacy/cancel.png'>hicolor/24x24/legacy/cancel.png</file>
  <file alias='icons/hicolor/24x24/legacy/capFlat.png'>hicolor/24x24/legacy/capFlat.png</file>
@@ -1638,6 +1665,7 @@
  <file alias='icons/hicolor/24x24/legacy/pivot-align-right.png'>hicolor/24x24/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/24x24/legacy/pivot-align-top.png'>hicolor/24x24/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/24x24/legacy/pivot-align-vcenter.png'>hicolor/24x24/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/24x24/legacy/pivot.png'>hicolor/24x24/legacy/pivot.png</file>
  <file alias='icons/hicolor/24x24/legacy/play.png'>hicolor/24x24/legacy/play.png</file>
  <file alias='icons/hicolor/24x24/legacy/plus.png'>hicolor/24x24/legacy/plus.png</file>
  <file alias='icons/hicolor/24x24/legacy/preferences.png'>hicolor/24x24/legacy/preferences.png</file>
@@ -1752,6 +1780,8 @@
  <file alias='icons/hicolor/25x25/friction/range-out.png'>hicolor/25x25/friction/range-out.png</file>
  <file alias='icons/hicolor/25x25/friction/stroke_flat_2.png'>hicolor/25x25/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/25x25/friction/stroke_flat.png'>hicolor/25x25/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/25x25/friction/zoom_horizontal.png'>hicolor/25x25/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/25x25/friction/zoom_vertical.png'>hicolor/25x25/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/25x25/friction-tools/boxTransform.png'>hicolor/25x25/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/25x25/friction-tools/circleCreate.png'>hicolor/25x25/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/25x25/friction-tools/drawPath.png'>hicolor/25x25/friction-tools/drawPath.png</file>
@@ -1814,6 +1844,7 @@
  <file alias='icons/hicolor/25x25/legacy/alignRight.png'>hicolor/25x25/legacy/alignRight.png</file>
  <file alias='icons/hicolor/25x25/legacy/alignTop.png'>hicolor/25x25/legacy/alignTop.png</file>
  <file alias='icons/hicolor/25x25/legacy/alignVCenter.png'>hicolor/25x25/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/25x25/legacy/alpha.png'>hicolor/25x25/legacy/alpha.png</file>
  <file alias='icons/hicolor/25x25/legacy/asset_manager.png'>hicolor/25x25/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/25x25/legacy/cancel.png'>hicolor/25x25/legacy/cancel.png</file>
  <file alias='icons/hicolor/25x25/legacy/capFlat.png'>hicolor/25x25/legacy/capFlat.png</file>
@@ -1879,6 +1910,7 @@
  <file alias='icons/hicolor/25x25/legacy/pivot-align-right.png'>hicolor/25x25/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/25x25/legacy/pivot-align-top.png'>hicolor/25x25/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/25x25/legacy/pivot-align-vcenter.png'>hicolor/25x25/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/25x25/legacy/pivot.png'>hicolor/25x25/legacy/pivot.png</file>
  <file alias='icons/hicolor/25x25/legacy/play.png'>hicolor/25x25/legacy/play.png</file>
  <file alias='icons/hicolor/25x25/legacy/plus.png'>hicolor/25x25/legacy/plus.png</file>
  <file alias='icons/hicolor/25x25/legacy/preferences.png'>hicolor/25x25/legacy/preferences.png</file>
@@ -1993,6 +2025,8 @@
  <file alias='icons/hicolor/26x26/friction/range-out.png'>hicolor/26x26/friction/range-out.png</file>
  <file alias='icons/hicolor/26x26/friction/stroke_flat_2.png'>hicolor/26x26/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/26x26/friction/stroke_flat.png'>hicolor/26x26/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/26x26/friction/zoom_horizontal.png'>hicolor/26x26/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/26x26/friction/zoom_vertical.png'>hicolor/26x26/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/26x26/friction-tools/boxTransform.png'>hicolor/26x26/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/26x26/friction-tools/circleCreate.png'>hicolor/26x26/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/26x26/friction-tools/drawPath.png'>hicolor/26x26/friction-tools/drawPath.png</file>
@@ -2055,6 +2089,7 @@
  <file alias='icons/hicolor/26x26/legacy/alignRight.png'>hicolor/26x26/legacy/alignRight.png</file>
  <file alias='icons/hicolor/26x26/legacy/alignTop.png'>hicolor/26x26/legacy/alignTop.png</file>
  <file alias='icons/hicolor/26x26/legacy/alignVCenter.png'>hicolor/26x26/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/26x26/legacy/alpha.png'>hicolor/26x26/legacy/alpha.png</file>
  <file alias='icons/hicolor/26x26/legacy/asset_manager.png'>hicolor/26x26/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/26x26/legacy/cancel.png'>hicolor/26x26/legacy/cancel.png</file>
  <file alias='icons/hicolor/26x26/legacy/capFlat.png'>hicolor/26x26/legacy/capFlat.png</file>
@@ -2120,6 +2155,7 @@
  <file alias='icons/hicolor/26x26/legacy/pivot-align-right.png'>hicolor/26x26/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/26x26/legacy/pivot-align-top.png'>hicolor/26x26/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/26x26/legacy/pivot-align-vcenter.png'>hicolor/26x26/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/26x26/legacy/pivot.png'>hicolor/26x26/legacy/pivot.png</file>
  <file alias='icons/hicolor/26x26/legacy/play.png'>hicolor/26x26/legacy/play.png</file>
  <file alias='icons/hicolor/26x26/legacy/plus.png'>hicolor/26x26/legacy/plus.png</file>
  <file alias='icons/hicolor/26x26/legacy/preferences.png'>hicolor/26x26/legacy/preferences.png</file>
@@ -2234,6 +2270,8 @@
  <file alias='icons/hicolor/28x28/friction/range-out.png'>hicolor/28x28/friction/range-out.png</file>
  <file alias='icons/hicolor/28x28/friction/stroke_flat_2.png'>hicolor/28x28/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/28x28/friction/stroke_flat.png'>hicolor/28x28/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/28x28/friction/zoom_horizontal.png'>hicolor/28x28/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/28x28/friction/zoom_vertical.png'>hicolor/28x28/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/28x28/friction-tools/boxTransform.png'>hicolor/28x28/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/28x28/friction-tools/circleCreate.png'>hicolor/28x28/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/28x28/friction-tools/drawPath.png'>hicolor/28x28/friction-tools/drawPath.png</file>
@@ -2296,6 +2334,7 @@
  <file alias='icons/hicolor/28x28/legacy/alignRight.png'>hicolor/28x28/legacy/alignRight.png</file>
  <file alias='icons/hicolor/28x28/legacy/alignTop.png'>hicolor/28x28/legacy/alignTop.png</file>
  <file alias='icons/hicolor/28x28/legacy/alignVCenter.png'>hicolor/28x28/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/28x28/legacy/alpha.png'>hicolor/28x28/legacy/alpha.png</file>
  <file alias='icons/hicolor/28x28/legacy/asset_manager.png'>hicolor/28x28/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/28x28/legacy/cancel.png'>hicolor/28x28/legacy/cancel.png</file>
  <file alias='icons/hicolor/28x28/legacy/capFlat.png'>hicolor/28x28/legacy/capFlat.png</file>
@@ -2361,6 +2400,7 @@
  <file alias='icons/hicolor/28x28/legacy/pivot-align-right.png'>hicolor/28x28/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/28x28/legacy/pivot-align-top.png'>hicolor/28x28/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/28x28/legacy/pivot-align-vcenter.png'>hicolor/28x28/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/28x28/legacy/pivot.png'>hicolor/28x28/legacy/pivot.png</file>
  <file alias='icons/hicolor/28x28/legacy/play.png'>hicolor/28x28/legacy/play.png</file>
  <file alias='icons/hicolor/28x28/legacy/plus.png'>hicolor/28x28/legacy/plus.png</file>
  <file alias='icons/hicolor/28x28/legacy/preferences.png'>hicolor/28x28/legacy/preferences.png</file>
@@ -2475,6 +2515,8 @@
  <file alias='icons/hicolor/32x32/friction/range-out.png'>hicolor/32x32/friction/range-out.png</file>
  <file alias='icons/hicolor/32x32/friction/stroke_flat_2.png'>hicolor/32x32/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/32x32/friction/stroke_flat.png'>hicolor/32x32/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/32x32/friction/zoom_horizontal.png'>hicolor/32x32/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/32x32/friction/zoom_vertical.png'>hicolor/32x32/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/32x32/friction-tools/boxTransform.png'>hicolor/32x32/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/32x32/friction-tools/circleCreate.png'>hicolor/32x32/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/32x32/friction-tools/drawPath.png'>hicolor/32x32/friction-tools/drawPath.png</file>
@@ -2537,6 +2579,7 @@
  <file alias='icons/hicolor/32x32/legacy/alignRight.png'>hicolor/32x32/legacy/alignRight.png</file>
  <file alias='icons/hicolor/32x32/legacy/alignTop.png'>hicolor/32x32/legacy/alignTop.png</file>
  <file alias='icons/hicolor/32x32/legacy/alignVCenter.png'>hicolor/32x32/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/32x32/legacy/alpha.png'>hicolor/32x32/legacy/alpha.png</file>
  <file alias='icons/hicolor/32x32/legacy/asset_manager.png'>hicolor/32x32/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/32x32/legacy/cancel.png'>hicolor/32x32/legacy/cancel.png</file>
  <file alias='icons/hicolor/32x32/legacy/capFlat.png'>hicolor/32x32/legacy/capFlat.png</file>
@@ -2602,6 +2645,7 @@
  <file alias='icons/hicolor/32x32/legacy/pivot-align-right.png'>hicolor/32x32/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/32x32/legacy/pivot-align-top.png'>hicolor/32x32/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/32x32/legacy/pivot-align-vcenter.png'>hicolor/32x32/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/32x32/legacy/pivot.png'>hicolor/32x32/legacy/pivot.png</file>
  <file alias='icons/hicolor/32x32/legacy/play.png'>hicolor/32x32/legacy/play.png</file>
  <file alias='icons/hicolor/32x32/legacy/plus.png'>hicolor/32x32/legacy/plus.png</file>
  <file alias='icons/hicolor/32x32/legacy/preferences.png'>hicolor/32x32/legacy/preferences.png</file>
@@ -2716,6 +2760,8 @@
  <file alias='icons/hicolor/48x48/friction/range-out.png'>hicolor/48x48/friction/range-out.png</file>
  <file alias='icons/hicolor/48x48/friction/stroke_flat_2.png'>hicolor/48x48/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/48x48/friction/stroke_flat.png'>hicolor/48x48/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/48x48/friction/zoom_horizontal.png'>hicolor/48x48/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/48x48/friction/zoom_vertical.png'>hicolor/48x48/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/48x48/friction-tools/boxTransform.png'>hicolor/48x48/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/48x48/friction-tools/circleCreate.png'>hicolor/48x48/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/48x48/friction-tools/drawPath.png'>hicolor/48x48/friction-tools/drawPath.png</file>
@@ -2778,6 +2824,7 @@
  <file alias='icons/hicolor/48x48/legacy/alignRight.png'>hicolor/48x48/legacy/alignRight.png</file>
  <file alias='icons/hicolor/48x48/legacy/alignTop.png'>hicolor/48x48/legacy/alignTop.png</file>
  <file alias='icons/hicolor/48x48/legacy/alignVCenter.png'>hicolor/48x48/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/48x48/legacy/alpha.png'>hicolor/48x48/legacy/alpha.png</file>
  <file alias='icons/hicolor/48x48/legacy/asset_manager.png'>hicolor/48x48/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/48x48/legacy/cancel.png'>hicolor/48x48/legacy/cancel.png</file>
  <file alias='icons/hicolor/48x48/legacy/capFlat.png'>hicolor/48x48/legacy/capFlat.png</file>
@@ -2843,6 +2890,7 @@
  <file alias='icons/hicolor/48x48/legacy/pivot-align-right.png'>hicolor/48x48/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/48x48/legacy/pivot-align-top.png'>hicolor/48x48/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/48x48/legacy/pivot-align-vcenter.png'>hicolor/48x48/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/48x48/legacy/pivot.png'>hicolor/48x48/legacy/pivot.png</file>
  <file alias='icons/hicolor/48x48/legacy/play.png'>hicolor/48x48/legacy/play.png</file>
  <file alias='icons/hicolor/48x48/legacy/plus.png'>hicolor/48x48/legacy/plus.png</file>
  <file alias='icons/hicolor/48x48/legacy/preferences.png'>hicolor/48x48/legacy/preferences.png</file>
@@ -2957,6 +3005,8 @@
  <file alias='icons/hicolor/64x64/friction/range-out.png'>hicolor/64x64/friction/range-out.png</file>
  <file alias='icons/hicolor/64x64/friction/stroke_flat_2.png'>hicolor/64x64/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/64x64/friction/stroke_flat.png'>hicolor/64x64/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/64x64/friction/zoom_horizontal.png'>hicolor/64x64/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/64x64/friction/zoom_vertical.png'>hicolor/64x64/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/64x64/friction-tools/boxTransform.png'>hicolor/64x64/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/64x64/friction-tools/circleCreate.png'>hicolor/64x64/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/64x64/friction-tools/drawPath.png'>hicolor/64x64/friction-tools/drawPath.png</file>
@@ -3019,6 +3069,7 @@
  <file alias='icons/hicolor/64x64/legacy/alignRight.png'>hicolor/64x64/legacy/alignRight.png</file>
  <file alias='icons/hicolor/64x64/legacy/alignTop.png'>hicolor/64x64/legacy/alignTop.png</file>
  <file alias='icons/hicolor/64x64/legacy/alignVCenter.png'>hicolor/64x64/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/64x64/legacy/alpha.png'>hicolor/64x64/legacy/alpha.png</file>
  <file alias='icons/hicolor/64x64/legacy/asset_manager.png'>hicolor/64x64/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/64x64/legacy/cancel.png'>hicolor/64x64/legacy/cancel.png</file>
  <file alias='icons/hicolor/64x64/legacy/capFlat.png'>hicolor/64x64/legacy/capFlat.png</file>
@@ -3084,6 +3135,7 @@
  <file alias='icons/hicolor/64x64/legacy/pivot-align-right.png'>hicolor/64x64/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/64x64/legacy/pivot-align-top.png'>hicolor/64x64/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/64x64/legacy/pivot-align-vcenter.png'>hicolor/64x64/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/64x64/legacy/pivot.png'>hicolor/64x64/legacy/pivot.png</file>
  <file alias='icons/hicolor/64x64/legacy/play.png'>hicolor/64x64/legacy/play.png</file>
  <file alias='icons/hicolor/64x64/legacy/plus.png'>hicolor/64x64/legacy/plus.png</file>
  <file alias='icons/hicolor/64x64/legacy/preferences.png'>hicolor/64x64/legacy/preferences.png</file>
@@ -3198,6 +3250,8 @@
  <file alias='icons/hicolor/96x96/friction/range-out.png'>hicolor/96x96/friction/range-out.png</file>
  <file alias='icons/hicolor/96x96/friction/stroke_flat_2.png'>hicolor/96x96/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/96x96/friction/stroke_flat.png'>hicolor/96x96/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/96x96/friction/zoom_horizontal.png'>hicolor/96x96/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/96x96/friction/zoom_vertical.png'>hicolor/96x96/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/96x96/friction-tools/boxTransform.png'>hicolor/96x96/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/96x96/friction-tools/circleCreate.png'>hicolor/96x96/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/96x96/friction-tools/drawPath.png'>hicolor/96x96/friction-tools/drawPath.png</file>
@@ -3260,6 +3314,7 @@
  <file alias='icons/hicolor/96x96/legacy/alignRight.png'>hicolor/96x96/legacy/alignRight.png</file>
  <file alias='icons/hicolor/96x96/legacy/alignTop.png'>hicolor/96x96/legacy/alignTop.png</file>
  <file alias='icons/hicolor/96x96/legacy/alignVCenter.png'>hicolor/96x96/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/96x96/legacy/alpha.png'>hicolor/96x96/legacy/alpha.png</file>
  <file alias='icons/hicolor/96x96/legacy/asset_manager.png'>hicolor/96x96/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/96x96/legacy/cancel.png'>hicolor/96x96/legacy/cancel.png</file>
  <file alias='icons/hicolor/96x96/legacy/capFlat.png'>hicolor/96x96/legacy/capFlat.png</file>
@@ -3325,6 +3380,7 @@
  <file alias='icons/hicolor/96x96/legacy/pivot-align-right.png'>hicolor/96x96/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/96x96/legacy/pivot-align-top.png'>hicolor/96x96/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/96x96/legacy/pivot-align-vcenter.png'>hicolor/96x96/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/96x96/legacy/pivot.png'>hicolor/96x96/legacy/pivot.png</file>
  <file alias='icons/hicolor/96x96/legacy/play.png'>hicolor/96x96/legacy/play.png</file>
  <file alias='icons/hicolor/96x96/legacy/plus.png'>hicolor/96x96/legacy/plus.png</file>
  <file alias='icons/hicolor/96x96/legacy/preferences.png'>hicolor/96x96/legacy/preferences.png</file>
@@ -3439,6 +3495,8 @@
  <file alias='icons/hicolor/128x128/friction/range-out.png'>hicolor/128x128/friction/range-out.png</file>
  <file alias='icons/hicolor/128x128/friction/stroke_flat_2.png'>hicolor/128x128/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/128x128/friction/stroke_flat.png'>hicolor/128x128/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/128x128/friction/zoom_horizontal.png'>hicolor/128x128/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/128x128/friction/zoom_vertical.png'>hicolor/128x128/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/128x128/friction-tools/boxTransform.png'>hicolor/128x128/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/128x128/friction-tools/circleCreate.png'>hicolor/128x128/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/128x128/friction-tools/drawPath.png'>hicolor/128x128/friction-tools/drawPath.png</file>
@@ -3501,6 +3559,7 @@
  <file alias='icons/hicolor/128x128/legacy/alignRight.png'>hicolor/128x128/legacy/alignRight.png</file>
  <file alias='icons/hicolor/128x128/legacy/alignTop.png'>hicolor/128x128/legacy/alignTop.png</file>
  <file alias='icons/hicolor/128x128/legacy/alignVCenter.png'>hicolor/128x128/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/128x128/legacy/alpha.png'>hicolor/128x128/legacy/alpha.png</file>
  <file alias='icons/hicolor/128x128/legacy/asset_manager.png'>hicolor/128x128/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/128x128/legacy/cancel.png'>hicolor/128x128/legacy/cancel.png</file>
  <file alias='icons/hicolor/128x128/legacy/capFlat.png'>hicolor/128x128/legacy/capFlat.png</file>
@@ -3566,6 +3625,7 @@
  <file alias='icons/hicolor/128x128/legacy/pivot-align-right.png'>hicolor/128x128/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/128x128/legacy/pivot-align-top.png'>hicolor/128x128/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/128x128/legacy/pivot-align-vcenter.png'>hicolor/128x128/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/128x128/legacy/pivot.png'>hicolor/128x128/legacy/pivot.png</file>
  <file alias='icons/hicolor/128x128/legacy/play.png'>hicolor/128x128/legacy/play.png</file>
  <file alias='icons/hicolor/128x128/legacy/plus.png'>hicolor/128x128/legacy/plus.png</file>
  <file alias='icons/hicolor/128x128/legacy/preferences.png'>hicolor/128x128/legacy/preferences.png</file>
@@ -3680,6 +3740,8 @@
  <file alias='icons/hicolor/192x192/friction/range-out.png'>hicolor/192x192/friction/range-out.png</file>
  <file alias='icons/hicolor/192x192/friction/stroke_flat_2.png'>hicolor/192x192/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/192x192/friction/stroke_flat.png'>hicolor/192x192/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/192x192/friction/zoom_horizontal.png'>hicolor/192x192/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/192x192/friction/zoom_vertical.png'>hicolor/192x192/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/192x192/friction-tools/boxTransform.png'>hicolor/192x192/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/192x192/friction-tools/circleCreate.png'>hicolor/192x192/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/192x192/friction-tools/drawPath.png'>hicolor/192x192/friction-tools/drawPath.png</file>
@@ -3742,6 +3804,7 @@
  <file alias='icons/hicolor/192x192/legacy/alignRight.png'>hicolor/192x192/legacy/alignRight.png</file>
  <file alias='icons/hicolor/192x192/legacy/alignTop.png'>hicolor/192x192/legacy/alignTop.png</file>
  <file alias='icons/hicolor/192x192/legacy/alignVCenter.png'>hicolor/192x192/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/192x192/legacy/alpha.png'>hicolor/192x192/legacy/alpha.png</file>
  <file alias='icons/hicolor/192x192/legacy/asset_manager.png'>hicolor/192x192/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/192x192/legacy/cancel.png'>hicolor/192x192/legacy/cancel.png</file>
  <file alias='icons/hicolor/192x192/legacy/capFlat.png'>hicolor/192x192/legacy/capFlat.png</file>
@@ -3807,6 +3870,7 @@
  <file alias='icons/hicolor/192x192/legacy/pivot-align-right.png'>hicolor/192x192/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/192x192/legacy/pivot-align-top.png'>hicolor/192x192/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/192x192/legacy/pivot-align-vcenter.png'>hicolor/192x192/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/192x192/legacy/pivot.png'>hicolor/192x192/legacy/pivot.png</file>
  <file alias='icons/hicolor/192x192/legacy/play.png'>hicolor/192x192/legacy/play.png</file>
  <file alias='icons/hicolor/192x192/legacy/plus.png'>hicolor/192x192/legacy/plus.png</file>
  <file alias='icons/hicolor/192x192/legacy/preferences.png'>hicolor/192x192/legacy/preferences.png</file>
@@ -3921,6 +3985,8 @@
  <file alias='icons/hicolor/256x256/friction/range-out.png'>hicolor/256x256/friction/range-out.png</file>
  <file alias='icons/hicolor/256x256/friction/stroke_flat_2.png'>hicolor/256x256/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/256x256/friction/stroke_flat.png'>hicolor/256x256/friction/stroke_flat.png</file>
+ <file alias='icons/hicolor/256x256/friction/zoom_horizontal.png'>hicolor/256x256/friction/zoom_horizontal.png</file>
+ <file alias='icons/hicolor/256x256/friction/zoom_vertical.png'>hicolor/256x256/friction/zoom_vertical.png</file>
  <file alias='icons/hicolor/256x256/friction-tools/boxTransform.png'>hicolor/256x256/friction-tools/boxTransform.png</file>
  <file alias='icons/hicolor/256x256/friction-tools/circleCreate.png'>hicolor/256x256/friction-tools/circleCreate.png</file>
  <file alias='icons/hicolor/256x256/friction-tools/drawPath.png'>hicolor/256x256/friction-tools/drawPath.png</file>
@@ -3983,6 +4049,7 @@
  <file alias='icons/hicolor/256x256/legacy/alignRight.png'>hicolor/256x256/legacy/alignRight.png</file>
  <file alias='icons/hicolor/256x256/legacy/alignTop.png'>hicolor/256x256/legacy/alignTop.png</file>
  <file alias='icons/hicolor/256x256/legacy/alignVCenter.png'>hicolor/256x256/legacy/alignVCenter.png</file>
+ <file alias='icons/hicolor/256x256/legacy/alpha.png'>hicolor/256x256/legacy/alpha.png</file>
  <file alias='icons/hicolor/256x256/legacy/asset_manager.png'>hicolor/256x256/legacy/asset_manager.png</file>
  <file alias='icons/hicolor/256x256/legacy/cancel.png'>hicolor/256x256/legacy/cancel.png</file>
  <file alias='icons/hicolor/256x256/legacy/capFlat.png'>hicolor/256x256/legacy/capFlat.png</file>
@@ -4048,6 +4115,7 @@
  <file alias='icons/hicolor/256x256/legacy/pivot-align-right.png'>hicolor/256x256/legacy/pivot-align-right.png</file>
  <file alias='icons/hicolor/256x256/legacy/pivot-align-top.png'>hicolor/256x256/legacy/pivot-align-top.png</file>
  <file alias='icons/hicolor/256x256/legacy/pivot-align-vcenter.png'>hicolor/256x256/legacy/pivot-align-vcenter.png</file>
+ <file alias='icons/hicolor/256x256/legacy/pivot.png'>hicolor/256x256/legacy/pivot.png</file>
  <file alias='icons/hicolor/256x256/legacy/play.png'>hicolor/256x256/legacy/play.png</file>
  <file alias='icons/hicolor/256x256/legacy/plus.png'>hicolor/256x256/legacy/plus.png</file>
  <file alias='icons/hicolor/256x256/legacy/preferences.png'>hicolor/256x256/legacy/preferences.png</file>
