@@ -61,6 +61,7 @@
  <file alias='icons/hicolor/16x16/friction/gizmo_scale_on.png'>hicolor/16x16/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/16x16/friction/gizmo_shear_off.png'>hicolor/16x16/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/16x16/friction/gizmo_shear_on.png'>hicolor/16x16/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/16x16/friction/gizmos.png'>hicolor/16x16/friction/gizmos.png</file>
  <file alias='icons/hicolor/16x16/friction/gizmo_translate_off.png'>hicolor/16x16/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/16x16/friction/gizmo_translate_on.png'>hicolor/16x16/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/16x16/friction/graph_property_2.png'>hicolor/16x16/friction/graph_property_2.png</file>
@@ -320,6 +321,7 @@
  <file alias='icons/hicolor/17x17/friction/gizmo_scale_on.png'>hicolor/17x17/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/17x17/friction/gizmo_shear_off.png'>hicolor/17x17/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/17x17/friction/gizmo_shear_on.png'>hicolor/17x17/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/17x17/friction/gizmos.png'>hicolor/17x17/friction/gizmos.png</file>
  <file alias='icons/hicolor/17x17/friction/gizmo_translate_off.png'>hicolor/17x17/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/17x17/friction/gizmo_translate_on.png'>hicolor/17x17/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/17x17/friction/graph_property_2.png'>hicolor/17x17/friction/graph_property_2.png</file>
@@ -579,6 +581,7 @@
  <file alias='icons/hicolor/18x18/friction/gizmo_scale_on.png'>hicolor/18x18/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/18x18/friction/gizmo_shear_off.png'>hicolor/18x18/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/18x18/friction/gizmo_shear_on.png'>hicolor/18x18/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/18x18/friction/gizmos.png'>hicolor/18x18/friction/gizmos.png</file>
  <file alias='icons/hicolor/18x18/friction/gizmo_translate_off.png'>hicolor/18x18/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/18x18/friction/gizmo_translate_on.png'>hicolor/18x18/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/18x18/friction/graph_property_2.png'>hicolor/18x18/friction/graph_property_2.png</file>
@@ -838,6 +841,7 @@
  <file alias='icons/hicolor/20x20/friction/gizmo_scale_on.png'>hicolor/20x20/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/20x20/friction/gizmo_shear_off.png'>hicolor/20x20/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/20x20/friction/gizmo_shear_on.png'>hicolor/20x20/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/20x20/friction/gizmos.png'>hicolor/20x20/friction/gizmos.png</file>
  <file alias='icons/hicolor/20x20/friction/gizmo_translate_off.png'>hicolor/20x20/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/20x20/friction/gizmo_translate_on.png'>hicolor/20x20/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/20x20/friction/graph_property_2.png'>hicolor/20x20/friction/graph_property_2.png</file>
@@ -1097,6 +1101,7 @@
  <file alias='icons/hicolor/21x21/friction/gizmo_scale_on.png'>hicolor/21x21/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/21x21/friction/gizmo_shear_off.png'>hicolor/21x21/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/21x21/friction/gizmo_shear_on.png'>hicolor/21x21/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/21x21/friction/gizmos.png'>hicolor/21x21/friction/gizmos.png</file>
  <file alias='icons/hicolor/21x21/friction/gizmo_translate_off.png'>hicolor/21x21/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/21x21/friction/gizmo_translate_on.png'>hicolor/21x21/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/21x21/friction/graph_property_2.png'>hicolor/21x21/friction/graph_property_2.png</file>
@@ -1356,6 +1361,7 @@
  <file alias='icons/hicolor/22x22/friction/gizmo_scale_on.png'>hicolor/22x22/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/22x22/friction/gizmo_shear_off.png'>hicolor/22x22/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/22x22/friction/gizmo_shear_on.png'>hicolor/22x22/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/22x22/friction/gizmos.png'>hicolor/22x22/friction/gizmos.png</file>
  <file alias='icons/hicolor/22x22/friction/gizmo_translate_off.png'>hicolor/22x22/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/22x22/friction/gizmo_translate_on.png'>hicolor/22x22/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/22x22/friction/graph_property_2.png'>hicolor/22x22/friction/graph_property_2.png</file>
@@ -1615,6 +1621,7 @@
  <file alias='icons/hicolor/24x24/friction/gizmo_scale_on.png'>hicolor/24x24/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/24x24/friction/gizmo_shear_off.png'>hicolor/24x24/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/24x24/friction/gizmo_shear_on.png'>hicolor/24x24/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/24x24/friction/gizmos.png'>hicolor/24x24/friction/gizmos.png</file>
  <file alias='icons/hicolor/24x24/friction/gizmo_translate_off.png'>hicolor/24x24/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/24x24/friction/gizmo_translate_on.png'>hicolor/24x24/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/24x24/friction/graph_property_2.png'>hicolor/24x24/friction/graph_property_2.png</file>
@@ -1874,6 +1881,7 @@
  <file alias='icons/hicolor/25x25/friction/gizmo_scale_on.png'>hicolor/25x25/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/25x25/friction/gizmo_shear_off.png'>hicolor/25x25/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/25x25/friction/gizmo_shear_on.png'>hicolor/25x25/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/25x25/friction/gizmos.png'>hicolor/25x25/friction/gizmos.png</file>
  <file alias='icons/hicolor/25x25/friction/gizmo_translate_off.png'>hicolor/25x25/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/25x25/friction/gizmo_translate_on.png'>hicolor/25x25/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/25x25/friction/graph_property_2.png'>hicolor/25x25/friction/graph_property_2.png</file>
@@ -2133,6 +2141,7 @@
  <file alias='icons/hicolor/26x26/friction/gizmo_scale_on.png'>hicolor/26x26/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/26x26/friction/gizmo_shear_off.png'>hicolor/26x26/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/26x26/friction/gizmo_shear_on.png'>hicolor/26x26/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/26x26/friction/gizmos.png'>hicolor/26x26/friction/gizmos.png</file>
  <file alias='icons/hicolor/26x26/friction/gizmo_translate_off.png'>hicolor/26x26/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/26x26/friction/gizmo_translate_on.png'>hicolor/26x26/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/26x26/friction/graph_property_2.png'>hicolor/26x26/friction/graph_property_2.png</file>
@@ -2392,6 +2401,7 @@
  <file alias='icons/hicolor/28x28/friction/gizmo_scale_on.png'>hicolor/28x28/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/28x28/friction/gizmo_shear_off.png'>hicolor/28x28/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/28x28/friction/gizmo_shear_on.png'>hicolor/28x28/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/28x28/friction/gizmos.png'>hicolor/28x28/friction/gizmos.png</file>
  <file alias='icons/hicolor/28x28/friction/gizmo_translate_off.png'>hicolor/28x28/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/28x28/friction/gizmo_translate_on.png'>hicolor/28x28/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/28x28/friction/graph_property_2.png'>hicolor/28x28/friction/graph_property_2.png</file>
@@ -2651,6 +2661,7 @@
  <file alias='icons/hicolor/30x30/friction/gizmo_scale_on.png'>hicolor/30x30/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/30x30/friction/gizmo_shear_off.png'>hicolor/30x30/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/30x30/friction/gizmo_shear_on.png'>hicolor/30x30/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/30x30/friction/gizmos.png'>hicolor/30x30/friction/gizmos.png</file>
  <file alias='icons/hicolor/30x30/friction/gizmo_translate_off.png'>hicolor/30x30/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/30x30/friction/gizmo_translate_on.png'>hicolor/30x30/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/30x30/friction/graph_property_2.png'>hicolor/30x30/friction/graph_property_2.png</file>
@@ -2910,6 +2921,7 @@
  <file alias='icons/hicolor/32x32/friction/gizmo_scale_on.png'>hicolor/32x32/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/32x32/friction/gizmo_shear_off.png'>hicolor/32x32/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/32x32/friction/gizmo_shear_on.png'>hicolor/32x32/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/32x32/friction/gizmos.png'>hicolor/32x32/friction/gizmos.png</file>
  <file alias='icons/hicolor/32x32/friction/gizmo_translate_off.png'>hicolor/32x32/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/32x32/friction/gizmo_translate_on.png'>hicolor/32x32/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/32x32/friction/graph_property_2.png'>hicolor/32x32/friction/graph_property_2.png</file>
@@ -3169,6 +3181,7 @@
  <file alias='icons/hicolor/34x34/friction/gizmo_scale_on.png'>hicolor/34x34/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/34x34/friction/gizmo_shear_off.png'>hicolor/34x34/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/34x34/friction/gizmo_shear_on.png'>hicolor/34x34/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/34x34/friction/gizmos.png'>hicolor/34x34/friction/gizmos.png</file>
  <file alias='icons/hicolor/34x34/friction/gizmo_translate_off.png'>hicolor/34x34/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/34x34/friction/gizmo_translate_on.png'>hicolor/34x34/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/34x34/friction/graph_property_2.png'>hicolor/34x34/friction/graph_property_2.png</file>
@@ -3428,6 +3441,7 @@
  <file alias='icons/hicolor/36x36/friction/gizmo_scale_on.png'>hicolor/36x36/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/36x36/friction/gizmo_shear_off.png'>hicolor/36x36/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/36x36/friction/gizmo_shear_on.png'>hicolor/36x36/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/36x36/friction/gizmos.png'>hicolor/36x36/friction/gizmos.png</file>
  <file alias='icons/hicolor/36x36/friction/gizmo_translate_off.png'>hicolor/36x36/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/36x36/friction/gizmo_translate_on.png'>hicolor/36x36/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/36x36/friction/graph_property_2.png'>hicolor/36x36/friction/graph_property_2.png</file>
@@ -3687,6 +3701,7 @@
  <file alias='icons/hicolor/38x38/friction/gizmo_scale_on.png'>hicolor/38x38/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/38x38/friction/gizmo_shear_off.png'>hicolor/38x38/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/38x38/friction/gizmo_shear_on.png'>hicolor/38x38/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/38x38/friction/gizmos.png'>hicolor/38x38/friction/gizmos.png</file>
  <file alias='icons/hicolor/38x38/friction/gizmo_translate_off.png'>hicolor/38x38/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/38x38/friction/gizmo_translate_on.png'>hicolor/38x38/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/38x38/friction/graph_property_2.png'>hicolor/38x38/friction/graph_property_2.png</file>
@@ -3946,6 +3961,7 @@
  <file alias='icons/hicolor/40x40/friction/gizmo_scale_on.png'>hicolor/40x40/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/40x40/friction/gizmo_shear_off.png'>hicolor/40x40/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/40x40/friction/gizmo_shear_on.png'>hicolor/40x40/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/40x40/friction/gizmos.png'>hicolor/40x40/friction/gizmos.png</file>
  <file alias='icons/hicolor/40x40/friction/gizmo_translate_off.png'>hicolor/40x40/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/40x40/friction/gizmo_translate_on.png'>hicolor/40x40/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/40x40/friction/graph_property_2.png'>hicolor/40x40/friction/graph_property_2.png</file>
@@ -4205,6 +4221,7 @@
  <file alias='icons/hicolor/42x42/friction/gizmo_scale_on.png'>hicolor/42x42/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/42x42/friction/gizmo_shear_off.png'>hicolor/42x42/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/42x42/friction/gizmo_shear_on.png'>hicolor/42x42/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/42x42/friction/gizmos.png'>hicolor/42x42/friction/gizmos.png</file>
  <file alias='icons/hicolor/42x42/friction/gizmo_translate_off.png'>hicolor/42x42/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/42x42/friction/gizmo_translate_on.png'>hicolor/42x42/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/42x42/friction/graph_property_2.png'>hicolor/42x42/friction/graph_property_2.png</file>
@@ -4464,6 +4481,7 @@
  <file alias='icons/hicolor/44x44/friction/gizmo_scale_on.png'>hicolor/44x44/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/44x44/friction/gizmo_shear_off.png'>hicolor/44x44/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/44x44/friction/gizmo_shear_on.png'>hicolor/44x44/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/44x44/friction/gizmos.png'>hicolor/44x44/friction/gizmos.png</file>
  <file alias='icons/hicolor/44x44/friction/gizmo_translate_off.png'>hicolor/44x44/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/44x44/friction/gizmo_translate_on.png'>hicolor/44x44/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/44x44/friction/graph_property_2.png'>hicolor/44x44/friction/graph_property_2.png</file>
@@ -4723,6 +4741,7 @@
  <file alias='icons/hicolor/46x46/friction/gizmo_scale_on.png'>hicolor/46x46/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/46x46/friction/gizmo_shear_off.png'>hicolor/46x46/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/46x46/friction/gizmo_shear_on.png'>hicolor/46x46/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/46x46/friction/gizmos.png'>hicolor/46x46/friction/gizmos.png</file>
  <file alias='icons/hicolor/46x46/friction/gizmo_translate_off.png'>hicolor/46x46/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/46x46/friction/gizmo_translate_on.png'>hicolor/46x46/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/46x46/friction/graph_property_2.png'>hicolor/46x46/friction/graph_property_2.png</file>
@@ -4982,6 +5001,7 @@
  <file alias='icons/hicolor/48x48/friction/gizmo_scale_on.png'>hicolor/48x48/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/48x48/friction/gizmo_shear_off.png'>hicolor/48x48/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/48x48/friction/gizmo_shear_on.png'>hicolor/48x48/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/48x48/friction/gizmos.png'>hicolor/48x48/friction/gizmos.png</file>
  <file alias='icons/hicolor/48x48/friction/gizmo_translate_off.png'>hicolor/48x48/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/48x48/friction/gizmo_translate_on.png'>hicolor/48x48/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/48x48/friction/graph_property_2.png'>hicolor/48x48/friction/graph_property_2.png</file>
@@ -5241,6 +5261,7 @@
  <file alias='icons/hicolor/64x64/friction/gizmo_scale_on.png'>hicolor/64x64/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/64x64/friction/gizmo_shear_off.png'>hicolor/64x64/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/64x64/friction/gizmo_shear_on.png'>hicolor/64x64/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/64x64/friction/gizmos.png'>hicolor/64x64/friction/gizmos.png</file>
  <file alias='icons/hicolor/64x64/friction/gizmo_translate_off.png'>hicolor/64x64/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/64x64/friction/gizmo_translate_on.png'>hicolor/64x64/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/64x64/friction/graph_property_2.png'>hicolor/64x64/friction/graph_property_2.png</file>
@@ -5500,6 +5521,7 @@
  <file alias='icons/hicolor/96x96/friction/gizmo_scale_on.png'>hicolor/96x96/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/96x96/friction/gizmo_shear_off.png'>hicolor/96x96/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/96x96/friction/gizmo_shear_on.png'>hicolor/96x96/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/96x96/friction/gizmos.png'>hicolor/96x96/friction/gizmos.png</file>
  <file alias='icons/hicolor/96x96/friction/gizmo_translate_off.png'>hicolor/96x96/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/96x96/friction/gizmo_translate_on.png'>hicolor/96x96/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/96x96/friction/graph_property_2.png'>hicolor/96x96/friction/graph_property_2.png</file>
@@ -5759,6 +5781,7 @@
  <file alias='icons/hicolor/128x128/friction/gizmo_scale_on.png'>hicolor/128x128/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/128x128/friction/gizmo_shear_off.png'>hicolor/128x128/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/128x128/friction/gizmo_shear_on.png'>hicolor/128x128/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/128x128/friction/gizmos.png'>hicolor/128x128/friction/gizmos.png</file>
  <file alias='icons/hicolor/128x128/friction/gizmo_translate_off.png'>hicolor/128x128/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/128x128/friction/gizmo_translate_on.png'>hicolor/128x128/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/128x128/friction/graph_property_2.png'>hicolor/128x128/friction/graph_property_2.png</file>
@@ -6018,6 +6041,7 @@
  <file alias='icons/hicolor/192x192/friction/gizmo_scale_on.png'>hicolor/192x192/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/192x192/friction/gizmo_shear_off.png'>hicolor/192x192/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/192x192/friction/gizmo_shear_on.png'>hicolor/192x192/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/192x192/friction/gizmos.png'>hicolor/192x192/friction/gizmos.png</file>
  <file alias='icons/hicolor/192x192/friction/gizmo_translate_off.png'>hicolor/192x192/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/192x192/friction/gizmo_translate_on.png'>hicolor/192x192/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/192x192/friction/graph_property_2.png'>hicolor/192x192/friction/graph_property_2.png</file>
@@ -6277,6 +6301,7 @@
  <file alias='icons/hicolor/256x256/friction/gizmo_scale_on.png'>hicolor/256x256/friction/gizmo_scale_on.png</file>
  <file alias='icons/hicolor/256x256/friction/gizmo_shear_off.png'>hicolor/256x256/friction/gizmo_shear_off.png</file>
  <file alias='icons/hicolor/256x256/friction/gizmo_shear_on.png'>hicolor/256x256/friction/gizmo_shear_on.png</file>
+ <file alias='icons/hicolor/256x256/friction/gizmos.png'>hicolor/256x256/friction/gizmos.png</file>
  <file alias='icons/hicolor/256x256/friction/gizmo_translate_off.png'>hicolor/256x256/friction/gizmo_translate_off.png</file>
  <file alias='icons/hicolor/256x256/friction/gizmo_translate_on.png'>hicolor/256x256/friction/gizmo_translate_on.png</file>
  <file alias='icons/hicolor/256x256/friction/graph_property_2.png'>hicolor/256x256/friction/graph_property_2.png</file>
