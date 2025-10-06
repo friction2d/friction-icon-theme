@@ -133,6 +133,8 @@
  <file alias='icons/hicolor/16x16/friction-nodes/nodeDisconnect.png'>hicolor/16x16/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/16x16/friction-nodes/nodeMerge.png'>hicolor/16x16/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/16x16/friction-nodes/nodeNew.png'>hicolor/16x16/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/16x16/friction-nodes/nodeRemoveApprox.png'>hicolor/16x16/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/16x16/friction-nodes/nodeRemove.png'>hicolor/16x16/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/16x16/friction-nodes/nodeSmooth.png'>hicolor/16x16/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/16x16/friction-nodes/nodeSymmetric.png'>hicolor/16x16/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/16x16/friction-nodes/normalNodesOnly.png'>hicolor/16x16/friction-nodes/normalNodesOnly.png</file>
@@ -393,6 +395,8 @@
  <file alias='icons/hicolor/17x17/friction-nodes/nodeDisconnect.png'>hicolor/17x17/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/17x17/friction-nodes/nodeMerge.png'>hicolor/17x17/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/17x17/friction-nodes/nodeNew.png'>hicolor/17x17/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/17x17/friction-nodes/nodeRemoveApprox.png'>hicolor/17x17/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/17x17/friction-nodes/nodeRemove.png'>hicolor/17x17/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/17x17/friction-nodes/nodeSmooth.png'>hicolor/17x17/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/17x17/friction-nodes/nodeSymmetric.png'>hicolor/17x17/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/17x17/friction-nodes/normalNodesOnly.png'>hicolor/17x17/friction-nodes/normalNodesOnly.png</file>
@@ -653,6 +657,8 @@
  <file alias='icons/hicolor/18x18/friction-nodes/nodeDisconnect.png'>hicolor/18x18/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/18x18/friction-nodes/nodeMerge.png'>hicolor/18x18/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/18x18/friction-nodes/nodeNew.png'>hicolor/18x18/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/18x18/friction-nodes/nodeRemoveApprox.png'>hicolor/18x18/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/18x18/friction-nodes/nodeRemove.png'>hicolor/18x18/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/18x18/friction-nodes/nodeSmooth.png'>hicolor/18x18/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/18x18/friction-nodes/nodeSymmetric.png'>hicolor/18x18/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/18x18/friction-nodes/normalNodesOnly.png'>hicolor/18x18/friction-nodes/normalNodesOnly.png</file>
@@ -913,6 +919,8 @@
  <file alias='icons/hicolor/20x20/friction-nodes/nodeDisconnect.png'>hicolor/20x20/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/20x20/friction-nodes/nodeMerge.png'>hicolor/20x20/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/20x20/friction-nodes/nodeNew.png'>hicolor/20x20/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/20x20/friction-nodes/nodeRemoveApprox.png'>hicolor/20x20/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/20x20/friction-nodes/nodeRemove.png'>hicolor/20x20/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/20x20/friction-nodes/nodeSmooth.png'>hicolor/20x20/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/20x20/friction-nodes/nodeSymmetric.png'>hicolor/20x20/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/20x20/friction-nodes/normalNodesOnly.png'>hicolor/20x20/friction-nodes/normalNodesOnly.png</file>
@@ -1173,6 +1181,8 @@
  <file alias='icons/hicolor/21x21/friction-nodes/nodeDisconnect.png'>hicolor/21x21/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/21x21/friction-nodes/nodeMerge.png'>hicolor/21x21/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/21x21/friction-nodes/nodeNew.png'>hicolor/21x21/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/21x21/friction-nodes/nodeRemoveApprox.png'>hicolor/21x21/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/21x21/friction-nodes/nodeRemove.png'>hicolor/21x21/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/21x21/friction-nodes/nodeSmooth.png'>hicolor/21x21/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/21x21/friction-nodes/nodeSymmetric.png'>hicolor/21x21/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/21x21/friction-nodes/normalNodesOnly.png'>hicolor/21x21/friction-nodes/normalNodesOnly.png</file>
@@ -1433,6 +1443,8 @@
  <file alias='icons/hicolor/22x22/friction-nodes/nodeDisconnect.png'>hicolor/22x22/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/22x22/friction-nodes/nodeMerge.png'>hicolor/22x22/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/22x22/friction-nodes/nodeNew.png'>hicolor/22x22/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/22x22/friction-nodes/nodeRemoveApprox.png'>hicolor/22x22/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/22x22/friction-nodes/nodeRemove.png'>hicolor/22x22/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/22x22/friction-nodes/nodeSmooth.png'>hicolor/22x22/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/22x22/friction-nodes/nodeSymmetric.png'>hicolor/22x22/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/22x22/friction-nodes/normalNodesOnly.png'>hicolor/22x22/friction-nodes/normalNodesOnly.png</file>
@@ -1693,6 +1705,8 @@
  <file alias='icons/hicolor/24x24/friction-nodes/nodeDisconnect.png'>hicolor/24x24/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/24x24/friction-nodes/nodeMerge.png'>hicolor/24x24/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/24x24/friction-nodes/nodeNew.png'>hicolor/24x24/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/24x24/friction-nodes/nodeRemoveApprox.png'>hicolor/24x24/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/24x24/friction-nodes/nodeRemove.png'>hicolor/24x24/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/24x24/friction-nodes/nodeSmooth.png'>hicolor/24x24/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/24x24/friction-nodes/nodeSymmetric.png'>hicolor/24x24/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/24x24/friction-nodes/normalNodesOnly.png'>hicolor/24x24/friction-nodes/normalNodesOnly.png</file>
@@ -1953,6 +1967,8 @@
  <file alias='icons/hicolor/25x25/friction-nodes/nodeDisconnect.png'>hicolor/25x25/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/25x25/friction-nodes/nodeMerge.png'>hicolor/25x25/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/25x25/friction-nodes/nodeNew.png'>hicolor/25x25/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/25x25/friction-nodes/nodeRemoveApprox.png'>hicolor/25x25/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/25x25/friction-nodes/nodeRemove.png'>hicolor/25x25/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/25x25/friction-nodes/nodeSmooth.png'>hicolor/25x25/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/25x25/friction-nodes/nodeSymmetric.png'>hicolor/25x25/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/25x25/friction-nodes/normalNodesOnly.png'>hicolor/25x25/friction-nodes/normalNodesOnly.png</file>
@@ -2213,6 +2229,8 @@
  <file alias='icons/hicolor/26x26/friction-nodes/nodeDisconnect.png'>hicolor/26x26/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/26x26/friction-nodes/nodeMerge.png'>hicolor/26x26/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/26x26/friction-nodes/nodeNew.png'>hicolor/26x26/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/26x26/friction-nodes/nodeRemoveApprox.png'>hicolor/26x26/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/26x26/friction-nodes/nodeRemove.png'>hicolor/26x26/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/26x26/friction-nodes/nodeSmooth.png'>hicolor/26x26/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/26x26/friction-nodes/nodeSymmetric.png'>hicolor/26x26/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/26x26/friction-nodes/normalNodesOnly.png'>hicolor/26x26/friction-nodes/normalNodesOnly.png</file>
@@ -2473,6 +2491,8 @@
  <file alias='icons/hicolor/28x28/friction-nodes/nodeDisconnect.png'>hicolor/28x28/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/28x28/friction-nodes/nodeMerge.png'>hicolor/28x28/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/28x28/friction-nodes/nodeNew.png'>hicolor/28x28/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/28x28/friction-nodes/nodeRemoveApprox.png'>hicolor/28x28/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/28x28/friction-nodes/nodeRemove.png'>hicolor/28x28/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/28x28/friction-nodes/nodeSmooth.png'>hicolor/28x28/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/28x28/friction-nodes/nodeSymmetric.png'>hicolor/28x28/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/28x28/friction-nodes/normalNodesOnly.png'>hicolor/28x28/friction-nodes/normalNodesOnly.png</file>
@@ -2733,6 +2753,8 @@
  <file alias='icons/hicolor/30x30/friction-nodes/nodeDisconnect.png'>hicolor/30x30/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/30x30/friction-nodes/nodeMerge.png'>hicolor/30x30/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/30x30/friction-nodes/nodeNew.png'>hicolor/30x30/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/30x30/friction-nodes/nodeRemoveApprox.png'>hicolor/30x30/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/30x30/friction-nodes/nodeRemove.png'>hicolor/30x30/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/30x30/friction-nodes/nodeSmooth.png'>hicolor/30x30/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/30x30/friction-nodes/nodeSymmetric.png'>hicolor/30x30/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/30x30/friction-nodes/normalNodesOnly.png'>hicolor/30x30/friction-nodes/normalNodesOnly.png</file>
@@ -2993,6 +3015,8 @@
  <file alias='icons/hicolor/32x32/friction-nodes/nodeDisconnect.png'>hicolor/32x32/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/32x32/friction-nodes/nodeMerge.png'>hicolor/32x32/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/32x32/friction-nodes/nodeNew.png'>hicolor/32x32/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/32x32/friction-nodes/nodeRemoveApprox.png'>hicolor/32x32/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/32x32/friction-nodes/nodeRemove.png'>hicolor/32x32/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/32x32/friction-nodes/nodeSmooth.png'>hicolor/32x32/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/32x32/friction-nodes/nodeSymmetric.png'>hicolor/32x32/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/32x32/friction-nodes/normalNodesOnly.png'>hicolor/32x32/friction-nodes/normalNodesOnly.png</file>
@@ -3253,6 +3277,8 @@
  <file alias='icons/hicolor/34x34/friction-nodes/nodeDisconnect.png'>hicolor/34x34/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/34x34/friction-nodes/nodeMerge.png'>hicolor/34x34/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/34x34/friction-nodes/nodeNew.png'>hicolor/34x34/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/34x34/friction-nodes/nodeRemoveApprox.png'>hicolor/34x34/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/34x34/friction-nodes/nodeRemove.png'>hicolor/34x34/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/34x34/friction-nodes/nodeSmooth.png'>hicolor/34x34/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/34x34/friction-nodes/nodeSymmetric.png'>hicolor/34x34/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/34x34/friction-nodes/normalNodesOnly.png'>hicolor/34x34/friction-nodes/normalNodesOnly.png</file>
@@ -3513,6 +3539,8 @@
  <file alias='icons/hicolor/36x36/friction-nodes/nodeDisconnect.png'>hicolor/36x36/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/36x36/friction-nodes/nodeMerge.png'>hicolor/36x36/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/36x36/friction-nodes/nodeNew.png'>hicolor/36x36/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/36x36/friction-nodes/nodeRemoveApprox.png'>hicolor/36x36/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/36x36/friction-nodes/nodeRemove.png'>hicolor/36x36/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/36x36/friction-nodes/nodeSmooth.png'>hicolor/36x36/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/36x36/friction-nodes/nodeSymmetric.png'>hicolor/36x36/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/36x36/friction-nodes/normalNodesOnly.png'>hicolor/36x36/friction-nodes/normalNodesOnly.png</file>
@@ -3773,6 +3801,8 @@
  <file alias='icons/hicolor/38x38/friction-nodes/nodeDisconnect.png'>hicolor/38x38/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/38x38/friction-nodes/nodeMerge.png'>hicolor/38x38/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/38x38/friction-nodes/nodeNew.png'>hicolor/38x38/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/38x38/friction-nodes/nodeRemoveApprox.png'>hicolor/38x38/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/38x38/friction-nodes/nodeRemove.png'>hicolor/38x38/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/38x38/friction-nodes/nodeSmooth.png'>hicolor/38x38/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/38x38/friction-nodes/nodeSymmetric.png'>hicolor/38x38/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/38x38/friction-nodes/normalNodesOnly.png'>hicolor/38x38/friction-nodes/normalNodesOnly.png</file>
@@ -4033,6 +4063,8 @@
  <file alias='icons/hicolor/40x40/friction-nodes/nodeDisconnect.png'>hicolor/40x40/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/40x40/friction-nodes/nodeMerge.png'>hicolor/40x40/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/40x40/friction-nodes/nodeNew.png'>hicolor/40x40/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/40x40/friction-nodes/nodeRemoveApprox.png'>hicolor/40x40/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/40x40/friction-nodes/nodeRemove.png'>hicolor/40x40/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/40x40/friction-nodes/nodeSmooth.png'>hicolor/40x40/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/40x40/friction-nodes/nodeSymmetric.png'>hicolor/40x40/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/40x40/friction-nodes/normalNodesOnly.png'>hicolor/40x40/friction-nodes/normalNodesOnly.png</file>
@@ -4293,6 +4325,8 @@
  <file alias='icons/hicolor/42x42/friction-nodes/nodeDisconnect.png'>hicolor/42x42/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/42x42/friction-nodes/nodeMerge.png'>hicolor/42x42/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/42x42/friction-nodes/nodeNew.png'>hicolor/42x42/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/42x42/friction-nodes/nodeRemoveApprox.png'>hicolor/42x42/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/42x42/friction-nodes/nodeRemove.png'>hicolor/42x42/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/42x42/friction-nodes/nodeSmooth.png'>hicolor/42x42/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/42x42/friction-nodes/nodeSymmetric.png'>hicolor/42x42/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/42x42/friction-nodes/normalNodesOnly.png'>hicolor/42x42/friction-nodes/normalNodesOnly.png</file>
@@ -4553,6 +4587,8 @@
  <file alias='icons/hicolor/44x44/friction-nodes/nodeDisconnect.png'>hicolor/44x44/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/44x44/friction-nodes/nodeMerge.png'>hicolor/44x44/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/44x44/friction-nodes/nodeNew.png'>hicolor/44x44/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/44x44/friction-nodes/nodeRemoveApprox.png'>hicolor/44x44/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/44x44/friction-nodes/nodeRemove.png'>hicolor/44x44/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/44x44/friction-nodes/nodeSmooth.png'>hicolor/44x44/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/44x44/friction-nodes/nodeSymmetric.png'>hicolor/44x44/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/44x44/friction-nodes/normalNodesOnly.png'>hicolor/44x44/friction-nodes/normalNodesOnly.png</file>
@@ -4813,6 +4849,8 @@
  <file alias='icons/hicolor/46x46/friction-nodes/nodeDisconnect.png'>hicolor/46x46/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/46x46/friction-nodes/nodeMerge.png'>hicolor/46x46/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/46x46/friction-nodes/nodeNew.png'>hicolor/46x46/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/46x46/friction-nodes/nodeRemoveApprox.png'>hicolor/46x46/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/46x46/friction-nodes/nodeRemove.png'>hicolor/46x46/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/46x46/friction-nodes/nodeSmooth.png'>hicolor/46x46/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/46x46/friction-nodes/nodeSymmetric.png'>hicolor/46x46/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/46x46/friction-nodes/normalNodesOnly.png'>hicolor/46x46/friction-nodes/normalNodesOnly.png</file>
@@ -5073,6 +5111,8 @@
  <file alias='icons/hicolor/48x48/friction-nodes/nodeDisconnect.png'>hicolor/48x48/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/48x48/friction-nodes/nodeMerge.png'>hicolor/48x48/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/48x48/friction-nodes/nodeNew.png'>hicolor/48x48/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/48x48/friction-nodes/nodeRemoveApprox.png'>hicolor/48x48/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/48x48/friction-nodes/nodeRemove.png'>hicolor/48x48/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/48x48/friction-nodes/nodeSmooth.png'>hicolor/48x48/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/48x48/friction-nodes/nodeSymmetric.png'>hicolor/48x48/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/48x48/friction-nodes/normalNodesOnly.png'>hicolor/48x48/friction-nodes/normalNodesOnly.png</file>
@@ -5333,6 +5373,8 @@
  <file alias='icons/hicolor/64x64/friction-nodes/nodeDisconnect.png'>hicolor/64x64/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/64x64/friction-nodes/nodeMerge.png'>hicolor/64x64/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/64x64/friction-nodes/nodeNew.png'>hicolor/64x64/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/64x64/friction-nodes/nodeRemoveApprox.png'>hicolor/64x64/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/64x64/friction-nodes/nodeRemove.png'>hicolor/64x64/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/64x64/friction-nodes/nodeSmooth.png'>hicolor/64x64/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/64x64/friction-nodes/nodeSymmetric.png'>hicolor/64x64/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/64x64/friction-nodes/normalNodesOnly.png'>hicolor/64x64/friction-nodes/normalNodesOnly.png</file>
@@ -5593,6 +5635,8 @@
  <file alias='icons/hicolor/96x96/friction-nodes/nodeDisconnect.png'>hicolor/96x96/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/96x96/friction-nodes/nodeMerge.png'>hicolor/96x96/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/96x96/friction-nodes/nodeNew.png'>hicolor/96x96/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/96x96/friction-nodes/nodeRemoveApprox.png'>hicolor/96x96/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/96x96/friction-nodes/nodeRemove.png'>hicolor/96x96/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/96x96/friction-nodes/nodeSmooth.png'>hicolor/96x96/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/96x96/friction-nodes/nodeSymmetric.png'>hicolor/96x96/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/96x96/friction-nodes/normalNodesOnly.png'>hicolor/96x96/friction-nodes/normalNodesOnly.png</file>
@@ -5853,6 +5897,8 @@
  <file alias='icons/hicolor/128x128/friction-nodes/nodeDisconnect.png'>hicolor/128x128/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/128x128/friction-nodes/nodeMerge.png'>hicolor/128x128/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/128x128/friction-nodes/nodeNew.png'>hicolor/128x128/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/128x128/friction-nodes/nodeRemoveApprox.png'>hicolor/128x128/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/128x128/friction-nodes/nodeRemove.png'>hicolor/128x128/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/128x128/friction-nodes/nodeSmooth.png'>hicolor/128x128/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/128x128/friction-nodes/nodeSymmetric.png'>hicolor/128x128/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/128x128/friction-nodes/normalNodesOnly.png'>hicolor/128x128/friction-nodes/normalNodesOnly.png</file>
@@ -6113,6 +6159,8 @@
  <file alias='icons/hicolor/192x192/friction-nodes/nodeDisconnect.png'>hicolor/192x192/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/192x192/friction-nodes/nodeMerge.png'>hicolor/192x192/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/192x192/friction-nodes/nodeNew.png'>hicolor/192x192/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/192x192/friction-nodes/nodeRemoveApprox.png'>hicolor/192x192/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/192x192/friction-nodes/nodeRemove.png'>hicolor/192x192/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/192x192/friction-nodes/nodeSmooth.png'>hicolor/192x192/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/192x192/friction-nodes/nodeSymmetric.png'>hicolor/192x192/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/192x192/friction-nodes/normalNodesOnly.png'>hicolor/192x192/friction-nodes/normalNodesOnly.png</file>
@@ -6373,6 +6421,8 @@
  <file alias='icons/hicolor/256x256/friction-nodes/nodeDisconnect.png'>hicolor/256x256/friction-nodes/nodeDisconnect.png</file>
  <file alias='icons/hicolor/256x256/friction-nodes/nodeMerge.png'>hicolor/256x256/friction-nodes/nodeMerge.png</file>
  <file alias='icons/hicolor/256x256/friction-nodes/nodeNew.png'>hicolor/256x256/friction-nodes/nodeNew.png</file>
+ <file alias='icons/hicolor/256x256/friction-nodes/nodeRemoveApprox.png'>hicolor/256x256/friction-nodes/nodeRemoveApprox.png</file>
+ <file alias='icons/hicolor/256x256/friction-nodes/nodeRemove.png'>hicolor/256x256/friction-nodes/nodeRemove.png</file>
  <file alias='icons/hicolor/256x256/friction-nodes/nodeSmooth.png'>hicolor/256x256/friction-nodes/nodeSmooth.png</file>
  <file alias='icons/hicolor/256x256/friction-nodes/nodeSymmetric.png'>hicolor/256x256/friction-nodes/nodeSymmetric.png</file>
  <file alias='icons/hicolor/256x256/friction-nodes/normalNodesOnly.png'>hicolor/256x256/friction-nodes/normalNodesOnly.png</file>
