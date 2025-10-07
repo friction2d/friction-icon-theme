@@ -68,6 +68,7 @@
  <file alias='icons/hicolor/16x16/friction/graph_property.png'>hicolor/16x16/friction/graph_property.png</file>
  <file alias='icons/hicolor/16x16/friction/markers-add.png'>hicolor/16x16/friction/markers-add.png</file>
  <file alias='icons/hicolor/16x16/friction/markers-edit.png'>hicolor/16x16/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/16x16/friction/memory.png'>hicolor/16x16/friction/memory.png</file>
  <file alias='icons/hicolor/16x16/friction/preview_loop.png'>hicolor/16x16/friction/preview_loop.png</file>
  <file alias='icons/hicolor/16x16/friction/range-clear.png'>hicolor/16x16/friction/range-clear.png</file>
  <file alias='icons/hicolor/16x16/friction/range-in.png'>hicolor/16x16/friction/range-in.png</file>
@@ -330,6 +331,7 @@
  <file alias='icons/hicolor/17x17/friction/graph_property.png'>hicolor/17x17/friction/graph_property.png</file>
  <file alias='icons/hicolor/17x17/friction/markers-add.png'>hicolor/17x17/friction/markers-add.png</file>
  <file alias='icons/hicolor/17x17/friction/markers-edit.png'>hicolor/17x17/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/17x17/friction/memory.png'>hicolor/17x17/friction/memory.png</file>
  <file alias='icons/hicolor/17x17/friction/preview_loop.png'>hicolor/17x17/friction/preview_loop.png</file>
  <file alias='icons/hicolor/17x17/friction/range-clear.png'>hicolor/17x17/friction/range-clear.png</file>
  <file alias='icons/hicolor/17x17/friction/range-in.png'>hicolor/17x17/friction/range-in.png</file>
@@ -592,6 +594,7 @@
  <file alias='icons/hicolor/18x18/friction/graph_property.png'>hicolor/18x18/friction/graph_property.png</file>
  <file alias='icons/hicolor/18x18/friction/markers-add.png'>hicolor/18x18/friction/markers-add.png</file>
  <file alias='icons/hicolor/18x18/friction/markers-edit.png'>hicolor/18x18/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/18x18/friction/memory.png'>hicolor/18x18/friction/memory.png</file>
  <file alias='icons/hicolor/18x18/friction/preview_loop.png'>hicolor/18x18/friction/preview_loop.png</file>
  <file alias='icons/hicolor/18x18/friction/range-clear.png'>hicolor/18x18/friction/range-clear.png</file>
  <file alias='icons/hicolor/18x18/friction/range-in.png'>hicolor/18x18/friction/range-in.png</file>
@@ -854,6 +857,7 @@
  <file alias='icons/hicolor/20x20/friction/graph_property.png'>hicolor/20x20/friction/graph_property.png</file>
  <file alias='icons/hicolor/20x20/friction/markers-add.png'>hicolor/20x20/friction/markers-add.png</file>
  <file alias='icons/hicolor/20x20/friction/markers-edit.png'>hicolor/20x20/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/20x20/friction/memory.png'>hicolor/20x20/friction/memory.png</file>
  <file alias='icons/hicolor/20x20/friction/preview_loop.png'>hicolor/20x20/friction/preview_loop.png</file>
  <file alias='icons/hicolor/20x20/friction/range-clear.png'>hicolor/20x20/friction/range-clear.png</file>
  <file alias='icons/hicolor/20x20/friction/range-in.png'>hicolor/20x20/friction/range-in.png</file>
@@ -1116,6 +1120,7 @@
  <file alias='icons/hicolor/21x21/friction/graph_property.png'>hicolor/21x21/friction/graph_property.png</file>
  <file alias='icons/hicolor/21x21/friction/markers-add.png'>hicolor/21x21/friction/markers-add.png</file>
  <file alias='icons/hicolor/21x21/friction/markers-edit.png'>hicolor/21x21/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/21x21/friction/memory.png'>hicolor/21x21/friction/memory.png</file>
  <file alias='icons/hicolor/21x21/friction/preview_loop.png'>hicolor/21x21/friction/preview_loop.png</file>
  <file alias='icons/hicolor/21x21/friction/range-clear.png'>hicolor/21x21/friction/range-clear.png</file>
  <file alias='icons/hicolor/21x21/friction/range-in.png'>hicolor/21x21/friction/range-in.png</file>
@@ -1378,6 +1383,7 @@
  <file alias='icons/hicolor/22x22/friction/graph_property.png'>hicolor/22x22/friction/graph_property.png</file>
  <file alias='icons/hicolor/22x22/friction/markers-add.png'>hicolor/22x22/friction/markers-add.png</file>
  <file alias='icons/hicolor/22x22/friction/markers-edit.png'>hicolor/22x22/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/22x22/friction/memory.png'>hicolor/22x22/friction/memory.png</file>
  <file alias='icons/hicolor/22x22/friction/preview_loop.png'>hicolor/22x22/friction/preview_loop.png</file>
  <file alias='icons/hicolor/22x22/friction/range-clear.png'>hicolor/22x22/friction/range-clear.png</file>
  <file alias='icons/hicolor/22x22/friction/range-in.png'>hicolor/22x22/friction/range-in.png</file>
@@ -1640,6 +1646,7 @@
  <file alias='icons/hicolor/24x24/friction/graph_property.png'>hicolor/24x24/friction/graph_property.png</file>
  <file alias='icons/hicolor/24x24/friction/markers-add.png'>hicolor/24x24/friction/markers-add.png</file>
  <file alias='icons/hicolor/24x24/friction/markers-edit.png'>hicolor/24x24/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/24x24/friction/memory.png'>hicolor/24x24/friction/memory.png</file>
  <file alias='icons/hicolor/24x24/friction/preview_loop.png'>hicolor/24x24/friction/preview_loop.png</file>
  <file alias='icons/hicolor/24x24/friction/range-clear.png'>hicolor/24x24/friction/range-clear.png</file>
  <file alias='icons/hicolor/24x24/friction/range-in.png'>hicolor/24x24/friction/range-in.png</file>
@@ -1902,6 +1909,7 @@
  <file alias='icons/hicolor/25x25/friction/graph_property.png'>hicolor/25x25/friction/graph_property.png</file>
  <file alias='icons/hicolor/25x25/friction/markers-add.png'>hicolor/25x25/friction/markers-add.png</file>
  <file alias='icons/hicolor/25x25/friction/markers-edit.png'>hicolor/25x25/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/25x25/friction/memory.png'>hicolor/25x25/friction/memory.png</file>
  <file alias='icons/hicolor/25x25/friction/preview_loop.png'>hicolor/25x25/friction/preview_loop.png</file>
  <file alias='icons/hicolor/25x25/friction/range-clear.png'>hicolor/25x25/friction/range-clear.png</file>
  <file alias='icons/hicolor/25x25/friction/range-in.png'>hicolor/25x25/friction/range-in.png</file>
@@ -2164,6 +2172,7 @@
  <file alias='icons/hicolor/26x26/friction/graph_property.png'>hicolor/26x26/friction/graph_property.png</file>
  <file alias='icons/hicolor/26x26/friction/markers-add.png'>hicolor/26x26/friction/markers-add.png</file>
  <file alias='icons/hicolor/26x26/friction/markers-edit.png'>hicolor/26x26/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/26x26/friction/memory.png'>hicolor/26x26/friction/memory.png</file>
  <file alias='icons/hicolor/26x26/friction/preview_loop.png'>hicolor/26x26/friction/preview_loop.png</file>
  <file alias='icons/hicolor/26x26/friction/range-clear.png'>hicolor/26x26/friction/range-clear.png</file>
  <file alias='icons/hicolor/26x26/friction/range-in.png'>hicolor/26x26/friction/range-in.png</file>
@@ -2426,6 +2435,7 @@
  <file alias='icons/hicolor/28x28/friction/graph_property.png'>hicolor/28x28/friction/graph_property.png</file>
  <file alias='icons/hicolor/28x28/friction/markers-add.png'>hicolor/28x28/friction/markers-add.png</file>
  <file alias='icons/hicolor/28x28/friction/markers-edit.png'>hicolor/28x28/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/28x28/friction/memory.png'>hicolor/28x28/friction/memory.png</file>
  <file alias='icons/hicolor/28x28/friction/preview_loop.png'>hicolor/28x28/friction/preview_loop.png</file>
  <file alias='icons/hicolor/28x28/friction/range-clear.png'>hicolor/28x28/friction/range-clear.png</file>
  <file alias='icons/hicolor/28x28/friction/range-in.png'>hicolor/28x28/friction/range-in.png</file>
@@ -2688,6 +2698,7 @@
  <file alias='icons/hicolor/30x30/friction/graph_property.png'>hicolor/30x30/friction/graph_property.png</file>
  <file alias='icons/hicolor/30x30/friction/markers-add.png'>hicolor/30x30/friction/markers-add.png</file>
  <file alias='icons/hicolor/30x30/friction/markers-edit.png'>hicolor/30x30/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/30x30/friction/memory.png'>hicolor/30x30/friction/memory.png</file>
  <file alias='icons/hicolor/30x30/friction/preview_loop.png'>hicolor/30x30/friction/preview_loop.png</file>
  <file alias='icons/hicolor/30x30/friction/range-clear.png'>hicolor/30x30/friction/range-clear.png</file>
  <file alias='icons/hicolor/30x30/friction/range-in.png'>hicolor/30x30/friction/range-in.png</file>
@@ -2950,6 +2961,7 @@
  <file alias='icons/hicolor/32x32/friction/graph_property.png'>hicolor/32x32/friction/graph_property.png</file>
  <file alias='icons/hicolor/32x32/friction/markers-add.png'>hicolor/32x32/friction/markers-add.png</file>
  <file alias='icons/hicolor/32x32/friction/markers-edit.png'>hicolor/32x32/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/32x32/friction/memory.png'>hicolor/32x32/friction/memory.png</file>
  <file alias='icons/hicolor/32x32/friction/preview_loop.png'>hicolor/32x32/friction/preview_loop.png</file>
  <file alias='icons/hicolor/32x32/friction/range-clear.png'>hicolor/32x32/friction/range-clear.png</file>
  <file alias='icons/hicolor/32x32/friction/range-in.png'>hicolor/32x32/friction/range-in.png</file>
@@ -3212,6 +3224,7 @@
  <file alias='icons/hicolor/34x34/friction/graph_property.png'>hicolor/34x34/friction/graph_property.png</file>
  <file alias='icons/hicolor/34x34/friction/markers-add.png'>hicolor/34x34/friction/markers-add.png</file>
  <file alias='icons/hicolor/34x34/friction/markers-edit.png'>hicolor/34x34/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/34x34/friction/memory.png'>hicolor/34x34/friction/memory.png</file>
  <file alias='icons/hicolor/34x34/friction/preview_loop.png'>hicolor/34x34/friction/preview_loop.png</file>
  <file alias='icons/hicolor/34x34/friction/range-clear.png'>hicolor/34x34/friction/range-clear.png</file>
  <file alias='icons/hicolor/34x34/friction/range-in.png'>hicolor/34x34/friction/range-in.png</file>
@@ -3474,6 +3487,7 @@
  <file alias='icons/hicolor/36x36/friction/graph_property.png'>hicolor/36x36/friction/graph_property.png</file>
  <file alias='icons/hicolor/36x36/friction/markers-add.png'>hicolor/36x36/friction/markers-add.png</file>
  <file alias='icons/hicolor/36x36/friction/markers-edit.png'>hicolor/36x36/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/36x36/friction/memory.png'>hicolor/36x36/friction/memory.png</file>
  <file alias='icons/hicolor/36x36/friction/preview_loop.png'>hicolor/36x36/friction/preview_loop.png</file>
  <file alias='icons/hicolor/36x36/friction/range-clear.png'>hicolor/36x36/friction/range-clear.png</file>
  <file alias='icons/hicolor/36x36/friction/range-in.png'>hicolor/36x36/friction/range-in.png</file>
@@ -3736,6 +3750,7 @@
  <file alias='icons/hicolor/38x38/friction/graph_property.png'>hicolor/38x38/friction/graph_property.png</file>
  <file alias='icons/hicolor/38x38/friction/markers-add.png'>hicolor/38x38/friction/markers-add.png</file>
  <file alias='icons/hicolor/38x38/friction/markers-edit.png'>hicolor/38x38/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/38x38/friction/memory.png'>hicolor/38x38/friction/memory.png</file>
  <file alias='icons/hicolor/38x38/friction/preview_loop.png'>hicolor/38x38/friction/preview_loop.png</file>
  <file alias='icons/hicolor/38x38/friction/range-clear.png'>hicolor/38x38/friction/range-clear.png</file>
  <file alias='icons/hicolor/38x38/friction/range-in.png'>hicolor/38x38/friction/range-in.png</file>
@@ -3998,6 +4013,7 @@
  <file alias='icons/hicolor/40x40/friction/graph_property.png'>hicolor/40x40/friction/graph_property.png</file>
  <file alias='icons/hicolor/40x40/friction/markers-add.png'>hicolor/40x40/friction/markers-add.png</file>
  <file alias='icons/hicolor/40x40/friction/markers-edit.png'>hicolor/40x40/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/40x40/friction/memory.png'>hicolor/40x40/friction/memory.png</file>
  <file alias='icons/hicolor/40x40/friction/preview_loop.png'>hicolor/40x40/friction/preview_loop.png</file>
  <file alias='icons/hicolor/40x40/friction/range-clear.png'>hicolor/40x40/friction/range-clear.png</file>
  <file alias='icons/hicolor/40x40/friction/range-in.png'>hicolor/40x40/friction/range-in.png</file>
@@ -4260,6 +4276,7 @@
  <file alias='icons/hicolor/42x42/friction/graph_property.png'>hicolor/42x42/friction/graph_property.png</file>
  <file alias='icons/hicolor/42x42/friction/markers-add.png'>hicolor/42x42/friction/markers-add.png</file>
  <file alias='icons/hicolor/42x42/friction/markers-edit.png'>hicolor/42x42/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/42x42/friction/memory.png'>hicolor/42x42/friction/memory.png</file>
  <file alias='icons/hicolor/42x42/friction/preview_loop.png'>hicolor/42x42/friction/preview_loop.png</file>
  <file alias='icons/hicolor/42x42/friction/range-clear.png'>hicolor/42x42/friction/range-clear.png</file>
  <file alias='icons/hicolor/42x42/friction/range-in.png'>hicolor/42x42/friction/range-in.png</file>
@@ -4522,6 +4539,7 @@
  <file alias='icons/hicolor/44x44/friction/graph_property.png'>hicolor/44x44/friction/graph_property.png</file>
  <file alias='icons/hicolor/44x44/friction/markers-add.png'>hicolor/44x44/friction/markers-add.png</file>
  <file alias='icons/hicolor/44x44/friction/markers-edit.png'>hicolor/44x44/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/44x44/friction/memory.png'>hicolor/44x44/friction/memory.png</file>
  <file alias='icons/hicolor/44x44/friction/preview_loop.png'>hicolor/44x44/friction/preview_loop.png</file>
  <file alias='icons/hicolor/44x44/friction/range-clear.png'>hicolor/44x44/friction/range-clear.png</file>
  <file alias='icons/hicolor/44x44/friction/range-in.png'>hicolor/44x44/friction/range-in.png</file>
@@ -4784,6 +4802,7 @@
  <file alias='icons/hicolor/46x46/friction/graph_property.png'>hicolor/46x46/friction/graph_property.png</file>
  <file alias='icons/hicolor/46x46/friction/markers-add.png'>hicolor/46x46/friction/markers-add.png</file>
  <file alias='icons/hicolor/46x46/friction/markers-edit.png'>hicolor/46x46/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/46x46/friction/memory.png'>hicolor/46x46/friction/memory.png</file>
  <file alias='icons/hicolor/46x46/friction/preview_loop.png'>hicolor/46x46/friction/preview_loop.png</file>
  <file alias='icons/hicolor/46x46/friction/range-clear.png'>hicolor/46x46/friction/range-clear.png</file>
  <file alias='icons/hicolor/46x46/friction/range-in.png'>hicolor/46x46/friction/range-in.png</file>
@@ -5046,6 +5065,7 @@
  <file alias='icons/hicolor/48x48/friction/graph_property.png'>hicolor/48x48/friction/graph_property.png</file>
  <file alias='icons/hicolor/48x48/friction/markers-add.png'>hicolor/48x48/friction/markers-add.png</file>
  <file alias='icons/hicolor/48x48/friction/markers-edit.png'>hicolor/48x48/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/48x48/friction/memory.png'>hicolor/48x48/friction/memory.png</file>
  <file alias='icons/hicolor/48x48/friction/preview_loop.png'>hicolor/48x48/friction/preview_loop.png</file>
  <file alias='icons/hicolor/48x48/friction/range-clear.png'>hicolor/48x48/friction/range-clear.png</file>
  <file alias='icons/hicolor/48x48/friction/range-in.png'>hicolor/48x48/friction/range-in.png</file>
@@ -5308,6 +5328,7 @@
  <file alias='icons/hicolor/64x64/friction/graph_property.png'>hicolor/64x64/friction/graph_property.png</file>
  <file alias='icons/hicolor/64x64/friction/markers-add.png'>hicolor/64x64/friction/markers-add.png</file>
  <file alias='icons/hicolor/64x64/friction/markers-edit.png'>hicolor/64x64/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/64x64/friction/memory.png'>hicolor/64x64/friction/memory.png</file>
  <file alias='icons/hicolor/64x64/friction/preview_loop.png'>hicolor/64x64/friction/preview_loop.png</file>
  <file alias='icons/hicolor/64x64/friction/range-clear.png'>hicolor/64x64/friction/range-clear.png</file>
  <file alias='icons/hicolor/64x64/friction/range-in.png'>hicolor/64x64/friction/range-in.png</file>
@@ -5570,6 +5591,7 @@
  <file alias='icons/hicolor/96x96/friction/graph_property.png'>hicolor/96x96/friction/graph_property.png</file>
  <file alias='icons/hicolor/96x96/friction/markers-add.png'>hicolor/96x96/friction/markers-add.png</file>
  <file alias='icons/hicolor/96x96/friction/markers-edit.png'>hicolor/96x96/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/96x96/friction/memory.png'>hicolor/96x96/friction/memory.png</file>
  <file alias='icons/hicolor/96x96/friction/preview_loop.png'>hicolor/96x96/friction/preview_loop.png</file>
  <file alias='icons/hicolor/96x96/friction/range-clear.png'>hicolor/96x96/friction/range-clear.png</file>
  <file alias='icons/hicolor/96x96/friction/range-in.png'>hicolor/96x96/friction/range-in.png</file>
@@ -5832,6 +5854,7 @@
  <file alias='icons/hicolor/128x128/friction/graph_property.png'>hicolor/128x128/friction/graph_property.png</file>
  <file alias='icons/hicolor/128x128/friction/markers-add.png'>hicolor/128x128/friction/markers-add.png</file>
  <file alias='icons/hicolor/128x128/friction/markers-edit.png'>hicolor/128x128/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/128x128/friction/memory.png'>hicolor/128x128/friction/memory.png</file>
  <file alias='icons/hicolor/128x128/friction/preview_loop.png'>hicolor/128x128/friction/preview_loop.png</file>
  <file alias='icons/hicolor/128x128/friction/range-clear.png'>hicolor/128x128/friction/range-clear.png</file>
  <file alias='icons/hicolor/128x128/friction/range-in.png'>hicolor/128x128/friction/range-in.png</file>
@@ -6094,6 +6117,7 @@
  <file alias='icons/hicolor/192x192/friction/graph_property.png'>hicolor/192x192/friction/graph_property.png</file>
  <file alias='icons/hicolor/192x192/friction/markers-add.png'>hicolor/192x192/friction/markers-add.png</file>
  <file alias='icons/hicolor/192x192/friction/markers-edit.png'>hicolor/192x192/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/192x192/friction/memory.png'>hicolor/192x192/friction/memory.png</file>
  <file alias='icons/hicolor/192x192/friction/preview_loop.png'>hicolor/192x192/friction/preview_loop.png</file>
  <file alias='icons/hicolor/192x192/friction/range-clear.png'>hicolor/192x192/friction/range-clear.png</file>
  <file alias='icons/hicolor/192x192/friction/range-in.png'>hicolor/192x192/friction/range-in.png</file>
@@ -6356,6 +6380,7 @@
  <file alias='icons/hicolor/256x256/friction/graph_property.png'>hicolor/256x256/friction/graph_property.png</file>
  <file alias='icons/hicolor/256x256/friction/markers-add.png'>hicolor/256x256/friction/markers-add.png</file>
  <file alias='icons/hicolor/256x256/friction/markers-edit.png'>hicolor/256x256/friction/markers-edit.png</file>
+ <file alias='icons/hicolor/256x256/friction/memory.png'>hicolor/256x256/friction/memory.png</file>
  <file alias='icons/hicolor/256x256/friction/preview_loop.png'>hicolor/256x256/friction/preview_loop.png</file>
  <file alias='icons/hicolor/256x256/friction/range-clear.png'>hicolor/256x256/friction/range-clear.png</file>
  <file alias='icons/hicolor/256x256/friction/range-in.png'>hicolor/256x256/friction/range-in.png</file>
