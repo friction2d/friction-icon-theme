@@ -74,6 +74,8 @@
  <file alias='icons/hicolor/16x16/friction/range-clear.png'>hicolor/16x16/friction/range-clear.png</file>
  <file alias='icons/hicolor/16x16/friction/range-in.png'>hicolor/16x16/friction/range-in.png</file>
  <file alias='icons/hicolor/16x16/friction/range-out.png'>hicolor/16x16/friction/range-out.png</file>
+ <file alias='icons/hicolor/16x16/friction/snap_off.png'>hicolor/16x16/friction/snap_off.png</file>
+ <file alias='icons/hicolor/16x16/friction/snap_on.png'>hicolor/16x16/friction/snap_on.png</file>
  <file alias='icons/hicolor/16x16/friction/stroke_flat_2.png'>hicolor/16x16/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/16x16/friction/stroke_flat.png'>hicolor/16x16/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/16x16/friction/transform_opacity.png'>hicolor/16x16/friction/transform_opacity.png</file>
@@ -341,6 +343,8 @@
  <file alias='icons/hicolor/17x17/friction/range-clear.png'>hicolor/17x17/friction/range-clear.png</file>
  <file alias='icons/hicolor/17x17/friction/range-in.png'>hicolor/17x17/friction/range-in.png</file>
  <file alias='icons/hicolor/17x17/friction/range-out.png'>hicolor/17x17/friction/range-out.png</file>
+ <file alias='icons/hicolor/17x17/friction/snap_off.png'>hicolor/17x17/friction/snap_off.png</file>
+ <file alias='icons/hicolor/17x17/friction/snap_on.png'>hicolor/17x17/friction/snap_on.png</file>
  <file alias='icons/hicolor/17x17/friction/stroke_flat_2.png'>hicolor/17x17/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/17x17/friction/stroke_flat.png'>hicolor/17x17/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/17x17/friction/transform_opacity.png'>hicolor/17x17/friction/transform_opacity.png</file>
@@ -608,6 +612,8 @@
  <file alias='icons/hicolor/18x18/friction/range-clear.png'>hicolor/18x18/friction/range-clear.png</file>
  <file alias='icons/hicolor/18x18/friction/range-in.png'>hicolor/18x18/friction/range-in.png</file>
  <file alias='icons/hicolor/18x18/friction/range-out.png'>hicolor/18x18/friction/range-out.png</file>
+ <file alias='icons/hicolor/18x18/friction/snap_off.png'>hicolor/18x18/friction/snap_off.png</file>
+ <file alias='icons/hicolor/18x18/friction/snap_on.png'>hicolor/18x18/friction/snap_on.png</file>
  <file alias='icons/hicolor/18x18/friction/stroke_flat_2.png'>hicolor/18x18/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/18x18/friction/stroke_flat.png'>hicolor/18x18/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/18x18/friction/transform_opacity.png'>hicolor/18x18/friction/transform_opacity.png</file>
@@ -875,6 +881,8 @@
  <file alias='icons/hicolor/20x20/friction/range-clear.png'>hicolor/20x20/friction/range-clear.png</file>
  <file alias='icons/hicolor/20x20/friction/range-in.png'>hicolor/20x20/friction/range-in.png</file>
  <file alias='icons/hicolor/20x20/friction/range-out.png'>hicolor/20x20/friction/range-out.png</file>
+ <file alias='icons/hicolor/20x20/friction/snap_off.png'>hicolor/20x20/friction/snap_off.png</file>
+ <file alias='icons/hicolor/20x20/friction/snap_on.png'>hicolor/20x20/friction/snap_on.png</file>
  <file alias='icons/hicolor/20x20/friction/stroke_flat_2.png'>hicolor/20x20/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/20x20/friction/stroke_flat.png'>hicolor/20x20/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/20x20/friction/transform_opacity.png'>hicolor/20x20/friction/transform_opacity.png</file>
@@ -1142,6 +1150,8 @@
  <file alias='icons/hicolor/21x21/friction/range-clear.png'>hicolor/21x21/friction/range-clear.png</file>
  <file alias='icons/hicolor/21x21/friction/range-in.png'>hicolor/21x21/friction/range-in.png</file>
  <file alias='icons/hicolor/21x21/friction/range-out.png'>hicolor/21x21/friction/range-out.png</file>
+ <file alias='icons/hicolor/21x21/friction/snap_off.png'>hicolor/21x21/friction/snap_off.png</file>
+ <file alias='icons/hicolor/21x21/friction/snap_on.png'>hicolor/21x21/friction/snap_on.png</file>
  <file alias='icons/hicolor/21x21/friction/stroke_flat_2.png'>hicolor/21x21/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/21x21/friction/stroke_flat.png'>hicolor/21x21/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/21x21/friction/transform_opacity.png'>hicolor/21x21/friction/transform_opacity.png</file>
@@ -1409,6 +1419,8 @@
  <file alias='icons/hicolor/22x22/friction/range-clear.png'>hicolor/22x22/friction/range-clear.png</file>
  <file alias='icons/hicolor/22x22/friction/range-in.png'>hicolor/22x22/friction/range-in.png</file>
  <file alias='icons/hicolor/22x22/friction/range-out.png'>hicolor/22x22/friction/range-out.png</file>
+ <file alias='icons/hicolor/22x22/friction/snap_off.png'>hicolor/22x22/friction/snap_off.png</file>
+ <file alias='icons/hicolor/22x22/friction/snap_on.png'>hicolor/22x22/friction/snap_on.png</file>
  <file alias='icons/hicolor/22x22/friction/stroke_flat_2.png'>hicolor/22x22/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/22x22/friction/stroke_flat.png'>hicolor/22x22/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/22x22/friction/transform_opacity.png'>hicolor/22x22/friction/transform_opacity.png</file>
@@ -1676,6 +1688,8 @@
  <file alias='icons/hicolor/24x24/friction/range-clear.png'>hicolor/24x24/friction/range-clear.png</file>
  <file alias='icons/hicolor/24x24/friction/range-in.png'>hicolor/24x24/friction/range-in.png</file>
  <file alias='icons/hicolor/24x24/friction/range-out.png'>hicolor/24x24/friction/range-out.png</file>
+ <file alias='icons/hicolor/24x24/friction/snap_off.png'>hicolor/24x24/friction/snap_off.png</file>
+ <file alias='icons/hicolor/24x24/friction/snap_on.png'>hicolor/24x24/friction/snap_on.png</file>
  <file alias='icons/hicolor/24x24/friction/stroke_flat_2.png'>hicolor/24x24/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/24x24/friction/stroke_flat.png'>hicolor/24x24/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/24x24/friction/transform_opacity.png'>hicolor/24x24/friction/transform_opacity.png</file>
@@ -1943,6 +1957,8 @@
  <file alias='icons/hicolor/25x25/friction/range-clear.png'>hicolor/25x25/friction/range-clear.png</file>
  <file alias='icons/hicolor/25x25/friction/range-in.png'>hicolor/25x25/friction/range-in.png</file>
  <file alias='icons/hicolor/25x25/friction/range-out.png'>hicolor/25x25/friction/range-out.png</file>
+ <file alias='icons/hicolor/25x25/friction/snap_off.png'>hicolor/25x25/friction/snap_off.png</file>
+ <file alias='icons/hicolor/25x25/friction/snap_on.png'>hicolor/25x25/friction/snap_on.png</file>
  <file alias='icons/hicolor/25x25/friction/stroke_flat_2.png'>hicolor/25x25/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/25x25/friction/stroke_flat.png'>hicolor/25x25/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/25x25/friction/transform_opacity.png'>hicolor/25x25/friction/transform_opacity.png</file>
@@ -2210,6 +2226,8 @@
  <file alias='icons/hicolor/26x26/friction/range-clear.png'>hicolor/26x26/friction/range-clear.png</file>
  <file alias='icons/hicolor/26x26/friction/range-in.png'>hicolor/26x26/friction/range-in.png</file>
  <file alias='icons/hicolor/26x26/friction/range-out.png'>hicolor/26x26/friction/range-out.png</file>
+ <file alias='icons/hicolor/26x26/friction/snap_off.png'>hicolor/26x26/friction/snap_off.png</file>
+ <file alias='icons/hicolor/26x26/friction/snap_on.png'>hicolor/26x26/friction/snap_on.png</file>
  <file alias='icons/hicolor/26x26/friction/stroke_flat_2.png'>hicolor/26x26/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/26x26/friction/stroke_flat.png'>hicolor/26x26/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/26x26/friction/transform_opacity.png'>hicolor/26x26/friction/transform_opacity.png</file>
@@ -2477,6 +2495,8 @@
  <file alias='icons/hicolor/28x28/friction/range-clear.png'>hicolor/28x28/friction/range-clear.png</file>
  <file alias='icons/hicolor/28x28/friction/range-in.png'>hicolor/28x28/friction/range-in.png</file>
  <file alias='icons/hicolor/28x28/friction/range-out.png'>hicolor/28x28/friction/range-out.png</file>
+ <file alias='icons/hicolor/28x28/friction/snap_off.png'>hicolor/28x28/friction/snap_off.png</file>
+ <file alias='icons/hicolor/28x28/friction/snap_on.png'>hicolor/28x28/friction/snap_on.png</file>
  <file alias='icons/hicolor/28x28/friction/stroke_flat_2.png'>hicolor/28x28/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/28x28/friction/stroke_flat.png'>hicolor/28x28/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/28x28/friction/transform_opacity.png'>hicolor/28x28/friction/transform_opacity.png</file>
@@ -2744,6 +2764,8 @@
  <file alias='icons/hicolor/30x30/friction/range-clear.png'>hicolor/30x30/friction/range-clear.png</file>
  <file alias='icons/hicolor/30x30/friction/range-in.png'>hicolor/30x30/friction/range-in.png</file>
  <file alias='icons/hicolor/30x30/friction/range-out.png'>hicolor/30x30/friction/range-out.png</file>
+ <file alias='icons/hicolor/30x30/friction/snap_off.png'>hicolor/30x30/friction/snap_off.png</file>
+ <file alias='icons/hicolor/30x30/friction/snap_on.png'>hicolor/30x30/friction/snap_on.png</file>
  <file alias='icons/hicolor/30x30/friction/stroke_flat_2.png'>hicolor/30x30/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/30x30/friction/stroke_flat.png'>hicolor/30x30/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/30x30/friction/transform_opacity.png'>hicolor/30x30/friction/transform_opacity.png</file>
@@ -3011,6 +3033,8 @@
  <file alias='icons/hicolor/32x32/friction/range-clear.png'>hicolor/32x32/friction/range-clear.png</file>
  <file alias='icons/hicolor/32x32/friction/range-in.png'>hicolor/32x32/friction/range-in.png</file>
  <file alias='icons/hicolor/32x32/friction/range-out.png'>hicolor/32x32/friction/range-out.png</file>
+ <file alias='icons/hicolor/32x32/friction/snap_off.png'>hicolor/32x32/friction/snap_off.png</file>
+ <file alias='icons/hicolor/32x32/friction/snap_on.png'>hicolor/32x32/friction/snap_on.png</file>
  <file alias='icons/hicolor/32x32/friction/stroke_flat_2.png'>hicolor/32x32/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/32x32/friction/stroke_flat.png'>hicolor/32x32/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/32x32/friction/transform_opacity.png'>hicolor/32x32/friction/transform_opacity.png</file>
@@ -3278,6 +3302,8 @@
  <file alias='icons/hicolor/34x34/friction/range-clear.png'>hicolor/34x34/friction/range-clear.png</file>
  <file alias='icons/hicolor/34x34/friction/range-in.png'>hicolor/34x34/friction/range-in.png</file>
  <file alias='icons/hicolor/34x34/friction/range-out.png'>hicolor/34x34/friction/range-out.png</file>
+ <file alias='icons/hicolor/34x34/friction/snap_off.png'>hicolor/34x34/friction/snap_off.png</file>
+ <file alias='icons/hicolor/34x34/friction/snap_on.png'>hicolor/34x34/friction/snap_on.png</file>
  <file alias='icons/hicolor/34x34/friction/stroke_flat_2.png'>hicolor/34x34/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/34x34/friction/stroke_flat.png'>hicolor/34x34/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/34x34/friction/transform_opacity.png'>hicolor/34x34/friction/transform_opacity.png</file>
@@ -3545,6 +3571,8 @@
  <file alias='icons/hicolor/36x36/friction/range-clear.png'>hicolor/36x36/friction/range-clear.png</file>
  <file alias='icons/hicolor/36x36/friction/range-in.png'>hicolor/36x36/friction/range-in.png</file>
  <file alias='icons/hicolor/36x36/friction/range-out.png'>hicolor/36x36/friction/range-out.png</file>
+ <file alias='icons/hicolor/36x36/friction/snap_off.png'>hicolor/36x36/friction/snap_off.png</file>
+ <file alias='icons/hicolor/36x36/friction/snap_on.png'>hicolor/36x36/friction/snap_on.png</file>
  <file alias='icons/hicolor/36x36/friction/stroke_flat_2.png'>hicolor/36x36/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/36x36/friction/stroke_flat.png'>hicolor/36x36/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/36x36/friction/transform_opacity.png'>hicolor/36x36/friction/transform_opacity.png</file>
@@ -3812,6 +3840,8 @@
  <file alias='icons/hicolor/38x38/friction/range-clear.png'>hicolor/38x38/friction/range-clear.png</file>
  <file alias='icons/hicolor/38x38/friction/range-in.png'>hicolor/38x38/friction/range-in.png</file>
  <file alias='icons/hicolor/38x38/friction/range-out.png'>hicolor/38x38/friction/range-out.png</file>
+ <file alias='icons/hicolor/38x38/friction/snap_off.png'>hicolor/38x38/friction/snap_off.png</file>
+ <file alias='icons/hicolor/38x38/friction/snap_on.png'>hicolor/38x38/friction/snap_on.png</file>
  <file alias='icons/hicolor/38x38/friction/stroke_flat_2.png'>hicolor/38x38/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/38x38/friction/stroke_flat.png'>hicolor/38x38/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/38x38/friction/transform_opacity.png'>hicolor/38x38/friction/transform_opacity.png</file>
@@ -4079,6 +4109,8 @@
  <file alias='icons/hicolor/40x40/friction/range-clear.png'>hicolor/40x40/friction/range-clear.png</file>
  <file alias='icons/hicolor/40x40/friction/range-in.png'>hicolor/40x40/friction/range-in.png</file>
  <file alias='icons/hicolor/40x40/friction/range-out.png'>hicolor/40x40/friction/range-out.png</file>
+ <file alias='icons/hicolor/40x40/friction/snap_off.png'>hicolor/40x40/friction/snap_off.png</file>
+ <file alias='icons/hicolor/40x40/friction/snap_on.png'>hicolor/40x40/friction/snap_on.png</file>
  <file alias='icons/hicolor/40x40/friction/stroke_flat_2.png'>hicolor/40x40/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/40x40/friction/stroke_flat.png'>hicolor/40x40/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/40x40/friction/transform_opacity.png'>hicolor/40x40/friction/transform_opacity.png</file>
@@ -4346,6 +4378,8 @@
  <file alias='icons/hicolor/42x42/friction/range-clear.png'>hicolor/42x42/friction/range-clear.png</file>
  <file alias='icons/hicolor/42x42/friction/range-in.png'>hicolor/42x42/friction/range-in.png</file>
  <file alias='icons/hicolor/42x42/friction/range-out.png'>hicolor/42x42/friction/range-out.png</file>
+ <file alias='icons/hicolor/42x42/friction/snap_off.png'>hicolor/42x42/friction/snap_off.png</file>
+ <file alias='icons/hicolor/42x42/friction/snap_on.png'>hicolor/42x42/friction/snap_on.png</file>
  <file alias='icons/hicolor/42x42/friction/stroke_flat_2.png'>hicolor/42x42/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/42x42/friction/stroke_flat.png'>hicolor/42x42/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/42x42/friction/transform_opacity.png'>hicolor/42x42/friction/transform_opacity.png</file>
@@ -4613,6 +4647,8 @@
  <file alias='icons/hicolor/44x44/friction/range-clear.png'>hicolor/44x44/friction/range-clear.png</file>
  <file alias='icons/hicolor/44x44/friction/range-in.png'>hicolor/44x44/friction/range-in.png</file>
  <file alias='icons/hicolor/44x44/friction/range-out.png'>hicolor/44x44/friction/range-out.png</file>
+ <file alias='icons/hicolor/44x44/friction/snap_off.png'>hicolor/44x44/friction/snap_off.png</file>
+ <file alias='icons/hicolor/44x44/friction/snap_on.png'>hicolor/44x44/friction/snap_on.png</file>
  <file alias='icons/hicolor/44x44/friction/stroke_flat_2.png'>hicolor/44x44/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/44x44/friction/stroke_flat.png'>hicolor/44x44/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/44x44/friction/transform_opacity.png'>hicolor/44x44/friction/transform_opacity.png</file>
@@ -4880,6 +4916,8 @@
  <file alias='icons/hicolor/46x46/friction/range-clear.png'>hicolor/46x46/friction/range-clear.png</file>
  <file alias='icons/hicolor/46x46/friction/range-in.png'>hicolor/46x46/friction/range-in.png</file>
  <file alias='icons/hicolor/46x46/friction/range-out.png'>hicolor/46x46/friction/range-out.png</file>
+ <file alias='icons/hicolor/46x46/friction/snap_off.png'>hicolor/46x46/friction/snap_off.png</file>
+ <file alias='icons/hicolor/46x46/friction/snap_on.png'>hicolor/46x46/friction/snap_on.png</file>
  <file alias='icons/hicolor/46x46/friction/stroke_flat_2.png'>hicolor/46x46/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/46x46/friction/stroke_flat.png'>hicolor/46x46/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/46x46/friction/transform_opacity.png'>hicolor/46x46/friction/transform_opacity.png</file>
@@ -5147,6 +5185,8 @@
  <file alias='icons/hicolor/48x48/friction/range-clear.png'>hicolor/48x48/friction/range-clear.png</file>
  <file alias='icons/hicolor/48x48/friction/range-in.png'>hicolor/48x48/friction/range-in.png</file>
  <file alias='icons/hicolor/48x48/friction/range-out.png'>hicolor/48x48/friction/range-out.png</file>
+ <file alias='icons/hicolor/48x48/friction/snap_off.png'>hicolor/48x48/friction/snap_off.png</file>
+ <file alias='icons/hicolor/48x48/friction/snap_on.png'>hicolor/48x48/friction/snap_on.png</file>
  <file alias='icons/hicolor/48x48/friction/stroke_flat_2.png'>hicolor/48x48/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/48x48/friction/stroke_flat.png'>hicolor/48x48/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/48x48/friction/transform_opacity.png'>hicolor/48x48/friction/transform_opacity.png</file>
@@ -5414,6 +5454,8 @@
  <file alias='icons/hicolor/64x64/friction/range-clear.png'>hicolor/64x64/friction/range-clear.png</file>
  <file alias='icons/hicolor/64x64/friction/range-in.png'>hicolor/64x64/friction/range-in.png</file>
  <file alias='icons/hicolor/64x64/friction/range-out.png'>hicolor/64x64/friction/range-out.png</file>
+ <file alias='icons/hicolor/64x64/friction/snap_off.png'>hicolor/64x64/friction/snap_off.png</file>
+ <file alias='icons/hicolor/64x64/friction/snap_on.png'>hicolor/64x64/friction/snap_on.png</file>
  <file alias='icons/hicolor/64x64/friction/stroke_flat_2.png'>hicolor/64x64/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/64x64/friction/stroke_flat.png'>hicolor/64x64/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/64x64/friction/transform_opacity.png'>hicolor/64x64/friction/transform_opacity.png</file>
@@ -5681,6 +5723,8 @@
  <file alias='icons/hicolor/96x96/friction/range-clear.png'>hicolor/96x96/friction/range-clear.png</file>
  <file alias='icons/hicolor/96x96/friction/range-in.png'>hicolor/96x96/friction/range-in.png</file>
  <file alias='icons/hicolor/96x96/friction/range-out.png'>hicolor/96x96/friction/range-out.png</file>
+ <file alias='icons/hicolor/96x96/friction/snap_off.png'>hicolor/96x96/friction/snap_off.png</file>
+ <file alias='icons/hicolor/96x96/friction/snap_on.png'>hicolor/96x96/friction/snap_on.png</file>
  <file alias='icons/hicolor/96x96/friction/stroke_flat_2.png'>hicolor/96x96/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/96x96/friction/stroke_flat.png'>hicolor/96x96/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/96x96/friction/transform_opacity.png'>hicolor/96x96/friction/transform_opacity.png</file>
@@ -5948,6 +5992,8 @@
  <file alias='icons/hicolor/128x128/friction/range-clear.png'>hicolor/128x128/friction/range-clear.png</file>
  <file alias='icons/hicolor/128x128/friction/range-in.png'>hicolor/128x128/friction/range-in.png</file>
  <file alias='icons/hicolor/128x128/friction/range-out.png'>hicolor/128x128/friction/range-out.png</file>
+ <file alias='icons/hicolor/128x128/friction/snap_off.png'>hicolor/128x128/friction/snap_off.png</file>
+ <file alias='icons/hicolor/128x128/friction/snap_on.png'>hicolor/128x128/friction/snap_on.png</file>
  <file alias='icons/hicolor/128x128/friction/stroke_flat_2.png'>hicolor/128x128/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/128x128/friction/stroke_flat.png'>hicolor/128x128/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/128x128/friction/transform_opacity.png'>hicolor/128x128/friction/transform_opacity.png</file>
@@ -6215,6 +6261,8 @@
  <file alias='icons/hicolor/192x192/friction/range-clear.png'>hicolor/192x192/friction/range-clear.png</file>
  <file alias='icons/hicolor/192x192/friction/range-in.png'>hicolor/192x192/friction/range-in.png</file>
  <file alias='icons/hicolor/192x192/friction/range-out.png'>hicolor/192x192/friction/range-out.png</file>
+ <file alias='icons/hicolor/192x192/friction/snap_off.png'>hicolor/192x192/friction/snap_off.png</file>
+ <file alias='icons/hicolor/192x192/friction/snap_on.png'>hicolor/192x192/friction/snap_on.png</file>
  <file alias='icons/hicolor/192x192/friction/stroke_flat_2.png'>hicolor/192x192/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/192x192/friction/stroke_flat.png'>hicolor/192x192/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/192x192/friction/transform_opacity.png'>hicolor/192x192/friction/transform_opacity.png</file>
@@ -6482,6 +6530,8 @@
  <file alias='icons/hicolor/256x256/friction/range-clear.png'>hicolor/256x256/friction/range-clear.png</file>
  <file alias='icons/hicolor/256x256/friction/range-in.png'>hicolor/256x256/friction/range-in.png</file>
  <file alias='icons/hicolor/256x256/friction/range-out.png'>hicolor/256x256/friction/range-out.png</file>
+ <file alias='icons/hicolor/256x256/friction/snap_off.png'>hicolor/256x256/friction/snap_off.png</file>
+ <file alias='icons/hicolor/256x256/friction/snap_on.png'>hicolor/256x256/friction/snap_on.png</file>
  <file alias='icons/hicolor/256x256/friction/stroke_flat_2.png'>hicolor/256x256/friction/stroke_flat_2.png</file>
  <file alias='icons/hicolor/256x256/friction/stroke_flat.png'>hicolor/256x256/friction/stroke_flat.png</file>
  <file alias='icons/hicolor/256x256/friction/transform_opacity.png'>hicolor/256x256/friction/transform_opacity.png</file>
