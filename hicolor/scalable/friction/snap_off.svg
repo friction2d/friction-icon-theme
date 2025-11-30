@@ -5,7 +5,7 @@
    version="1.1"
    id="svg929"
    sodipodi:docname="snap_off.svg"
-   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    width="32"
    height="32"
    inkscape:export-filename="gizmo_position_on.png"
@@ -60,10 +60,10 @@
    inkscape:guide-bbox="true"
    inkscape:zoom="5.0568772"
    inkscape:cx="-10.283026"
-   inkscape:cy="19.9728"
-   inkscape:window-width="1870"
+   inkscape:cy="20.071676"
+   inkscape:window-width="1874"
    inkscape:window-height="1014"
-   inkscape:window-x="50"
+   inkscape:window-x="46"
    inkscape:window-y="29"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg929"
@@ -106,7 +106,7 @@
     
 <g
    id="g2"
-   style="opacity:0.25"><path
+   style="opacity:0.6"><path
      id="path1"
      style="opacity:1;fill:none;stroke:#ffffff;stroke-width:8;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"
      d="m 9.0000005,19.999999 -1e-6,-3 C 8.9999985,13.134005 12.134007,9.9999995 16.000001,9.9999995 19.865994,9.9999995 23,13.134006 23,16.999999 v 3"
