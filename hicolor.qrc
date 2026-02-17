@@ -30,6 +30,7 @@
  <file alias='icons/hicolor/16x16/actions/zoom_all.png'>hicolor/16x16/actions/zoom_all.png</file>
  <file alias='icons/hicolor/16x16/actions/zoom_in.png'>hicolor/16x16/actions/zoom_in.png</file>
  <file alias='icons/hicolor/16x16/actions/zoom_out.png'>hicolor/16x16/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/16x16/apps/graphics.friction.Friction.Alt.png'>hicolor/16x16/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/16x16/apps/graphics.friction.Friction.png'>hicolor/16x16/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/16x16/friction/adjustments.png'>hicolor/16x16/friction/adjustments.png</file>
  <file alias='icons/hicolor/16x16/friction/alignment.png'>hicolor/16x16/friction/alignment.png</file>
@@ -303,6 +304,7 @@
  <file alias='icons/hicolor/17x17/actions/zoom_all.png'>hicolor/17x17/actions/zoom_all.png</file>
  <file alias='icons/hicolor/17x17/actions/zoom_in.png'>hicolor/17x17/actions/zoom_in.png</file>
  <file alias='icons/hicolor/17x17/actions/zoom_out.png'>hicolor/17x17/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/17x17/apps/graphics.friction.Friction.Alt.png'>hicolor/17x17/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/17x17/apps/graphics.friction.Friction.png'>hicolor/17x17/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/17x17/friction/adjustments.png'>hicolor/17x17/friction/adjustments.png</file>
  <file alias='icons/hicolor/17x17/friction/alignment.png'>hicolor/17x17/friction/alignment.png</file>
@@ -576,6 +578,7 @@
  <file alias='icons/hicolor/18x18/actions/zoom_all.png'>hicolor/18x18/actions/zoom_all.png</file>
  <file alias='icons/hicolor/18x18/actions/zoom_in.png'>hicolor/18x18/actions/zoom_in.png</file>
  <file alias='icons/hicolor/18x18/actions/zoom_out.png'>hicolor/18x18/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/18x18/apps/graphics.friction.Friction.Alt.png'>hicolor/18x18/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/18x18/apps/graphics.friction.Friction.png'>hicolor/18x18/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/18x18/friction/adjustments.png'>hicolor/18x18/friction/adjustments.png</file>
  <file alias='icons/hicolor/18x18/friction/alignment.png'>hicolor/18x18/friction/alignment.png</file>
@@ -849,6 +852,7 @@
  <file alias='icons/hicolor/20x20/actions/zoom_all.png'>hicolor/20x20/actions/zoom_all.png</file>
  <file alias='icons/hicolor/20x20/actions/zoom_in.png'>hicolor/20x20/actions/zoom_in.png</file>
  <file alias='icons/hicolor/20x20/actions/zoom_out.png'>hicolor/20x20/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/20x20/apps/graphics.friction.Friction.Alt.png'>hicolor/20x20/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/20x20/apps/graphics.friction.Friction.png'>hicolor/20x20/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/20x20/friction/adjustments.png'>hicolor/20x20/friction/adjustments.png</file>
  <file alias='icons/hicolor/20x20/friction/alignment.png'>hicolor/20x20/friction/alignment.png</file>
@@ -1122,6 +1126,7 @@
  <file alias='icons/hicolor/21x21/actions/zoom_all.png'>hicolor/21x21/actions/zoom_all.png</file>
  <file alias='icons/hicolor/21x21/actions/zoom_in.png'>hicolor/21x21/actions/zoom_in.png</file>
  <file alias='icons/hicolor/21x21/actions/zoom_out.png'>hicolor/21x21/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/21x21/apps/graphics.friction.Friction.Alt.png'>hicolor/21x21/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/21x21/apps/graphics.friction.Friction.png'>hicolor/21x21/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/21x21/friction/adjustments.png'>hicolor/21x21/friction/adjustments.png</file>
  <file alias='icons/hicolor/21x21/friction/alignment.png'>hicolor/21x21/friction/alignment.png</file>
@@ -1395,6 +1400,7 @@
  <file alias='icons/hicolor/22x22/actions/zoom_all.png'>hicolor/22x22/actions/zoom_all.png</file>
  <file alias='icons/hicolor/22x22/actions/zoom_in.png'>hicolor/22x22/actions/zoom_in.png</file>
  <file alias='icons/hicolor/22x22/actions/zoom_out.png'>hicolor/22x22/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/22x22/apps/graphics.friction.Friction.Alt.png'>hicolor/22x22/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/22x22/apps/graphics.friction.Friction.png'>hicolor/22x22/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/22x22/friction/adjustments.png'>hicolor/22x22/friction/adjustments.png</file>
  <file alias='icons/hicolor/22x22/friction/alignment.png'>hicolor/22x22/friction/alignment.png</file>
@@ -1668,6 +1674,7 @@
  <file alias='icons/hicolor/24x24/actions/zoom_all.png'>hicolor/24x24/actions/zoom_all.png</file>
  <file alias='icons/hicolor/24x24/actions/zoom_in.png'>hicolor/24x24/actions/zoom_in.png</file>
  <file alias='icons/hicolor/24x24/actions/zoom_out.png'>hicolor/24x24/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/24x24/apps/graphics.friction.Friction.Alt.png'>hicolor/24x24/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/24x24/apps/graphics.friction.Friction.png'>hicolor/24x24/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/24x24/friction/adjustments.png'>hicolor/24x24/friction/adjustments.png</file>
  <file alias='icons/hicolor/24x24/friction/alignment.png'>hicolor/24x24/friction/alignment.png</file>
@@ -1941,6 +1948,7 @@
  <file alias='icons/hicolor/25x25/actions/zoom_all.png'>hicolor/25x25/actions/zoom_all.png</file>
  <file alias='icons/hicolor/25x25/actions/zoom_in.png'>hicolor/25x25/actions/zoom_in.png</file>
  <file alias='icons/hicolor/25x25/actions/zoom_out.png'>hicolor/25x25/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/25x25/apps/graphics.friction.Friction.Alt.png'>hicolor/25x25/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/25x25/apps/graphics.friction.Friction.png'>hicolor/25x25/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/25x25/friction/adjustments.png'>hicolor/25x25/friction/adjustments.png</file>
  <file alias='icons/hicolor/25x25/friction/alignment.png'>hicolor/25x25/friction/alignment.png</file>
@@ -2214,6 +2222,7 @@
  <file alias='icons/hicolor/26x26/actions/zoom_all.png'>hicolor/26x26/actions/zoom_all.png</file>
  <file alias='icons/hicolor/26x26/actions/zoom_in.png'>hicolor/26x26/actions/zoom_in.png</file>
  <file alias='icons/hicolor/26x26/actions/zoom_out.png'>hicolor/26x26/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/26x26/apps/graphics.friction.Friction.Alt.png'>hicolor/26x26/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/26x26/apps/graphics.friction.Friction.png'>hicolor/26x26/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/26x26/friction/adjustments.png'>hicolor/26x26/friction/adjustments.png</file>
  <file alias='icons/hicolor/26x26/friction/alignment.png'>hicolor/26x26/friction/alignment.png</file>
@@ -2487,6 +2496,7 @@
  <file alias='icons/hicolor/28x28/actions/zoom_all.png'>hicolor/28x28/actions/zoom_all.png</file>
  <file alias='icons/hicolor/28x28/actions/zoom_in.png'>hicolor/28x28/actions/zoom_in.png</file>
  <file alias='icons/hicolor/28x28/actions/zoom_out.png'>hicolor/28x28/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/28x28/apps/graphics.friction.Friction.Alt.png'>hicolor/28x28/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/28x28/apps/graphics.friction.Friction.png'>hicolor/28x28/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/28x28/friction/adjustments.png'>hicolor/28x28/friction/adjustments.png</file>
  <file alias='icons/hicolor/28x28/friction/alignment.png'>hicolor/28x28/friction/alignment.png</file>
@@ -2760,6 +2770,7 @@
  <file alias='icons/hicolor/30x30/actions/zoom_all.png'>hicolor/30x30/actions/zoom_all.png</file>
  <file alias='icons/hicolor/30x30/actions/zoom_in.png'>hicolor/30x30/actions/zoom_in.png</file>
  <file alias='icons/hicolor/30x30/actions/zoom_out.png'>hicolor/30x30/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/30x30/apps/graphics.friction.Friction.Alt.png'>hicolor/30x30/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/30x30/apps/graphics.friction.Friction.png'>hicolor/30x30/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/30x30/friction/adjustments.png'>hicolor/30x30/friction/adjustments.png</file>
  <file alias='icons/hicolor/30x30/friction/alignment.png'>hicolor/30x30/friction/alignment.png</file>
@@ -3033,6 +3044,7 @@
  <file alias='icons/hicolor/32x32/actions/zoom_all.png'>hicolor/32x32/actions/zoom_all.png</file>
  <file alias='icons/hicolor/32x32/actions/zoom_in.png'>hicolor/32x32/actions/zoom_in.png</file>
  <file alias='icons/hicolor/32x32/actions/zoom_out.png'>hicolor/32x32/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/32x32/apps/graphics.friction.Friction.Alt.png'>hicolor/32x32/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/32x32/apps/graphics.friction.Friction.png'>hicolor/32x32/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/32x32/friction/adjustments.png'>hicolor/32x32/friction/adjustments.png</file>
  <file alias='icons/hicolor/32x32/friction/alignment.png'>hicolor/32x32/friction/alignment.png</file>
@@ -3306,6 +3318,7 @@
  <file alias='icons/hicolor/34x34/actions/zoom_all.png'>hicolor/34x34/actions/zoom_all.png</file>
  <file alias='icons/hicolor/34x34/actions/zoom_in.png'>hicolor/34x34/actions/zoom_in.png</file>
  <file alias='icons/hicolor/34x34/actions/zoom_out.png'>hicolor/34x34/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/34x34/apps/graphics.friction.Friction.Alt.png'>hicolor/34x34/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/34x34/apps/graphics.friction.Friction.png'>hicolor/34x34/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/34x34/friction/adjustments.png'>hicolor/34x34/friction/adjustments.png</file>
  <file alias='icons/hicolor/34x34/friction/alignment.png'>hicolor/34x34/friction/alignment.png</file>
@@ -3579,6 +3592,7 @@
  <file alias='icons/hicolor/36x36/actions/zoom_all.png'>hicolor/36x36/actions/zoom_all.png</file>
  <file alias='icons/hicolor/36x36/actions/zoom_in.png'>hicolor/36x36/actions/zoom_in.png</file>
  <file alias='icons/hicolor/36x36/actions/zoom_out.png'>hicolor/36x36/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/36x36/apps/graphics.friction.Friction.Alt.png'>hicolor/36x36/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/36x36/apps/graphics.friction.Friction.png'>hicolor/36x36/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/36x36/friction/adjustments.png'>hicolor/36x36/friction/adjustments.png</file>
  <file alias='icons/hicolor/36x36/friction/alignment.png'>hicolor/36x36/friction/alignment.png</file>
@@ -3852,6 +3866,7 @@
  <file alias='icons/hicolor/38x38/actions/zoom_all.png'>hicolor/38x38/actions/zoom_all.png</file>
  <file alias='icons/hicolor/38x38/actions/zoom_in.png'>hicolor/38x38/actions/zoom_in.png</file>
  <file alias='icons/hicolor/38x38/actions/zoom_out.png'>hicolor/38x38/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/38x38/apps/graphics.friction.Friction.Alt.png'>hicolor/38x38/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/38x38/apps/graphics.friction.Friction.png'>hicolor/38x38/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/38x38/friction/adjustments.png'>hicolor/38x38/friction/adjustments.png</file>
  <file alias='icons/hicolor/38x38/friction/alignment.png'>hicolor/38x38/friction/alignment.png</file>
@@ -4125,6 +4140,7 @@
  <file alias='icons/hicolor/40x40/actions/zoom_all.png'>hicolor/40x40/actions/zoom_all.png</file>
  <file alias='icons/hicolor/40x40/actions/zoom_in.png'>hicolor/40x40/actions/zoom_in.png</file>
  <file alias='icons/hicolor/40x40/actions/zoom_out.png'>hicolor/40x40/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/40x40/apps/graphics.friction.Friction.Alt.png'>hicolor/40x40/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/40x40/apps/graphics.friction.Friction.png'>hicolor/40x40/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/40x40/friction/adjustments.png'>hicolor/40x40/friction/adjustments.png</file>
  <file alias='icons/hicolor/40x40/friction/alignment.png'>hicolor/40x40/friction/alignment.png</file>
@@ -4398,6 +4414,7 @@
  <file alias='icons/hicolor/42x42/actions/zoom_all.png'>hicolor/42x42/actions/zoom_all.png</file>
  <file alias='icons/hicolor/42x42/actions/zoom_in.png'>hicolor/42x42/actions/zoom_in.png</file>
  <file alias='icons/hicolor/42x42/actions/zoom_out.png'>hicolor/42x42/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/42x42/apps/graphics.friction.Friction.Alt.png'>hicolor/42x42/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/42x42/apps/graphics.friction.Friction.png'>hicolor/42x42/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/42x42/friction/adjustments.png'>hicolor/42x42/friction/adjustments.png</file>
  <file alias='icons/hicolor/42x42/friction/alignment.png'>hicolor/42x42/friction/alignment.png</file>
@@ -4671,6 +4688,7 @@
  <file alias='icons/hicolor/44x44/actions/zoom_all.png'>hicolor/44x44/actions/zoom_all.png</file>
  <file alias='icons/hicolor/44x44/actions/zoom_in.png'>hicolor/44x44/actions/zoom_in.png</file>
  <file alias='icons/hicolor/44x44/actions/zoom_out.png'>hicolor/44x44/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/44x44/apps/graphics.friction.Friction.Alt.png'>hicolor/44x44/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/44x44/apps/graphics.friction.Friction.png'>hicolor/44x44/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/44x44/friction/adjustments.png'>hicolor/44x44/friction/adjustments.png</file>
  <file alias='icons/hicolor/44x44/friction/alignment.png'>hicolor/44x44/friction/alignment.png</file>
@@ -4944,6 +4962,7 @@
  <file alias='icons/hicolor/46x46/actions/zoom_all.png'>hicolor/46x46/actions/zoom_all.png</file>
  <file alias='icons/hicolor/46x46/actions/zoom_in.png'>hicolor/46x46/actions/zoom_in.png</file>
  <file alias='icons/hicolor/46x46/actions/zoom_out.png'>hicolor/46x46/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/46x46/apps/graphics.friction.Friction.Alt.png'>hicolor/46x46/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/46x46/apps/graphics.friction.Friction.png'>hicolor/46x46/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/46x46/friction/adjustments.png'>hicolor/46x46/friction/adjustments.png</file>
  <file alias='icons/hicolor/46x46/friction/alignment.png'>hicolor/46x46/friction/alignment.png</file>
@@ -5217,6 +5236,7 @@
  <file alias='icons/hicolor/48x48/actions/zoom_all.png'>hicolor/48x48/actions/zoom_all.png</file>
  <file alias='icons/hicolor/48x48/actions/zoom_in.png'>hicolor/48x48/actions/zoom_in.png</file>
  <file alias='icons/hicolor/48x48/actions/zoom_out.png'>hicolor/48x48/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/48x48/apps/graphics.friction.Friction.Alt.png'>hicolor/48x48/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/48x48/apps/graphics.friction.Friction.png'>hicolor/48x48/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/48x48/friction/adjustments.png'>hicolor/48x48/friction/adjustments.png</file>
  <file alias='icons/hicolor/48x48/friction/alignment.png'>hicolor/48x48/friction/alignment.png</file>
@@ -5490,6 +5510,7 @@
  <file alias='icons/hicolor/64x64/actions/zoom_all.png'>hicolor/64x64/actions/zoom_all.png</file>
  <file alias='icons/hicolor/64x64/actions/zoom_in.png'>hicolor/64x64/actions/zoom_in.png</file>
  <file alias='icons/hicolor/64x64/actions/zoom_out.png'>hicolor/64x64/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/64x64/apps/graphics.friction.Friction.Alt.png'>hicolor/64x64/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/64x64/apps/graphics.friction.Friction.png'>hicolor/64x64/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/64x64/friction/adjustments.png'>hicolor/64x64/friction/adjustments.png</file>
  <file alias='icons/hicolor/64x64/friction/alignment.png'>hicolor/64x64/friction/alignment.png</file>
@@ -5763,6 +5784,7 @@
  <file alias='icons/hicolor/96x96/actions/zoom_all.png'>hicolor/96x96/actions/zoom_all.png</file>
  <file alias='icons/hicolor/96x96/actions/zoom_in.png'>hicolor/96x96/actions/zoom_in.png</file>
  <file alias='icons/hicolor/96x96/actions/zoom_out.png'>hicolor/96x96/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/96x96/apps/graphics.friction.Friction.Alt.png'>hicolor/96x96/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/96x96/apps/graphics.friction.Friction.png'>hicolor/96x96/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/96x96/friction/adjustments.png'>hicolor/96x96/friction/adjustments.png</file>
  <file alias='icons/hicolor/96x96/friction/alignment.png'>hicolor/96x96/friction/alignment.png</file>
@@ -6036,6 +6058,7 @@
  <file alias='icons/hicolor/128x128/actions/zoom_all.png'>hicolor/128x128/actions/zoom_all.png</file>
  <file alias='icons/hicolor/128x128/actions/zoom_in.png'>hicolor/128x128/actions/zoom_in.png</file>
  <file alias='icons/hicolor/128x128/actions/zoom_out.png'>hicolor/128x128/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/128x128/apps/graphics.friction.Friction.Alt.png'>hicolor/128x128/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/128x128/apps/graphics.friction.Friction.png'>hicolor/128x128/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/128x128/friction/adjustments.png'>hicolor/128x128/friction/adjustments.png</file>
  <file alias='icons/hicolor/128x128/friction/alignment.png'>hicolor/128x128/friction/alignment.png</file>
@@ -6309,6 +6332,7 @@
  <file alias='icons/hicolor/192x192/actions/zoom_all.png'>hicolor/192x192/actions/zoom_all.png</file>
  <file alias='icons/hicolor/192x192/actions/zoom_in.png'>hicolor/192x192/actions/zoom_in.png</file>
  <file alias='icons/hicolor/192x192/actions/zoom_out.png'>hicolor/192x192/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/192x192/apps/graphics.friction.Friction.Alt.png'>hicolor/192x192/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/192x192/apps/graphics.friction.Friction.png'>hicolor/192x192/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/192x192/friction/adjustments.png'>hicolor/192x192/friction/adjustments.png</file>
  <file alias='icons/hicolor/192x192/friction/alignment.png'>hicolor/192x192/friction/alignment.png</file>
@@ -6582,6 +6606,7 @@
  <file alias='icons/hicolor/256x256/actions/zoom_all.png'>hicolor/256x256/actions/zoom_all.png</file>
  <file alias='icons/hicolor/256x256/actions/zoom_in.png'>hicolor/256x256/actions/zoom_in.png</file>
  <file alias='icons/hicolor/256x256/actions/zoom_out.png'>hicolor/256x256/actions/zoom_out.png</file>
+ <file alias='icons/hicolor/256x256/apps/graphics.friction.Friction.Alt.png'>hicolor/256x256/apps/graphics.friction.Friction.Alt.png</file>
  <file alias='icons/hicolor/256x256/apps/graphics.friction.Friction.png'>hicolor/256x256/apps/graphics.friction.Friction.png</file>
  <file alias='icons/hicolor/256x256/friction/adjustments.png'>hicolor/256x256/friction/adjustments.png</file>
  <file alias='icons/hicolor/256x256/friction/alignment.png'>hicolor/256x256/friction/alignment.png</file>
