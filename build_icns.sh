@@ -20,7 +20,7 @@
 
 set -e -x
 
-ICON=`pwd`/friction.png
+ICON=`pwd`/friction-icon-apple.png
 ICONSET=`pwd`/friction.iconset
 
 if [ -d "$ICONSET" ]; then
